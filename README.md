@@ -3,9 +3,8 @@
 Đồ án tốt nghiệp: **Xây dựng Chatbot trợ lý sinh viên BDU ứng dụng mô hình
 ngôn ngữ tiền huấn luyện kết hợp kỹ thuật RAG**.
 
-- Sinh viên: Y Thiết Mlô — MSSV 21050080, lớp 24TH01, Khoa CNTT, Robot và TTNT
-  (Viện Trí tuệ nhân tạo và Chuyển đổi số), Trường Đại học Bình Dương
-- Giảng viên hướng dẫn: ThS. Huỳnh Quang Đức
+- Trường Đại học Bình Dương — Khoa CNTT, Robot và TTNT
+  (Viện Trí tuệ nhân tạo và Chuyển đổi số)
 
 ## Dữ liệu hiện tại
 
