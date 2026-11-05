@@ -5,6 +5,24 @@ Quy tắc ghi nhật ký, theo yêu cầu ngày 05/11/2026: mỗi chi tiết ch�
 như lịch sử commit trên GitHub. Bản cũ không xóa, chỉ thêm mục mới lên đầu.
 Sau này khi kết nối GitHub, mỗi mục ở đây tương ứng với một commit.
 
+## 2026-11-05 17:09 — GitHub: xóa tên sinh viên và tên giảng viên hướng dẫn khỏi README
+- File đổi: `README.md` trên repo `ythiet-mlo003/bdu-student-assistant-chatbot`
+- Nội dung: theo yêu cầu của người dùng, không đẩy tên cá nhân lên repo công khai; đã xóa dòng tên sinh viên, MSSV, lớp và dòng tên giảng viên hướng dẫn khỏi README, chỉ giữ tên trường/khoa/viện. Kiểm tra toàn bộ 18 file đã đẩy: chỉ README chứa tên, các file còn lại không chứa.
+- Kiểm chứng: commit mới `820400d2633b8ca4b5ffffb76b72b78158b02a09`, đã đọc lại README trên nhánh `main` và không còn tên.
+- Lưu ý quan trọng: commit cũ `1b93f2b6` trong lịch sử GitHub vẫn còn bản README cũ có tên, vì GitHub giữ lại lịch sử commit. Xóa ở bản hiện tại chỉ làm sạch trang repo hiện tại, không xóa được lịch sử. Muốn xóa hẳn khỏi lịch sử thì phải xóa repo và tạo lại rồi đẩy bản sạch, hoặc viết lại lịch sử.
+
+## 2026-11-05 17:06 — GitHub: đẩy snapshot đầu tiên lên repo bdu-student-assistant-chatbot
+- Repo: `ythiet-mlo003/bdu-student-assistant-chatbot` (Public, nhánh `main`), do người dùng tự tạo lúc 17:03 cùng ngày vì kết nối Muse GitHub App không có quyền tự tạo repo (thử tạo bị từ chối 403).
+- Nội dung: 18 file text, tổng 199.061 byte — README repo mới, `NHAT-KY-CAP-NHAT.md`, bản kê và bản tóm tắt trong `docs/`, gói chia chunk v7.3.1 (script gộp, danh sách nạp, thống kê, script gốc đối chiếu, thư mục `thong-ke-va-bao-cao`).
+- Kiểm chứng: commit snapshot `1b93f2b6873938feafe0617651303f1aa5556c08` (sau commit khởi tạo `8ac6efe03ae30545a5f55516ca806aa209a76d0b` do GitHub tạo), đã đọc lại README trên repo khớp bản đẩy lên.
+- Lưu ý: đường đẩy này chỉ nhận file text tối đa 16 MB, nên file zip, file Word và file chunk đầy đủ không đẩy lên GitHub; bản đầy đủ vẫn giữ trong backup Drive.
+
+## 2026-11-05 12:18 — Gói chia chunk v7.3.1: đổi tên thư mục tai-lieu-tham-khao thành thong-ke-va-bao-cao
+- File đổi: `goi-chia-chunk-v7.3.1/thong-ke-va-bao-cao/` (tên cũ `tai-lieu-tham-khao/`), kèm README giải thích từng file trong thư mục; các chỗ nhắc tên cũ trong README gói và bản Word đã sửa theo tên mới.
+- Nội dung: tên cũ chung chung, mở ra không biết trong đó có gì; tên mới nói rõ nội dung là thống kê và báo cáo làm bằng chứng cho phương pháp (dryrun-stats, table-split-stats-v1, ghi chú kiểm toán bảng, báo cáo v7.3.1). 3 trong 4 file là số liệu thời v7.3, giữ lại để đối chiếu; thống kê chính của v7.3.1 vẫn là `chunks-v7.3.1-stats.md` ngoài thư mục này.
+- Kiểm chứng: số liệu chunk không đổi (13.815).
+- Đồng bộ Drive: đã cập nhật zip, giữ nguyên link; zip mới 9.736.224 byte.
+
 ## 2026-11-05 12:01 — Gói chia chunk v7.3.1: sửa phần đầu file Word theo mẫu tiêu đề hành chính
 - File đổi: `goi-chia-chunk-v7.3.1/01-Ban-trinh-bay-chia-chunk-v7.3.1.docx`, `goi-chia-chunk-v7.3.1.zip`
 - Nội dung: phần đầu Word làm theo dạng tiêu đề hành chính — hai cột không viền, bên trái TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG / VIỆN TRÍ TUỆ NHÂN TẠO VÀ CHUYỂN ĐỔI SỐ, bên phải CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM / Độc lập - Tự do - Hạnh phúc; bỏ bảng thông tin phần đầu cũ, thay bằng các dòng thông tin. Từ mục 1 trở đi và các bảng số liệu bên trong giữ nguyên.
