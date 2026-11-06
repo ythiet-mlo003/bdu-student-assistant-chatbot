@@ -1,0 +1,18 @@
+{
+  "chunks_before": 13021,
+  "chunks_after": 13958,
+  "table_chunks_before": 425,
+  "table_chunks_after": 1362,
+  "tables_split": 210,
+  "chunks_over_1200_before": 463,
+  "chunks_over_1200_after": 464,
+  "chunks_over_5000_before": 67,
+  "chunks_over_5000_after": 2,
+  "max_chunk_chars_before": 65302,
+  "max_chunk_chars_after": 6174,
+  "tables_row_lookup_count_mismatch": 21,
+  "invariant_violations": 0,
+  "table_subchunks_over_1200": 211,
+  "table_subchunks_over_2000": 87,
+  "table_subchunks_over_5000": 2
+}
