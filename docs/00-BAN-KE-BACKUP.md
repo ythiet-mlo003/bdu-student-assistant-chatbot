@@ -4,14 +4,14 @@ Ngày backup: 2026-11-04
 Thư mục gốc trên Drive: Do-an-chatbot-BDU-backup
 
 ## Bản mới nhất để dùng tiếp
-- Dữ liệu text: v7.3.1 — 1.560 file, 1.313 file ingest-ready
-- Chunk: chunks-v7.3.1.jsonl — 13.815 dòng (tăng đúng +6 so với v7.3, toàn bộ từ file bảng điểm trúng tuyển Khóa 29)
-- Bản v7.3 cũ vẫn giữ nguyên, không ghi đè: chunks-v7.3.jsonl — 13.809 dòng
+- Dữ liệu text: v7.3.1 — 1.560 file, 1.313 file ingest-ready (dữ liệu không đổi)
+- Chunk: chunks-v7.3.2.jsonl — 13.953 dòng (cắt theo ranh giới câu trên dữ liệu v7.3.1, 0 điểm cắt giữa một từ)
+- Các bản cũ vẫn giữ nguyên, không ghi đè: chunks-v7.3.1.jsonl — 13.815 dòng (cắt cứng), chunks-v7.3.jsonl — 13.809 dòng
 
 ## Cấu trúc
 - 01-data-text/: các bản zip data-text theo phiên, từ v2 đến v7.3.1
-- 02-chunks/: file chunk đầy đủ v7.3 và v7.3.1
-- 03-goi-trinh-bay/: gói chia chunk v7.3, v7.3.1; gói chạy tuần 5; gói tổng hợp tuần 5
+- 02-chunks/: file chunk đầy đủ v7.3, v7.3.1 và v7.3.2
+- 03-goi-trinh-bay/: gói chia chunk v7.3, v7.3.1, v7.3.2; gói chạy tuần 5; gói tổng hợp tuần 5
 - 04-bao-cao-va-chuong-3/: báo cáo các phiên v7.x và dự thảo Chương 3 (3.1-3.3, 3.6.1-3.6.6)
 
 ## Cập nhật ngày 2026-11-05
@@ -22,6 +22,7 @@ Thư mục gốc trên Drive: Do-an-chatbot-BDU-backup
 - GitHub ngày 05/11/2026, 17:06: snapshot đầu tiên (18 file text) đã đẩy lên repo `ythiet-mlo003/bdu-student-assistant-chatbot` (Public, nhánh `main`), commit `1b93f2b6873938feafe0617651303f1aa5556c08`. File zip, Word và chunk đầy đủ không đẩy lên GitHub, vẫn giữ trong backup Drive này.
 - GitHub ngày 05/11/2026, 17:09: đã xóa tên sinh viên và tên giảng viên hướng dẫn khỏi README trên repo (commit `820400d2633b8ca4b5ffffb76b72b78158b02a09`); nhật ký cập nhật đã ghi việc này (commit `8c750f7f44855140e635f4c376fe011c80fd4429`). Lưu ý: lịch sử commit cũ vẫn còn bản README cũ có tên, muốn xóa hẳn khỏi lịch sử phải xóa repo và tạo lại.
 - GitHub ngày 06/11/2026, 13:23: đã đẩy toàn bộ file text data v7.3.1 (1.564 file, 17.706.220 byte, chia 5 lần đẩy vì lần 13,5 MB bị từ chối HTTP 413) và bản Word trình bày chia chunk dạng Markdown lên repo, tên tuổi trong data giữ nguyên; file zip, Word gốc và chunk đầy đủ vẫn chỉ giữ trong backup Drive.
+- Cập nhật ngày 06/11/2026, 13:54 (v7.3.2): `goi-chia-chunk-v7.3.2.zip` 14.190.864 byte đã đẩy lên `03-goi-trinh-bay/`; `chunks-v7.3.2.jsonl` 23.312.482 byte (13.953 dòng) đã đẩy lên `02-chunks/`; cả hai đã đối chiếu dung lượng khớp bản local. File text mới của gói (script, thống kê, báo cáo cắt theo câu, bản Word dạng Markdown) đã đẩy lên GitHub, commit `20748a1b41db294a67ab0f4e30c235725836bc2d`. Dữ liệu gốc vẫn v7.3.1, không đổi.
 
 ## Lưu ý phân biệt phiên
 - Chỉ kiểm tra tên file kết thúc bằng v7.3.1, không phân biệt hai file zip gói chia chunk bằng dung lượng vì cả hai đều 9,3 MB.

@@ -5,6 +5,12 @@ Quy tắc ghi nhật ký, theo yêu cầu ngày 05/11/2026: mỗi chi tiết ch�
 như lịch sử commit trên GitHub. Bản cũ không xóa, chỉ thêm mục mới lên đầu.
 Sau này khi kết nối GitHub, mỗi mục ở đây tương ứng với một commit.
 
+## 2026-11-06 13:54 — Cập nhật v7.3.2: cắt chunk theo ranh giới câu (13.953 chunk)
+- File đổi: gói mới `goi-chia-chunk-v7.3.2.zip` (14.190.864 byte) và `chunks-v7.3.2.jsonl` (13.953 dòng, 23.312.482 byte) đã đẩy lên Drive (thư mục `03-goi-trinh-bay/` và `02-chunks/`); file text mới của gói (script, thống kê, báo cáo cắt theo câu, bản Word dạng Markdown) đã đẩy lên GitHub, commit `20748a1b41db294a67ab0f4e30c235725836bc2d`.
+- Nội dung: dữ liệu gốc vẫn là v7.3.1, không đổi (1.560 file, 1.313 file ingest-ready). Cách cắt đổi từ cắt cứng sang cắt theo câu: tổng chunk 13.815 → 13.953 (+138), điểm cắt giữa một từ 1.651 → 0, chunk trên 1.200 ký tự 587 → 458; phần cắt bảng giữ nguyên. Mốc BM25 chạy lại cho hạng giống hệt bản cũ trên 19 câu. Gói v7.3.1 và file chunk v7.3.1 giữ nguyên, không ghi đè.
+- Kiểm chứng: file chunk 13.953 dòng, nội dung không mất chữ (1.136 file không chứa bảng ghép lại đúng bài gốc); script gộp chạy từ bản giải nén cho ra file chunk giống hệt từng byte; zip trên Drive và file jsonl trên Drive đã đối chiếu dung lượng khớp bản local.
+- Lưu ý: bản Word v7.3.2 ghi "Phiên bản dữ liệu: v7.3.1" và "Phiên bản chia chunk: v7.3.2 — cắt theo ranh giới câu" để không lẫn với phiên bản dữ liệu.
+
 ## 2026-11-06 13:23 — GitHub: đẩy toàn bộ file text data v7.3.1 và bản Word dạng Markdown
 - File đổi: thêm thư mục `data-text-v7.3.1/` (1.564 file, 17.706.220 byte) và `goi-chia-chunk-v7.3.1/01-Ban-trinh-bay-chia-chunk-v7.3.1.md` (bản text của file Word trình bày chia chunk) lên repo `ythiet-mlo003/bdu-student-assistant-chatbot`; cập nhật `README.md` để trỏ tới hai thư mục này.
 - Nội dung: theo yêu cầu của người dùng, tên tuổi trong data giữ nguyên (4 file nhắc tên giảng viên với vai trò giảng viên/cán bộ trường trong dữ liệu công khai vẫn giữ nguyên); bản Word đẩy lên dạng Markdown, thông tin sinh viên và giảng viên hướng dẫn đã ẩn theo quy tắc repo công khai.
