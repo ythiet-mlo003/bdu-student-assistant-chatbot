@@ -1,0 +1,43 @@
+TIÊU ĐỀ: Hướng dẫn xác nhận nhập học trên Cổng thông tin của Bộ Giáo dục & Đào tạo
+NGUỒN: https://tuyensinh.bdu.edu.vn/thong-bao-tuyen-sinh/huong-dan-xac-nhan-nhap-hoc-tren-cong-thong-tin-cua-bo-giao-duc-dao-tao-182.html
+SITE: tuyensinh
+MỤC: groups
+NGÀY BÀI: 2022-09-17
+NĂM: 2022
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Hướng dẫn xác nhận nhập học trên Cổng thông tin của Bộ Giáo dục & Đào tạo
+
+Thứ bảy - 17/09/2022 06:27
+
+Chi tiết thực hiện các bước
+
+Bước 1: Đăng nhập
+
+Truy cập vào website http://thisinh.thitotnghiepthpt.edu.vn (http://thisinh.thitotnghiepthpt.edu.vn)
+
+Nhập các thông tin Số CMND, Mã đăng nhập, Mã xác nhận và nhấn nút Đăng nhập
+
+Bước 2: Vào menu Tra cứu kết quả xét tuyển sinh từ menu Tra cứu
+
+Bước 3: Xem kết quả xét tuyển
+
+Mỗi trường mà thí sinh đăng ký xét tuyển chỉ có 1 kết quả là Đỗ hoặc Trượt.
+
+Nếu kết quả là Trượt có nghĩa là thí sinh trượt tất cả các nguyện vọng đã đăng ký vào trường.
+
+Bước 4: Xác nhận nhập học
+
+Đối với nguyện vọng đỗ thí sinh có quyền xác nhận nhập học. Để xác nhận nhập học thí sinh nhấn nút Xác nhận nhập học như hình dưới.
+
+Bước 5: Nhấn Đồng ý để hoàn thành việc xác nhận nhập học.
+
+Bước 6: Kiểm tra lại trạng thái Đã nhập học
+
+Trạng thái thông tin của thí sinh “Đã nhập học” nghĩa là thí sinh đã xác nhận nhập học thành công và trường Đại học đã nhận được thông tin xác nhận nhập học của thí sinh. Khi đã xác nhận nhập học xong, thí sinh sẽ không được Hủy xác nhận nhập học, nếu muốn Hủy xác nhận nhập học phải liên hệ với trường Đại học đó để được giải quyết.
+
+Bùi Hường – Ban Tuyển sinh

@@ -1,0 +1,101 @@
+TIÊU ĐỀ: Chiêu sinh các khóa đào tạo ngắn hạn ngành Quản trị kinh doanh dành cho Sinh viên
+NGUỒN: https://tuyensinh.bdu.edu.vn/dao-tao-ngan-han/chieu-sinh-cac-khoa-dao-tao-ngan-han-nganh-quan-tri-kinh-doanh-danh-cho-sinh-vien-571.html
+SITE: tuyensinh
+MỤC: dao-tao-ngan-han
+NGÀY BÀI: 2026-01-06
+NĂM: 2026
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Chiêu sinh các khóa đào tạo ngắn hạn ngành Quản trị kinh doanh dành cho Sinh viên
+
+Thứ ba - 06/01/2026 04:21
+
+1️⃣ Mục tiêu chương trình:
+
+Chương trình nhằm trang bị cho người học kiến thức và kỹ năng thực tiễn về quản trị, điều hành và kỹ năng nghề nghiệp; góp phần nâng cao năng lực làm việc, khả năng thích ứng và cạnh tranh trên thị trường lao động, đáp ứng nhu cầu bồi dưỡng, phát triển nguồn nhân lực của các doanh nghiệp và đơn vị sử dụng lao động.
+
+2️⃣ Đối tượng tuyển sinh:
+
+➖ Sinh viên đang học tại Trường Đại học Bình Dương: Thuộc Khoa Kinh tế và các ngành đào tạo khác của Trường có nhu cầu bổ sung kiến thức, kỹ năng về quản trị, kỹ năng mềm và hành chính văn phòng.
+
+3️⃣ Thông tin các khóa đào tạo:
+
+(Đơn vị tính: đồng)
+
+[BẢNG — (Đơn vị tính: đồng)]
+| TT | Mã lớp | Tên khóa học | Học phí dự kiến | Số giờ đào tạo |
+| --- | --- | --- | --- | --- |
+| Đối tượng chiêu sinh: Sinh viên | Đối tượng chiêu sinh: Sinh viên | Đối tượng chiêu sinh: Sinh viên | Đối tượng chiêu sinh: Sinh viên | Đối tượng chiêu sinh: Sinh viên |
+| 1 | QT01 | Kỹ năng làm việc chuyên nghiệp và hành chính văn phòng | 1.200.000 | 32 |
+| 2 | QT02 | Kỹ năng giao tiếp, thuyết trình và làm việc nhóm | 1.200.000 | 32 |
+| 3 | QT03 | Tư duy quản trị và giải quyết vấn đề trong kinh doanh | 1.200.000 | 32 |
+| 4 | QT04 | Quản trị dự án cơ bản cho sinh viên | 1.200.000 | 32 |
+| 5 | QT05 | Ứng dụng AI trong học tập Đại học | 1.200.000 | 32 |
+| 6 | QT06 | Phương pháp nghiên cứu khoa học ngành xã hội, kinh tế | 1.200.000 | 32 |
+| 7 | QT07 | Các khóa học về Kỹ năng, Tin học văn phòng (linh hoạt) | - | - |
+[DẠNG TRA CỨU]
+- Đối tượng chiêu sinh: Sinh viên: Mã lớp = Đối tượng chiêu sinh: Sinh viên; Tên khóa học = Đối tượng chiêu sinh: Sinh viên; Học phí dự kiến = Đối tượng chiêu sinh: Sinh viên; Số giờ đào tạo = Đối tượng chiêu sinh: Sinh viên
+- 1: Mã lớp = QT01; Tên khóa học = Kỹ năng làm việc chuyên nghiệp và hành chính văn phòng; Học phí dự kiến = 1.200.000; Số giờ đào tạo = 32
+- 2: Mã lớp = QT02; Tên khóa học = Kỹ năng giao tiếp, thuyết trình và làm việc nhóm; Học phí dự kiến = 1.200.000; Số giờ đào tạo = 32
+- 3: Mã lớp = QT03; Tên khóa học = Tư duy quản trị và giải quyết vấn đề trong kinh doanh; Học phí dự kiến = 1.200.000; Số giờ đào tạo = 32
+- 4: Mã lớp = QT04; Tên khóa học = Quản trị dự án cơ bản cho sinh viên; Học phí dự kiến = 1.200.000; Số giờ đào tạo = 32
+- 5: Mã lớp = QT05; Tên khóa học = Ứng dụng AI trong học tập Đại học; Học phí dự kiến = 1.200.000; Số giờ đào tạo = 32
+- 6: Mã lớp = QT06; Tên khóa học = Phương pháp nghiên cứu khoa học ngành xã hội, kinh tế; Học phí dự kiến = 1.200.000; Số giờ đào tạo = 32
+- 7: Mã lớp = QT07; Tên khóa học = Các khóa học về Kỹ năng, Tin học văn phòng (linh hoạt)
+[/BẢNG]
+
+🔰 Quy mô lớp: Tối đa 15 học viên/lớp.
+
+🔰 Hình thức học: Trực tiếp kết hợp trực tuyến.
+
+4️⃣ Địa điểm, thời gian tổ chức:
+
+a) Địa điểm: Trường Đại học Bình Dương (Số 504 Đại lộ Bình Dương, phường Phú Lợi, Thành phố Hồ Chí Minh).
+
+b) Thời gian học: Thời khóa biểu cụ thể sẽ được thông báo khi tổ chức khai giảng, dự kiến:
+
+Buổi tối từ thứ Hai đến thứ Sáu (từ 18h00 đến 21h00);
+
+Thứ Bảy và Chủ nhật: Sáng: từ 08h00 đến 11h00; Chiều: từ 13h30 đến 16h30.
+
+c) Thời gian khai giảng: Khi đủ số lượng học viên theo quy định; Nhà trường sẽ thông báo cụ thể đối với từng khóa học.
+
+5️⃣ Chính sách ưu đãi:
+
+➖ Giảm 10%: Cựu sinh viên đã tốt nghiệp Đại học, Cao học của Nhà trường (không tính tốt nghiệp các khóa ngắn hạn).
+
+➖ Giảm 05%: Đăng ký cùng lúc 03 học viên (tính trên tổng học phí).
+
+➖ Giảm 05%: Đăng ký sớm trước thời hạn quy định (căn cứ thông báo).
+
+(*) Mỗi học viên chỉ được áp dụng 01 mức ưu đãi cao nhất.
+
+6️⃣ Hình thức nộp học phí: Chuyển khoản
+
+🏦 Tên tài khoản: Trường Đại học Bình Dương
+
+💳 Số tài khoản: 8603931959
+
+📍 Ngân hàng: Đầu tư và Phát triển Việt Nam (BIDV) – Chi nhánh Bình Dương.
+
+📝 Nội dung chuyển khoản: Họ và tên, Số điện thoại, Lệ phí lớp (Mã lớp).
+
+Ví dụ: Nguyen Van A, 0909123456, Le phi lop QT01
+
+⚠️ Lưu ý:
+
+Trường hợp học viên thôi học vì bất kỳ lý do nào, học phí đã nộp sẽ không được hoàn trả.
+
+📌 Mọi thông tin chi tiết xin liên hệ:
+
+✔️ Phòng Tuyển sinh - Trường Đại học Bình Dương Số 504 Đại lộ Bình Dương, Phường Phú Lợi, Thành phố Hồ Chí Minh.
+
+✔️ Hotline Phòng Tuyển sinh: 0789.269.219 (Zalo) - (0274) 7303399
+
+✔️ Zalo OA: https://zalo.me/daihocbinhduong (https://zalo.me/daihocbinhduong)
+
+✔️ Thông tin chi tiết xem tại website: https://tuyensinh.bdu.edu.vn (https://tuyensinh.bdu.edu.vn)

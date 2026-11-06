@@ -1,0 +1,123 @@
+TIÊU ĐỀ: Thông báo khai giảng khóa học CISCO CCNA tại Đại học Bình Dương
+NGUỒN: https://tuyensinh.bdu.edu.vn/dao-tao-ngan-han/thong-bao-khai-giang-khoa-hoc-cisco-ccna-tai-dai-hoc-binh-duong-352.html
+SITE: tuyensinh
+MỤC: dao-tao-ngan-han
+NGÀY BÀI: 2021-03-15
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: partial — Nội dung trích chưa đầy đủ
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+
+
+
+[NỘI DUNG ẢNH TRONG BÀI — OCR]
+
+MEETING INTERNATIONAL EDUCATION A ACCREDITATION STANDARDS:
+
+BINEIDUONGES oO
+@ IÚNIWCRSIIYA - TOP 100 |
+
+THO! GIAN HỌC: DANG KY TRUGC |:
+tối 3 - 5 - 7 từ 18h00 - 20h00 20/03/2021 B
+
+Giảm %25 sinh viên, cựu sinh viên, học viên cao học BDU:
+Sau khi hoàn thành 3 Semester của chương trình, sinh viên sẽ được tặng 1 Voucher giảm giá %60 : :
+khi thi chúng chi CCNA quốc tế.
+Semester 1: Giới thiệu về mạng máy tính
+
+Semester 2: Chuyển mạch, định tuyến và không dây
+Semester 3: Mạng doanh nghiệp, bảo mật và tự động hóa
+
+a
+Link dang ky: https://forms.gle/9rFZVCsuTD4sbseZ6 » fb Tủ
+
+[NỘI DUNG ẢNH TRONG BÀI — OCR]
+
+Cấu hình các thiết bị chuyển và thiết bị
+đầu cuối 6 saan ob coke tor ote ta bì
+onan và cục bộ
+
+=yLr-TrrErser-srark-eleráe
+
+và dil liệu hỗ trợ hoạt động của Ethernet
+mang chuyến mạch.
+
+Cấu hình bệ định tuyến dé cho phép kết nối đầu
+cuối giữa các thiết bi từ xa.
+
+pole Ll lah as
+
+Gial thích cách các lớp trên của mô hình OS!
+hỗ trợ các ứng dụng mạng.
+
+Cấu hình mì § nhỏ với
+là mã. Kite tome sự sẽ nối trong một
+
+tiến bảo mat |
+
+Semester II: Chuyển mạch, định tuyến và
+không dây
+
+Cấu hình Vian và định inter-Vian áp dụng các
+tp tin ro mà Vì hư" : }
+
+Khắc phục sự cố định tuyến giữa các Vian trên các
+thiết bị Lớp 3.
+
+Cấu hình dự phòng trên mạng chuyển đổi bằng STP
+và EtherChannel.
+
+Khác bran 7 sự cố EtherChannel trên các mạng
+ee ee ee dang
+tin cậy bằng cách sử dụng địa chỉ động và các gia0
+thúc dự phòng ban đầu.
+
+Cấu hình phân hố địa chi động trong mạng IPv6.
+
+Cấu hình WLAN bằng cách sử d tiễn
+tất nhất về bảo mật WL và lớp 2 sec)
+
+Cấu hình hảo mật chuyển đối để giảm thiếu các
+cuộc lấn công LAN.
+
+Cấu hình định tuyến tinh IPv4 và IPv6 trên bộ định
+tuyến.
+
+cấp hint lao thức OSPF¥2 don vùi
+điỂn-đền va da điển. Big
+
+ee
+cường bảo mật mang bằng cách sử nh lege
+kiểm soát truy cập và các hình thức thực tiễn hảo
+mật tốt nhất.
+
+Thực hiện danh sách kiểm soát truy cập tiêu chuẩn
+để lục Iu lượng và truy cập quản trị an tuàn.
+
+Cấu hình dịch vụ NAT trên bộ đỉnh tuyến biên để
+cung cấp khả năng mử rộng địa chỉ IPva.
+
+Biải thích các kỹ thuật đê cung cấp khả năng mé '
+
+rộng dia chỉ và truy nhập tử xa an tan cho các
+mang WAN.
+
+giải thích cách tối ưu hóa, giám sát và khắc
+sự cố kiến trúc mạng có thể mở rộng. -
+
+Giải thích cách các thiệt bi mạng thực hiện chất
+eS oe Thee bige các dua hóc để
+
+BINH DUONG NETWORKING ACADEM Y, Vuot Qua Ky Th
+ð Chúc Để Nhận Chúng Chi CCNA, Co Gia Trị Toàn Cau
+
+@) bdu.edu.vn
+
+follow NN
+
+“NX
+
+Binh on

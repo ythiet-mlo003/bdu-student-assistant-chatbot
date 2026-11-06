@@ -1,0 +1,105 @@
+TIÊU ĐỀ: Thông báo tuyển sinh Đại học chính quy năm 2022
+NGUỒN: https://tuyensinh.bdu.edu.vn/dai-hoc-chinh-quy/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-174.html
+SITE: tuyensinh
+MỤC: groups
+NGÀY BÀI: 2022-07-06
+NĂM: 2022
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Thông báo tuyển sinh Đại học chính quy năm 2022
+
+Thứ tư - 06/07/2022 06:49
+
+Hội đồng tuyển sinh Đại học năm 2022 Trường Đại học Bình Dương thông báo tuyển sinh Đại học chính quy năm 2022, cụ thể như sau:
+
+Tên trường: Trường Đại học Bình Dương
+
+Mã tuyển sinh: DBD
+
+1️⃣ Đối tượng tuyển sinh:
+
+Thí sinh đã tốt nghiệp THPT hoặc tương đương từ năm 2021 trở về trước;
+
+Thí sinh đang học lớp 12 các trường THPT hoặc tương đương.
+
+(*) Thí sinh được công nhận trúng tuyển khi tốt nghiệp THPT hoặc tương đương.
+
+2️⃣ Phạm vi tuyển sinh: Tuyển sinh trong phạm vi cả nước
+
+3️⃣ Phương thức tuyển sinh dự kiến:
+
+Phương thức 1: Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2022. Phương thức 2: Xét tuyển dựa vào kết quả thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh năm 2022; Phương thức 3: Xét tuyển dựa vào kết quả học tập 3 năm lớp 10,11,12 (xét theo học bạ). Phương thức 4: Xét tuyển dựa vào kết quả học tập năm lớp 12 (xét theo học bạ). Phương thức 5: Xét tuyển dựa vào điểm trung bình cao nhất các môn học của học kỳ 1,2 lớp 10, kỳ 1,2 lớp 11, kỳ 1 lớp 12 (xét theo học bạ THPT-5HK). Phương thức 6: Thi tuyển đầu vào do Trường Đại học Bình Dương tổ chức.
+
+4️⃣ Chỉ tiêu:1577 chỉ tiêu Đại học chính quy.
+
+5️⃣ Ngành tuyển sinh:
+
+[BẢNG — 5️⃣ Ngành tuyển sinh:]
+| STT | Ngành học | Mã ngành | Tổ hợp xét | Cơ sở đào tạo |
+| --- | --- | --- | --- | --- |
+| 1 | Giáo dục thể chất | 7140206 | T00,T03,T05,T08 | Cơ sở chính |
+| 2 | Kế toán | 7340301 | A01,A09,C00,D01 | Cơ sở chính, Phân hiệu |
+| 3 | Tài chính - Ngân hàng | 7340201 | A01,A09,C00,D01 | Cơ sở chính, Phân hiệu |
+| 4 | Luật Kinh tế | 7380107 | A01,A09,C00,D01 | Cơ sở chính, Phân hiệu |
+| 5 | Quản trị kinh doanh | 7340101 | A01,A09,C00,D01 | Cơ sở chính, Phân hiệu |
+| 6 | Công nghệ sinh học | 7420201 | A00,A09,B00,D01 | Cơ sở chính |
+| 7 | Công nghệ thực phẩm | 7540101 | A00,A09,B00,D07 | Cơ sở chính, Phân hiệu |
+| 8 | Logistics và Quản lý chuỗi cung ứng | 7510605 | A00,A09,C00,D01 | Cơ sở chính, Phân hiệu |
+| 9 | Công nghệ thông tin | 7480201 | A00,A09,D01,K01 | Cơ sở chính, Phân hiệu |
+| 10 | Công nghệ kỹ thuật điện, điện tử | 7510301 | A00,A02,A09,D01 | Cơ sở chính |
+| 11 | Công nghệ kỹ thuật công trình xây dựng | 7510102 | A00,A09,V00,V01 | Cơ sở chính, Phân hiệu |
+| 12 | Kiến trúc | 7580101 | A00,A09,V00,V01 | Cơ sở chính |
+| 13 | Công nghệ kỹ thuật ô tô | 7510205 | A00,A01,A02,A09 | Cơ sở chính |
+| 14 | Dược học | 7720201 | A00,B00,C08,D07 | Cơ sở chính |
+| 15 | Hàn quốc học | 7310614 | A01,A09,C00,D15 | Cơ sở chính, Phân hiệu |
+| 16 | Nhật bản học | 7310613 | A01,A09,C00,D15 | Cơ sở chính |
+| 17 | Ngôn ngữ Anh | 7220201 | A01,D01,D10,D66 | Cơ sở chính, Phân hiệu |
+| 18 | Việt Nam học | 7310630 | A01,A09,C00,D01 | Cơ sở chính, Phân hiệu |
+[DẠNG TRA CỨU]
+- 1: Ngành học = Giáo dục thể chất; Mã ngành = 7140206; Tổ hợp xét = T00,T03,T05,T08; Cơ sở đào tạo = Cơ sở chính
+- 2: Ngành học = Kế toán; Mã ngành = 7340301; Tổ hợp xét = A01,A09,C00,D01; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 3: Ngành học = Tài chính - Ngân hàng; Mã ngành = 7340201; Tổ hợp xét = A01,A09,C00,D01; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 4: Ngành học = Luật Kinh tế; Mã ngành = 7380107; Tổ hợp xét = A01,A09,C00,D01; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 5: Ngành học = Quản trị kinh doanh; Mã ngành = 7340101; Tổ hợp xét = A01,A09,C00,D01; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 6: Ngành học = Công nghệ sinh học; Mã ngành = 7420201; Tổ hợp xét = A00,A09,B00,D01; Cơ sở đào tạo = Cơ sở chính
+- 7: Ngành học = Công nghệ thực phẩm; Mã ngành = 7540101; Tổ hợp xét = A00,A09,B00,D07; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 8: Ngành học = Logistics và Quản lý chuỗi cung ứng; Mã ngành = 7510605; Tổ hợp xét = A00,A09,C00,D01; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 9: Ngành học = Công nghệ thông tin; Mã ngành = 7480201; Tổ hợp xét = A00,A09,D01,K01; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 10: Ngành học = Công nghệ kỹ thuật điện, điện tử; Mã ngành = 7510301; Tổ hợp xét = A00,A02,A09,D01; Cơ sở đào tạo = Cơ sở chính
+- 11: Ngành học = Công nghệ kỹ thuật công trình xây dựng; Mã ngành = 7510102; Tổ hợp xét = A00,A09,V00,V01; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 12: Ngành học = Kiến trúc; Mã ngành = 7580101; Tổ hợp xét = A00,A09,V00,V01; Cơ sở đào tạo = Cơ sở chính
+- 13: Ngành học = Công nghệ kỹ thuật ô tô; Mã ngành = 7510205; Tổ hợp xét = A00,A01,A02,A09; Cơ sở đào tạo = Cơ sở chính
+- 14: Ngành học = Dược học; Mã ngành = 7720201; Tổ hợp xét = A00,B00,C08,D07; Cơ sở đào tạo = Cơ sở chính
+- 15: Ngành học = Hàn quốc học; Mã ngành = 7310614; Tổ hợp xét = A01,A09,C00,D15; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 16: Ngành học = Nhật bản học; Mã ngành = 7310613; Tổ hợp xét = A01,A09,C00,D15; Cơ sở đào tạo = Cơ sở chính
+- 17: Ngành học = Ngôn ngữ Anh; Mã ngành = 7220201; Tổ hợp xét = A01,D01,D10,D66; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+- 18: Ngành học = Việt Nam học; Mã ngành = 7310630; Tổ hợp xét = A01,A09,C00,D01; Cơ sở đào tạo = Cơ sở chính, Phân hiệu
+[/BẢNG]
+
+✔ Dự kiến phân bổ chỉ tiêu xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT chiếm 30% chỉ tiêu/ngành. ✔ Thí sinh đăng ký xét tuyển khối V00, V01 dự thi môn Vẽ mỹ thuật tại Trường Đại học Bình Dương (môn năng khiếu hệ số 2). ✔ Thí sinh đăng ký xét tuyển tổ hợp T00, T03, T05, T08 dự thi môn Năng khiếu TDTT (bật xa tại chỗ và chạy 100m) tại Trường Đại học Bình Dương (môn năng khiếu hệ số 2).
+
+6️⃣ Thời gian và hồ sơ tuyển sinh:
+
+6️⃣.1️⃣Thời gian tuyển sinh:
+
+Đợt 1: Từ ngày 01/03/2022 đến ngày 31/7/2022. Đợt 2: Từ ngày 01/8/2022 đến ngày 30/9/2022. Đợt 3: Từ ngày 01/10/2022 đến ngày 31/10/2022. Đợt 4: Từ ngày 01/11/2022 đến ngày 30/11/2022. Đợt 5: Từ ngày 01/12/2022 đến ngày 22/12/2022.
+
+6️⃣.2️⃣Hồ sơ tuyển sinh: Thí sinh xem chi tiết tại website https://ttan.bdu.edu.vn/index.php/ho-so/ho-so-xet-tuyen-dai-hoc-chinh-quy-2023-193.html (https://ttan.bdu.edu.vn/index.php/ho-so/ho-so-xet-tuyen-dai-hoc-chinh-quy-2023-193.html)
+
+7️⃣ Cách thức nộp hồ sơ: Thí sinh nộp hồ sơ trực tiếp tại Trường hoặc chuyển phát nhanh qua địa chỉ sau:
+
+7️⃣.1️⃣ Tỉnh Bình Dương (cơ sở chính): PHÒNG TUYỂN SINH – TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG, Số 504 Đại lộ Bình Dương, Phường Hiệp Thành, Tp. Thủ Dầu Một, Tỉnh Bình Dương; Điện thoại: (0274) 3822 058 - 3870 260 - 730 3399; Hotline: 0963.012.116 – 0933.912.339
+
+7️⃣.2️⃣ Tỉnh Cà Mau (Phân hiệu): PHÂN HIỆU TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG - CÀ MAU; Địa chỉ: Số 3, Đường Lê Thị Riêng, Phường 5, Tp. Cà Mau, Tỉnh Cà Mau; Điện thoại: (0290) 3552177 – 3997777 – 3683999
+
+8️⃣ Một số thông tin liên quan khác:
+
+️🔔 Trong năm 2022, Trường Đại học Bình Dương dành các suất học bổng cho thí sinh tham gia trúng tuyển và hoàn tất thủ tục nhập học năm 2022, gồm các học bổng sau: 🏅 Học bổng khuyến khích học ngoại ngữ. ️🏅 Học bổng hỗ trợ cộng đồng do dịch Covid. ️🏅 Học bổng 15 ngành mũi nhọn 🏅 Học bổng thành tựu vượt trội. 🏅 Học bổng gia đình BDU. 🏅 Học bổng phát triển tài năng BDU.
+
+🔔Thí sinh tham gia xét tuyển ngoài nộp hồ sơ trực tiếp tại Trường hoặc chuyển phát nhanh hồ sơ về Trường, thí sinh có thể thực hiện xét tuyển trực tuyến (online) tại địa chỉ https://xettuyenonline.bdu.edu.vn/ (https://xettuyenonline.bdu.edu.vn/) (Hội đồng tuyển sinh thông báo kết quả xét online trực tiếp đến thí sinh thông qua thông tin thí sinh cung cấp khi thực hiện xét trực tuyến). Đồng thời thí sinh cần đăng ký xét tuyển nguyện vọng trên cổng thông tin của Bộ Giáo dục và Đào tạo.
+
+🌀Thông tin tuyển sinh của Nhà trường được cập nhật thường xuyên tại Website: https://.bdu.edu.vn (https://.bdu.edu.vn) - https://tuyensinh.bdu.edu.vn/ (https://tuyensinh.bdu.edu.vn/) - https://camau.bdu.edu.vn/ (https://camau.bdu.edu.vn/)

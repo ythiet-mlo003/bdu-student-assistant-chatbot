@@ -1,0 +1,101 @@
+TIÊU ĐỀ: Chiêu sinh các khóa đào tạo ngắn hạn ngành Quản trị kinh doanh dành cho Cựu sinh viên và Người đi làm
+NGUỒN: https://tuyensinh.bdu.edu.vn/dao-tao-ngan-han/chieu-sinh-cac-khoa-dao-tao-ngan-han-nganh-quan-tri-kinh-doanh-danh-cho-cuu-sinh-vien-va-nguoi-di-lam-569.html
+SITE: tuyensinh
+MỤC: dao-tao-ngan-han
+NGÀY BÀI: 2026-01-05
+NĂM: 2026
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Chiêu sinh các khóa đào tạo ngắn hạn ngành Quản trị kinh doanh dành cho Cựu sinh viên và Người đi làm
+
+Thứ hai - 05/01/2026 03:56
+
+1️⃣ Mục tiêu chương trình:
+
+Chương trình nhằm trang bị cho người học kiến thức và kỹ năng thực tiễn về quản trị, điều hành và kỹ năng nghề nghiệp; góp phần nâng cao năng lực làm việc, khả năng thích ứng và cạnh tranh trên thị trường lao động, đáp ứng nhu cầu bồi dưỡng, phát triển nguồn nhân lực của các doanh nghiệp và đơn vị sử dụng lao động.
+
+2️⃣ Đối tượng tuyển sinh:
+
+➖ Cựu sinh viên Trường Đại học Bình Dương: Bao gồm cựu sinh viên mới tốt nghiệp (0–5 năm kinh nghiệm) có nhu cầu hoàn thiện kỹ năng làm việc chuyên nghiệp, kỹ năng quản trị tuyến đầu; và cựu sinh viên đã đi làm (trên 5 năm kinh nghiệm) có nhu cầu cập nhật, nâng cao năng lực quản trị đội nhóm, quản trị dự án, quản trị hành chính – văn phòng.
+
+➖ Học viên tự do ngoài Trường: Cá nhân đang làm việc tại doanh nghiệp, tổ chức có nhu cầu bồi dưỡng kỹ năng quản trị, kỹ năng mềm và hành chính văn phòng; ưu tiên quản lý tuyến đầu, nhân viên khối văn phòng và nhân sự trẻ tại các doanh nghiệp đối tác của Trường.
+
+3️⃣ Thông tin các khóa đào tạo:
+
+(Đơn vị tính: đồng)
+
+[BẢNG — (Đơn vị tính: đồng)]
+| TT | Mã lớp | Tên khóa học | Học phí dự kiến | Số giờ đào tạo |
+| --- | --- | --- | --- | --- |
+| Đối tượng chiêu sinh: Cựu sinh viên, người đi làm | Đối tượng chiêu sinh: Cựu sinh viên, người đi làm | Đối tượng chiêu sinh: Cựu sinh viên, người đi làm | Đối tượng chiêu sinh: Cựu sinh viên, người đi làm | Đối tượng chiêu sinh: Cựu sinh viên, người đi làm |
+| 8 | QT08 | Từ nhân viên đến quản lý tuyến đầu (From Staff to Supervisor) | 2.400.000 | 32 |
+| 9 | QT09 | Quản trị đội nhóm và hiệu suất công việc | 2.400.000 | 32 |
+| 10 | QT10 | Quản trị dự án thực hành trong doanh nghiệp | 2.400.000 | 32 |
+| 11 | QT11 | Giao tiếp, đàm phán và xử lý xung đột trong công việc | 2.400.000 | 32 |
+| 12 | QT12 | Quản lý hành chính - văn phòng cho trưởng bộ phận | 2.400.000 | 32 |
+| 13 | QT13 | Lãnh đạo bản thân và hoạch định sự nghiệp | 2.400.000 | 32 |
+[DẠNG TRA CỨU]
+- Đối tượng chiêu sinh: Cựu sinh viên, người đi làm: Mã lớp = Đối tượng chiêu sinh: Cựu sinh viên, người đi làm; Tên khóa học = Đối tượng chiêu sinh: Cựu sinh viên, người đi làm; Học phí dự kiến = Đối tượng chiêu sinh: Cựu sinh viên, người đi làm; Số giờ đào tạo = Đối tượng chiêu sinh: Cựu sinh viên, người đi làm
+- 8: Mã lớp = QT08; Tên khóa học = Từ nhân viên đến quản lý tuyến đầu (From Staff to Supervisor); Học phí dự kiến = 2.400.000; Số giờ đào tạo = 32
+- 9: Mã lớp = QT09; Tên khóa học = Quản trị đội nhóm và hiệu suất công việc; Học phí dự kiến = 2.400.000; Số giờ đào tạo = 32
+- 10: Mã lớp = QT10; Tên khóa học = Quản trị dự án thực hành trong doanh nghiệp; Học phí dự kiến = 2.400.000; Số giờ đào tạo = 32
+- 11: Mã lớp = QT11; Tên khóa học = Giao tiếp, đàm phán và xử lý xung đột trong công việc; Học phí dự kiến = 2.400.000; Số giờ đào tạo = 32
+- 12: Mã lớp = QT12; Tên khóa học = Quản lý hành chính - văn phòng cho trưởng bộ phận; Học phí dự kiến = 2.400.000; Số giờ đào tạo = 32
+- 13: Mã lớp = QT13; Tên khóa học = Lãnh đạo bản thân và hoạch định sự nghiệp; Học phí dự kiến = 2.400.000; Số giờ đào tạo = 32
+[/BẢNG]
+
+🔰 Quy mô lớp: Tối đa 15 học viên/lớp.
+
+🔰 Hình thức học: Trực tiếp kết hợp trực tuyến.
+
+4️⃣ Địa điểm, thời gian tổ chức:
+
+a) Địa điểm: Trường Đại học Bình Dương (Số 504 Đại lộ Bình Dương, phường Phú Lợi, Thành phố Hồ Chí Minh).
+
+b) Thời gian học: Thời khóa biểu cụ thể sẽ được thông báo khi tổ chức khai giảng, dự kiến:
+
+Buổi tối từ thứ Hai đến thứ Sáu (từ 18h00 đến 21h00);
+
+Thứ Bảy và Chủ nhật: Sáng: từ 08h00 đến 11h00; Chiều: từ 13h30 đến 16h30.
+
+c) Thời gian khai giảng: Khi đủ số lượng học viên theo quy định; Nhà trường sẽ thông báo cụ thể đối với từng khóa học.
+
+5️⃣ Chính sách ưu đãi:
+
+➖ Giảm 10%: Cựu sinh viên đã tốt nghiệp Đại học, Cao học của Nhà trường (không tính tốt nghiệp các khóa ngắn hạn).
+
+➖ Giảm 05%: Đăng ký cùng lúc 03 học viên (tính trên tổng học phí).
+
+➖ Giảm 05%: Đăng ký sớm trước thời hạn quy định (căn cứ thông báo).
+
+(*) Mỗi học viên chỉ được áp dụng 01 mức ưu đãi cao nhất.
+
+6️⃣ Hình thức nộp học phí: Chuyển khoản
+
+🏦 Tên tài khoản: Trường Đại học Bình Dương
+
+💳 Số tài khoản: 8603931959
+
+📍 Ngân hàng: Đầu tư và Phát triển Việt Nam (BIDV) – Chi nhánh Bình Dương.
+
+📝 Nội dung chuyển khoản: Họ và tên, Số điện thoại, Lệ phí lớp (Mã lớp).
+
+Ví dụ: Nguyen Van A, 0909123456, Le phi lop QT08
+
+⚠️ Lưu ý:
+
+Trường hợp học viên thôi học vì bất kỳ lý do nào, học phí đã nộp sẽ không được hoàn trả.
+
+📌 Mọi thông tin chi tiết xin liên hệ:
+
+✔️ Phòng Tuyển sinh - Trường Đại học Bình Dương Số 504 Đại lộ Bình Dương, Phường Phú Lợi, Thành phố Hồ Chí Minh.
+
+✔️ Hotline Phòng Tuyển sinh: 0789.269.219 (Zalo) - (0274) 7303399
+
+✔️ Zalo OA: https://zalo.me/daihocbinhduong (https://zalo.me/daihocbinhduong)
+
+✔️ Thông tin chi tiết xem tại website: https://tuyensinh.bdu.edu.vn (https://tuyensinh.bdu.edu.vn)

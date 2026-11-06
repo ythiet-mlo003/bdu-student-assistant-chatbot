@@ -1,0 +1,77 @@
+TIÊU ĐỀ: TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG CÔNG BỐ ĐIỂM TRÚNG TUYỂN NĂM 2023
+NGUỒN: https://tuyensinh.bdu.edu.vn/dai-hoc-chinh-quy/truong-dai-hoc-binh-duong-cong-bo-diem-trung-tuyen-nam-2023-330.html
+SITE: tuyensinh
+MỤC: dai-hoc-chinh-quy
+NGÀY BÀI: 2023-07-21
+NĂM: 2023
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG CÔNG BỐ ĐIỂM TRÚNG TUYỂN NĂM 2023
+
+Thứ sáu - 21/07/2023 06:36
+
+[BẢNG — Thứ sáu - 21/07/2023 06:36]
+| TT | Ngành học | Điểm trúng tuyển | Điểm trúng tuyển | Điểm trúng tuyển | Ghi chú |
+| --- | --- | --- | --- | --- | --- |
+| TT | Ngành học | THPT | Học bạ | ĐGNL | Ghi chú |
+| 1 | Kế toán | 15 | 15 | 500 | Cơ sở chính; Phân hiệu |
+| 2 | Quản trị kinh doanh Chuyên ngành -         Quản trị doanh nghiệp -         Quản trị Logistics -         Bất động sản -         Digital Marketing | 15 | 15 | 500 | Cơ sở chính; Phân hiệu |
+| 3 | Tài chính - Ngân hàng | 15 | 15 | 500 | Cơ sở chính; Phân hiệu |
+| 4 | Ngôn ngữ Anh | 15 | 15 | 500 | Cơ sở chính; Phân hiệu |
+| 5 | Công nghệ kỹ thuật công trình xây dựng | 15 | 15 | 500 | Cơ sở chính; Phân hiệu |
+| 6 | Công nghệ kỹ thuật điện, điện tử | 15 | 15 | 500 | Cơ sở chính |
+| 7 | Công nghệ thực phẩm | 15 | 15 | 500 | Cơ sở chính |
+| 8 | Xã hội học Chuyên ngành -         Truyền thông đa phương tiện -         Quan hệ công chúng | 15 | 15 | 500 | Cơ sở chính |
+| 9 | Logistics và Quản lý chuỗi cung ứng | 15 | 15 | 500 | Cơ sở chính |
+| 10 | Công nghệ kỹ thuật ô tô | 15 | 15 | 500 | Cơ sở chính |
+| 11 | Hàn Quốc học | 15 | 15 | 500 | Cơ sở chính |
+| 12 | Nhật Bản học | 15 | 15 | 500 | Cơ sở chính |
+| 13 | Công nghệ thông tin Chuyên ngành -         Robot và Trí tuệ nhân tạo -         Kỹ thuật phần mềm -         Hệ thống thông tin -         Mạng máy tính & An toàn thông tin | 15 | 15 | 500 | Cơ sở chính; Phân hiệu |
+| 14 | Kiến trúc | 15 | 15 | 500 | Cơ sở chính |
+| 15 | Luật kinh tế | 15 | 15 | 500 | Cơ sở chính; Phân hiệu |
+| 16 | Dược học | 21 | (**) | (**) | Cơ sở chính |
+[DẠNG TRA CỨU]
+- TT: Ngành học = Ngành học; Điểm trúng tuyển = THPT; Điểm trúng tuyển = Học bạ; Điểm trúng tuyển = ĐGNL; Ghi chú = Ghi chú
+- 1: Ngành học = Kế toán; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính; Phân hiệu
+- 2: Ngành học = Quản trị kinh doanh Chuyên ngành -         Quản trị doanh nghiệp -         Quản trị Logistics -         Bất động sản -         Digital Marketing; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính; Phân hiệu
+- 3: Ngành học = Tài chính - Ngân hàng; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính; Phân hiệu
+- 4: Ngành học = Ngôn ngữ Anh; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính; Phân hiệu
+- 5: Ngành học = Công nghệ kỹ thuật công trình xây dựng; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính; Phân hiệu
+- 6: Ngành học = Công nghệ kỹ thuật điện, điện tử; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính
+- 7: Ngành học = Công nghệ thực phẩm; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính
+- 8: Ngành học = Xã hội học Chuyên ngành -         Truyền thông đa phương tiện -         Quan hệ công chúng; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính
+- 9: Ngành học = Logistics và Quản lý chuỗi cung ứng; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính
+- 10: Ngành học = Công nghệ kỹ thuật ô tô; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính
+- 11: Ngành học = Hàn Quốc học; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính
+- 12: Ngành học = Nhật Bản học; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính
+- 13: Ngành học = Công nghệ thông tin Chuyên ngành -         Robot và Trí tuệ nhân tạo -         Kỹ thuật phần mềm -         Hệ thống thông tin -         Mạng máy tính & An toàn thông tin; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính; Phân hiệu
+- 14: Ngành học = Kiến trúc; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính
+- 15: Ngành học = Luật kinh tế; Điểm trúng tuyển = 15; Điểm trúng tuyển = 15; Điểm trúng tuyển = 500; Ghi chú = Cơ sở chính; Phân hiệu
+- 16: Ngành học = Dược học; Điểm trúng tuyển = 21; Điểm trúng tuyển = (**); Điểm trúng tuyển = (**); Ghi chú = Cơ sở chính
+[/BẢNG]
+
+(**) Theo một trong các điều kiện sau:
+
+1️⃣ Đối với thí sinh tốt nghiệp THPT: Học lực lớp 12 xếp loại từ giỏi trở lên hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên
+
+2️⃣ Đối với thí sinh đã tốt nghiệp trình độ trung cấp trở lên thỏa một trong các tiêu chí sau:
+
+✅ Học lực lớp 12 đạt loại giỏi trở lên hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 8,0 trở lên.
+
+✅ Tốt nghiệp THPT loại giỏi trở lên hoặc học lực lớp 12 đạt loại khá và có 3 năm kinh nghiệm công tác đúng với chuyên môn đào tạo.
+
+✅ Tốt nghiệp trung cấp, cao đẳng, Đại học đạt loại giỏi trở lên.
+
+✅ Tốt nghiệp trình độ trung cấp, hoặc trình độ cao đẳng hoặc trình độ Đại học đạt loại khá và có 3 năm kinh nghiệm công tác đúng với chuyên môn đào tạo.
+
+⚜️ Ghi chú:
+
+❗ Điểm trúng tuyển tính theo thang điểm 30, bao gồm các ngành có nhân hệ số môn xét tuyển.
+
+❗❗ Điều kiện phụ chỉ áp dụng đối với các thí sinh có điểm xét tuyển bằng điểm trúng tuyển.
+
+❗❗❗ Thí sinh đủ điều kiện trúng tuyển phải đăng ký ngành/chuyên ngành đủ điều kiện trúng tuyển vào Hệ thống tuyển sinh của Bộ Giáo dục và Đào tạo để được xét trúng tuyển chính thức.

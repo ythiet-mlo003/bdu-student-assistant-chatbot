@@ -1,0 +1,262 @@
+TIÊU ĐỀ: Thông báo tuyển sinh Đại học chính quy năm 2026
+NGUỒN: https://tuyensinh.bdu.edu.vn/dai-hoc-chinh-quy/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026-568.html
+SITE: tuyensinh
+MỤC: trang-chu
+NGÀY BÀI: 2026-06-18
+NĂM: 2026
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Trường Đại học Bình Dương thông báo tuyển sinh trình độ Đại học, hình thức đào tạo chính quy năm 2026 (CS01), cụ thể như sau:
+
+Tên trường: Trường Đại học Bình Dương
+
+Mã trường: DBD
+
+1️⃣ Đối tượng tuyển sinh:
+
+Thí sinh đã tốt nghiệp THPT hoặc tương đương.
+
+2️⃣ Phạm vi tuyển sinh: Tuyển sinh trong phạm vi cả nước.
+
+3️⃣ Phương thức tuyển sinh dự kiến:
+
+🔰 Phương thức 1: Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026.
+
+🔰 Phương thức 2: Xét tuyển dựa vào kết quả thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh năm 2026.
+
+🔰 Phương thức 3: Xét tuyển dựa vào kết quả học tập 3 năm 10, 11, 12 (xét theo học bạ).
+
+🔰 Thi đánh giá năng lực và xét tuyển theo đề án tuyển sinh riêng (chỉ áp dụng đối với ngành Dược học).
+
+[BẢNG — 🔰 Thi đánh giá năng lực và xét tuyển theo đề án tuyển sinh riêng (chỉ áp dụng đối với ngành Dược học).]
+| STT | Ngành học | Mã ngành | Tổ hợp xét tuyển | Chỉ tiêu dự kiến |
+| --- | --- | --- | --- | --- |
+| 1 | Nhật Bản học - Chuyên ngành Công nghiệp văn hóa Nhật Bản | 7310613 | A01: Toán, Vật lý, Tiếng Anh A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C00: Ngữ văn, Lịch sử, Địa lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D14: Ngữ Văn, Lịch sử, Tiếng Anh D15: Ngữ Văn, Địa lý, Tiếng Anh D66: Ngữ Văn, Giáo dục kinh tế và pháp luật, Tiếng Anh | 52 |
+| 2 | Hàn Quốc học - Chuyên ngành Hàn Quốc học thương mại - Chuyên ngành Hàn Quốc học hiện đại | 7310614 | A01: Toán, Vật lý, Tiếng Anh A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C00: Ngữ văn, Lịch sử, Địa lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D14: Ngữ Văn, Lịch sử, Tiếng Anh D15: Ngữ Văn, Địa lý, Tiếng Anh D66: Ngữ Văn, Giáo dục kinh tế và pháp luật, Tiếng Anh | 60 |
+| 3 | Ngôn ngữ Anh - Chuyên ngành Giảng dạy - Chuyên ngành Tiếng Anh Thương mại – Văn phòng | 7220201 | A01: Toán, Vật lý, Tiếng Anh D01: Toán, Ngữ Văn, Tiếng Anh D07: Toán, Hóa học, Tiếng Anh D09: Toán, Lịch sử, Tiếng Anh D14: Ngữ Văn, Lịch sử, Tiếng Anh D15: Ngữ Văn, Địa lý, Tiếng Anh D19: Văn, Tin học, Tiếng Anh D66: Ngữ Văn, Giáo dục kinh tế và pháp luật, Tiếng Anh | 160 |
+| 4 | Công nghệ Thực phẩm - Chuyên ngành Công nghệ Thực phẩm - Chuyên ngành Công nghệ thực phẩm – Kinh doanh - Chuyên ngành Công nghệ Chế biến Thịt và Thủy hải sản | 7540101 | A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh B00: Toán, Hóa học, Sinh học B03: Toán, Sinh học, Ngữ Văn C02: Toán, Ngữ Văn, Hóa học C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh | 60 |
+| 5 | Dược học - Chuyên ngành Quản lý và Cung ứng Thuốc - Chuyên ngành Sản xuất và Phát triển Thuốc - Chuyên ngành Dược liệu và Dược Cổ truyền | 7720201 | A00: Toán, Vật lý, Hóa học A02: Toán, Vật lý, Sinh học A11: Toán, Hoá học, Giáo dục kinh tế và pháp luật B00: Toán, Hóa học, Sinh học B0C: Toán, Hóa học, Công nghệ nông nghiệp B0D: Toán, Hóa học, Công nghệ nông nghiệp B03: Toán, Sinh học, Ngữ Văn C02: Toán, Ngữ Văn, Hóa học C08: Ngữ Văn, Hóa học, Sinh học D07: Toán, Hóa học, Tiếng Anh | 130 |
+| 6 | Hoá dược - Chuyên ngành Phân tích và Kiểm nghiệm - Chuyên ngành Bào chế và Phát triển Thuốc | 7720203 | A00: Toán, Vật lý, Hóa học A02: Toán, Vật lý, Sinh học A11: Toán, Hoá học, Giáo dục kinh tế và pháp luật B00: Toán, Hóa học, Sinh học B0C: Toán, Hóa học, Công nghệ nông nghiệp B0D: Toán, Hóa học, Công nghệ nông nghiệp B03: Toán, Sinh học, Ngữ Văn C02: Toán, Ngữ Văn, Hóa học C08: Ngữ Văn, Hóa học, Sinh học D07: Toán, Hóa học, Tiếng Anh | 50 |
+| 7 | Logistics và Quản lý Chuỗi Cung ứng - Dịch vụ Logistics - Quản lý chuỗi cung ứng | 7510605 | A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D66: Ngữ Văn, Giáo dục kinh tế và pháp luật, Tiếng Anh | 214 |
+| 8 | Tài chính - Ngân hàng - Chuyên ngành Tài chính số - Chuyên ngành Tài chính ngân hàng - Chuyên ngành Công nghệ tài chính | 7340201 | A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp | 178 |
+| 9 | Quản trị Kinh doanh - Chuyên ngành Quản trị Doanh nghiệp - Chuyên ngành Quản trị Marketing - Chuyên ngành Quản trị Logistics - Chuyên ngành Doanh nghiệp số - Chuyên ngành Quản trị khởi nghiệp - Quản trị Du lịch và Lữ hành | 7340101 | A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp | 480 |
+| 10 | Kế toán - Chuyên ngành Kế toán số và phân tích dữ liệu - Chuyên ngành Kế toán doanh nghiệp | 7340301 | A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp | 200 |
+| 11 | Luật | 7380101 | A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C00: Ngữ văn, Lịch sử, Địa lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp | 110 |
+| 12 | Luật Kinh tế - Chuyên ngành Luật kinh tế - Chuyên ngành Luật thương mại điện tử | 7380107 | A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C00: Ngữ văn, Lịch sử, Địa lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp | 140 |
+| 13 | Xã hội học - Chuyên ngành Truyền thông Đa phương tiện | 7310301 | A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp | 65 |
+| 14 | Công nghệ Thông tin - Chuyên ngành Robot và Trí tuệ nhân tạo - Chuyên ngành Kỹ Thuật Phần mềm - Chuyên ngành Hệ thống Thông tin - Chuyên ngành Thiết kế Đồ họa - Chuyên ngành Khoa học Dữ liệu - Chuyên ngành Mạng Máy tính và An toàn Thông tin - Chuyên ngành Kỹ thuật học máy | 7480201 | A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học X02: Toán, Tin học, Công nghệ nông nghiệp X03: Toán, Tin học, Công nghệ công nghiệp | 213 |
+| 15 | Công nghệ Kỹ thuật Điện, Điện tử - Chuyên ngành Điện Công nghiệp - Chuyên ngành Kỹ thuật Điều khiển và Tự động hóa - Chuyên ngành Kỹ thuật Robot - Chuyên ngành Hệ thống Nhúng và IoT - Chuyên ngành Cơ điện tử - Chuyên ngành Công nghệ Vi mạch Bán dẫn | 7510301 | A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D17: Toán, Ngữ văn, Công nghệ nông nghiệp D18: Toán, Ngữ văn, Công nghệ công nghiệp | 60 |
+| 16 | Công nghệ Kỹ thuật Công trình Xây dựng - Chuyên ngành Công nghệ xây dựng ứng dụng AI - Chuyên ngành Xây dựng Dân dụng và Công nghiệp | 7510102 | A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học X02: Toán, Tin học, Công nghệ nông nghiệp X03: Toán, Tin học, Công nghệ công nghiệp | 60 |
+| 17 | Kiến trúc - Chuyên ngành Thiết kế Kiến trúc ứng dụng AI - Chuyên ngành Thiết kế Kiến trúc và Công trình bền vững - Chuyên ngành Thiết kế Nội thất | 7580101 | A00: Toán, Vật lý, Hóa học V00: Toán, Vật lý, Vẽ mỹ thuật V01: Toán, Ngữ Văn, Vẽ mỹ thuật V02: Toán, Lịch sử, Vẽ mỹ thuật V03: Toán, Địa lý, Vẽ mỹ thuật V04: Toán, Giáo dục kinh tế và pháp luật, Vẽ mỹ thuật V05: Toán, Tiếng Anh, Vẽ mỹ thuật V06: Toán, Tin học, Vẽ mỹ thuật V07: Toán, Công nghệ nông nghiệp, Vẽ mỹ thuật V08: Toán, Công nghệ công nghiệp, Vẽ mỹ thuật V10: Toán, Hóa học, Vẽ mỹ thuật | 50 |
+| 18 | Công nghệ Kỹ thuật Ô tô | 7510205 | A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D17: Toán, Ngữ văn, Công nghệ nông nghiệp D18: Toán, Ngữ văn, Công nghệ công nghiệp | 200 |
+[DẠNG TRA CỨU]
+- 1: Ngành học = Nhật Bản học - Chuyên ngành Công nghiệp văn hóa Nhật Bản; Mã ngành = 7310613; Tổ hợp xét tuyển = A01: Toán, Vật lý, Tiếng Anh A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C00: Ngữ văn, Lịch sử, Địa lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D14: Ngữ Văn, Lịch sử, Tiếng Anh D15: Ngữ Văn, Địa lý, Tiếng Anh D66: Ngữ Văn, Giáo dục kinh tế và pháp luật, Tiếng Anh; Chỉ tiêu dự kiến = 52
+- 2: Ngành học = Hàn Quốc học - Chuyên ngành Hàn Quốc học thương mại - Chuyên ngành Hàn Quốc học hiện đại; Mã ngành = 7310614; Tổ hợp xét tuyển = A01: Toán, Vật lý, Tiếng Anh A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C00: Ngữ văn, Lịch sử, Địa lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D14: Ngữ Văn, Lịch sử, Tiếng Anh D15: Ngữ Văn, Địa lý, Tiếng Anh D66: Ngữ Văn, Giáo dục kinh tế và pháp luật, Tiếng Anh; Chỉ tiêu dự kiến = 60
+- 3: Ngành học = Ngôn ngữ Anh - Chuyên ngành Giảng dạy - Chuyên ngành Tiếng Anh Thương mại – Văn phòng; Mã ngành = 7220201; Tổ hợp xét tuyển = A01: Toán, Vật lý, Tiếng Anh D01: Toán, Ngữ Văn, Tiếng Anh D07: Toán, Hóa học, Tiếng Anh D09: Toán, Lịch sử, Tiếng Anh D14: Ngữ Văn, Lịch sử, Tiếng Anh D15: Ngữ Văn, Địa lý, Tiếng Anh D19: Văn, Tin học, Tiếng Anh D66: Ngữ Văn, Giáo dục kinh tế và pháp luật, Tiếng Anh; Chỉ tiêu dự kiến = 160
+- 4: Ngành học = Công nghệ Thực phẩm - Chuyên ngành Công nghệ Thực phẩm - Chuyên ngành Công nghệ thực phẩm – Kinh doanh - Chuyên ngành Công nghệ Chế biến Thịt và Thủy hải sản; Mã ngành = 7540101; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh B00: Toán, Hóa học, Sinh học B03: Toán, Sinh học, Ngữ Văn C02: Toán, Ngữ Văn, Hóa học C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh; Chỉ tiêu dự kiến = 60
+- 5: Ngành học = Dược học - Chuyên ngành Quản lý và Cung ứng Thuốc - Chuyên ngành Sản xuất và Phát triển Thuốc - Chuyên ngành Dược liệu và Dược Cổ truyền; Mã ngành = 7720201; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A02: Toán, Vật lý, Sinh học A11: Toán, Hoá học, Giáo dục kinh tế và pháp luật B00: Toán, Hóa học, Sinh học B0C: Toán, Hóa học, Công nghệ nông nghiệp B0D: Toán, Hóa học, Công nghệ nông nghiệp B03: Toán, Sinh học, Ngữ Văn C02: Toán, Ngữ Văn, Hóa học C08: Ngữ Văn, Hóa học, Sinh học D07: Toán, Hóa học, Tiếng Anh; Chỉ tiêu dự kiến = 130
+- 6: Ngành học = Hoá dược - Chuyên ngành Phân tích và Kiểm nghiệm - Chuyên ngành Bào chế và Phát triển Thuốc; Mã ngành = 7720203; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A02: Toán, Vật lý, Sinh học A11: Toán, Hoá học, Giáo dục kinh tế và pháp luật B00: Toán, Hóa học, Sinh học B0C: Toán, Hóa học, Công nghệ nông nghiệp B0D: Toán, Hóa học, Công nghệ nông nghiệp B03: Toán, Sinh học, Ngữ Văn C02: Toán, Ngữ Văn, Hóa học C08: Ngữ Văn, Hóa học, Sinh học D07: Toán, Hóa học, Tiếng Anh; Chỉ tiêu dự kiến = 50
+- 7: Ngành học = Logistics và Quản lý Chuỗi Cung ứng - Dịch vụ Logistics - Quản lý chuỗi cung ứng; Mã ngành = 7510605; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D66: Ngữ Văn, Giáo dục kinh tế và pháp luật, Tiếng Anh; Chỉ tiêu dự kiến = 214
+- 8: Ngành học = Tài chính - Ngân hàng - Chuyên ngành Tài chính số - Chuyên ngành Tài chính ngân hàng - Chuyên ngành Công nghệ tài chính; Mã ngành = 7340201; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 178
+- 9: Ngành học = Quản trị Kinh doanh - Chuyên ngành Quản trị Doanh nghiệp - Chuyên ngành Quản trị Marketing - Chuyên ngành Quản trị Logistics - Chuyên ngành Doanh nghiệp số - Chuyên ngành Quản trị khởi nghiệp - Quản trị Du lịch và Lữ hành; Mã ngành = 7340101; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 480
+- 10: Ngành học = Kế toán - Chuyên ngành Kế toán số và phân tích dữ liệu - Chuyên ngành Kế toán doanh nghiệp; Mã ngành = 7340301; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 200
+- 11: Ngành học = Luật; Mã ngành = 7380101; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C00: Ngữ văn, Lịch sử, Địa lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 110
+- 12: Ngành học = Luật Kinh tế - Chuyên ngành Luật kinh tế - Chuyên ngành Luật thương mại điện tử; Mã ngành = 7380107; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C00: Ngữ văn, Lịch sử, Địa lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 140
+- 13: Ngành học = Xã hội học - Chuyên ngành Truyền thông Đa phương tiện; Mã ngành = 7310301; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D20: Văn, Giáo dục kinh tế và pháp luật, Công nghệ nông nghiệp D21: Văn, Giáo dục kinh tế và pháp luật, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 65
+- 14: Ngành học = Công nghệ Thông tin - Chuyên ngành Robot và Trí tuệ nhân tạo - Chuyên ngành Kỹ Thuật Phần mềm - Chuyên ngành Hệ thống Thông tin - Chuyên ngành Thiết kế Đồ họa - Chuyên ngành Khoa học Dữ liệu - Chuyên ngành Mạng Máy tính và An toàn Thông tin - Chuyên ngành Kỹ thuật học máy; Mã ngành = 7480201; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học X02: Toán, Tin học, Công nghệ nông nghiệp X03: Toán, Tin học, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 213
+- 15: Ngành học = Công nghệ Kỹ thuật Điện, Điện tử - Chuyên ngành Điện Công nghiệp - Chuyên ngành Kỹ thuật Điều khiển và Tự động hóa - Chuyên ngành Kỹ thuật Robot - Chuyên ngành Hệ thống Nhúng và IoT - Chuyên ngành Cơ điện tử - Chuyên ngành Công nghệ Vi mạch Bán dẫn; Mã ngành = 7510301; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D17: Toán, Ngữ văn, Công nghệ nông nghiệp D18: Toán, Ngữ văn, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 60
+- 16: Ngành học = Công nghệ Kỹ thuật Công trình Xây dựng - Chuyên ngành Công nghệ xây dựng ứng dụng AI - Chuyên ngành Xây dựng Dân dụng và Công nghiệp; Mã ngành = 7510102; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A01: Toán, Vật lý, Tiếng Anh C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học X02: Toán, Tin học, Công nghệ nông nghiệp X03: Toán, Tin học, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 60
+- 17: Ngành học = Kiến trúc - Chuyên ngành Thiết kế Kiến trúc ứng dụng AI - Chuyên ngành Thiết kế Kiến trúc và Công trình bền vững - Chuyên ngành Thiết kế Nội thất; Mã ngành = 7580101; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học V00: Toán, Vật lý, Vẽ mỹ thuật V01: Toán, Ngữ Văn, Vẽ mỹ thuật V02: Toán, Lịch sử, Vẽ mỹ thuật V03: Toán, Địa lý, Vẽ mỹ thuật V04: Toán, Giáo dục kinh tế và pháp luật, Vẽ mỹ thuật V05: Toán, Tiếng Anh, Vẽ mỹ thuật V06: Toán, Tin học, Vẽ mỹ thuật V07: Toán, Công nghệ nông nghiệp, Vẽ mỹ thuật V08: Toán, Công nghệ công nghiệp, Vẽ mỹ thuật V10: Toán, Hóa học, Vẽ mỹ thuật; Chỉ tiêu dự kiến = 50
+- 18: Ngành học = Công nghệ Kỹ thuật Ô tô; Mã ngành = 7510205; Tổ hợp xét tuyển = A00: Toán, Vật lý, Hóa học A09: Toán, Địa lý, Giáo dục kinh tế và pháp luật C01: Toán, Ngữ văn, Vật lý C03: Ngữ văn, Toán, Lịch sử C04: Ngữ văn, Toán, Địa lý C14: Ngữ văn, Toán, Giáo dục kinh tế và pháp luật D01: Toán, Ngữ Văn, Tiếng Anh D16: Toán, Ngữ Văn, Tin học D17: Toán, Ngữ văn, Công nghệ nông nghiệp D18: Toán, Ngữ văn, Công nghệ công nghiệp; Chỉ tiêu dự kiến = 200
+[/BẢNG]
+
+4️⃣ Ngưỡng đảm bảo chất lượng:
+
+4.1 Tổng điểm xét tuyển (không bao gồm điểm ưu tiên) ≥ 15 điểm
+
+📌 Riêng ngành Dược học, thí sinh dự tuyển phải đạt một trong các tiêu chí ngưỡng đảm bảo chất lượng đầu vào theo quy định của Bộ Giáo dục và Đào tạo như sau:
+
+➖ Điểm xét tuyển bằng điểm ngưỡng đảm bảo chất lượng do Bộ GDĐT ban hành.
+
+➖ Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên.
+
+➖ Tốt nghiệp THPT loại giỏi trở lên hoặc kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại khá) và có 3 năm kinh nghiệm công tác đúng với chuyên môn đào tạo.
+
+➖ Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển được áp dụng quy định ngưỡng đầu vào như sau:
+
+▪️ Tốt nghiệp trung cấp, cao đẳng, Đại học đạt loại giỏi trở lên.
+
+▪️ Tốt nghiệp trình độ trung cấp, hoặc trình độ cao đẳng hoặc trình độ Đại học đạt loại khá và có 3 năm kinh nghiệm công tác đúng với chuyên môn đào tạo.
+
+📌 Riêng các chương trình đào tạo thuộc lĩnh vực Pháp luật trình độ Đại học phải đáp ứng các yêu cầu:
+
+➖ Đã tốt nghiệp trung học phổ thông hoặc tương đương.
+
+➖ Tổng điểm xét tuyển tối thiểu đạt 60% điểm đánh giá tối đa của thang điểm. Các tổ hợp xét tuyển có môn Toán và Ngữ văn, hoặc Toán, hoặc Ngữ văn phải đạt tối thiểu là 60% điểm đánh giá tối đa của thang điểm.
+
+4.2 Nguyên tắc xét tuyển: Trường sẽ xét căn cứ vào thời gian nộp hồ sơ và điểm xét tuyển từ cao xuống thấp đến mức điểm đảm bảo đủ chỉ tiêu.
+
+5️⃣ Ngành tuyển sinh và chỉ tiêu dự kiến
+
+6️⃣ Thời gian và hồ sơ tuyển sinh
+
+🔰 6.1. Thời gian tuyển sinh (xét theo phương án 1):
+
+➖ Đợt 1: Theo kế hoạch tuyển sinh chung của Bộ GDĐT.
+
+➖ Đợt bổ sung (nếu có): Theo tình hình thực tế chỉ tiêu còn lại.
+
+🔰 6.2. Thời gian tuyển sinh (xét theo phương án 2, 3, 4, 5):
+
+➖ Đợt 1: Từ ngày ra thông báo đến ngày 31/5/2026.
+
+➖ Đợt 2: Từ ngày 01/6/2026 đến ngày 30/6/2026.
+
+➖ Đợt 3: Từ ngày 01/7/2026 đến ngày 21/8/2026.
+
+➖ Đợt 4: Từ ngày 22/08/2026 đến ngày 30/11/2026.
+
+(*) Phương án 5 tổ chức theo kế hoạch riêng.
+
+🔰 6.3. Lệ phí và hồ sơ tuyển sinh:
+
+➖ Lệ phí xét tuyển: Miễn lệ phí xét tuyển theo phương án 2, 3, 4 và 5; lệ phí xét tuyển phương án 1 theo quy định của Bộ GDĐT.
+
+➖ Hồ sơ: Thí sinh xem chi tiết tại website https://tuyensinh.bdu.edu.vn (https://tuyensinh.bdu.edu.vn).
+
+7️⃣ Cách thức nộp hồ sơ
+
+🔰 Xem và tải hồ sơ tại đây (https://tuyensinh.bdu.edu.vn/index.php/ho-so/ho-so-xet-tuyen-dai-hoc-chinh-quy-193.html)
+
+Thí sinh nộp hồ sơ trực tiếp tại Trường Đại học Bình Dương hoặc chuyển phát nhanh qua địa chỉ:
+
+8️⃣ Học phí dự kiến
+
+8.1. Học phí ngành Dược học
+
+[BẢNG — 8.1. Học phí ngành Dược học]
+| TT | Mức học phí | Đơn giá/tín chỉ |
+| --- | --- | --- |
+| 1 | Mức 1 (học phần đại cương chỉ có tiết lý thuyết) | 1.082.000 |
+| 2 | Mức 2 (học phần đại cương có tiết lý thuyết và thực hành) | 1.208.000 |
+| 3 | Mức 3 (học phần đại cương chỉ có tiết thực hành) | 1.248.000 |
+| 4 | Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết) | 2.062.000 |
+| 5 | Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành) | 2.298.000 |
+| 6 | Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành) | 2.373.000 |
+[DẠNG TRA CỨU]
+- 1: Mức học phí = Mức 1 (học phần đại cương chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 1.082.000
+- 2: Mức học phí = Mức 2 (học phần đại cương có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 1.208.000
+- 3: Mức học phí = Mức 3 (học phần đại cương chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.248.000
+- 4: Mức học phí = Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 2.062.000
+- 5: Mức học phí = Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 2.298.000
+- 6: Mức học phí = Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành); Đơn giá/tín chỉ = 2.373.000
+[/BẢNG]
+
+8.2. Học phí ngành Hóa dược
+
+[BẢNG — 8.2. Học phí ngành Hóa dược]
+| TT | Mức học phí | Đơn giá/tín chỉ |
+| --- | --- | --- |
+| 1 | Mức 1 (học phần đại cương chỉ có tiết lý thuyết) | 1.082.000 |
+| 2 | Mức 2 (học phần đại cương có tiết lý thuyết và thực hành) | 1.208.000 |
+| 3 | Mức 3 (học phần đại cương chỉ có tiết thực hành) | 1.248.000 |
+| 4 | Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết) | 2.062.000 |
+| 5 | Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành) | 2.298.000 |
+| 6 | Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành) | 2.373.000 |
+[DẠNG TRA CỨU]
+- 1: Mức học phí = Mức 1 (học phần đại cương chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 1.082.000
+- 2: Mức học phí = Mức 2 (học phần đại cương có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 1.208.000
+- 3: Mức học phí = Mức 3 (học phần đại cương chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.248.000
+- 4: Mức học phí = Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 2.062.000
+- 5: Mức học phí = Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 2.298.000
+- 6: Mức học phí = Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành); Đơn giá/tín chỉ = 2.373.000
+[/BẢNG]
+
+8.3. Học phí ngành Hàn Quốc học; Nhật Bản học
+
+[BẢNG — 8.3. Học phí ngành Hàn Quốc học; Nhật Bản học]
+| TT | Mức học phí | Đơn giá/tín chỉ |
+| --- | --- | --- |
+| 1 | Mức 1 (học phần đại cương chỉ có tiết lý thuyết) | 1.082.000 |
+| 2 | Mức 2 (học phần đại cương có tiết lý thuyết và thực hành) | 1.208.000 |
+| 3 | Mức 3 (học phần đại cương chỉ có tiết thực hành) | 1.248.000 |
+| 4 | Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết) | 1.622.000 |
+| 5 | Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành) | 1.806.000 |
+| 6 | Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành) | 1.875.000 |
+[DẠNG TRA CỨU]
+- 1: Mức học phí = Mức 1 (học phần đại cương chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 1.082.000
+- 2: Mức học phí = Mức 2 (học phần đại cương có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 1.208.000
+- 3: Mức học phí = Mức 3 (học phần đại cương chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.248.000
+- 4: Mức học phí = Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 1.622.000
+- 5: Mức học phí = Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 1.806.000
+- 6: Mức học phí = Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.875.000
+[/BẢNG]
+
+8.4. Học phí ngành Công nghệ kỹ thuật ô tô; Logistics và Quản lý chuỗi cung ứng; Công nghệ thông tin; Công nghệ kỹ thuật điện, điện tử
+
+[BẢNG — 8.4. Học phí ngành Công nghệ kỹ thuật ô tô; Logistics và Quản lý chuỗi cung ứng; Công nghệ thông tin; Công nghệ kỹ thuật]
+| TT | Mức học phí | Đơn giá/tín chỉ |
+| --- | --- | --- |
+| 1 | Mức 1 (học phần đại cương chỉ có tiết lý thuyết) | 1.104.000 |
+| 2 | Mức 2 (học phần đại cương có tiết lý thuyết và thực hành) | 1.226.000 |
+| 3 | Mức 3 (học phần đại cương chỉ có tiết thực hành) | 1.269.000 |
+| 4 | Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết) | 1.650.000 |
+| 5 | Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành) | 1.840.000 |
+| 6 | Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành) | 1.900.000 |
+[DẠNG TRA CỨU]
+- 1: Mức học phí = Mức 1 (học phần đại cương chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 1.104.000
+- 2: Mức học phí = Mức 2 (học phần đại cương có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 1.226.000
+- 3: Mức học phí = Mức 3 (học phần đại cương chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.269.000
+- 4: Mức học phí = Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 1.650.000
+- 5: Mức học phí = Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 1.840.000
+- 6: Mức học phí = Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.900.000
+[/BẢNG]
+
+8.5. Học phí ngành Công nghệ kỹ thuật công trình xây dựng; Kiến trúc; Công nghệ thực phẩm
+
+[BẢNG — 8.5. Học phí ngành Công nghệ kỹ thuật công trình xây dựng; Kiến trúc; Công nghệ thực phẩm]
+| TT | Mức học phí | Đơn giá/tín chỉ |
+| --- | --- | --- |
+| 1 | Mức 1 (học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết) | 1.110.000 |
+| 2 | Mức 2 (học phần đại cương, cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành) | 1.245.000 |
+| 3 | Mức 3 (học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết thực hành) | 1.275.000 |
+[DẠNG TRA CỨU]
+- 1: Mức học phí = Mức 1 (học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 1.110.000
+- 2: Mức học phí = Mức 2 (học phần đại cương, cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 1.245.000
+- 3: Mức học phí = Mức 3 (học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.275.000
+[/BẢNG]
+
+8.5. Học phí các ngành Quản trị kinh doanh; Kế toán; Tài chính - Ngân hàng; Luật kinh tế; Luật; Ngôn ngữ Anh; Xã hội học
+
+[BẢNG — 8.5. Học phí các ngành Quản trị kinh doanh; Kế toán; Tài chính - Ngân hàng; Luật kinh tế; Luật; Ngôn ngữ Anh; Xã hội học]
+| TT | Mức học phí | Đơn giá/tín chỉ |
+| --- | --- | --- |
+| 1 | Mức 1 (học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết) | 1.250.000 |
+| 2 | Mức 2 (học phần đại cương, cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành) | 1.400.000 |
+| 3 | Mức 3 (học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết thực hành) | 1.450.000 |
+[DẠNG TRA CỨU]
+- 1: Mức học phí = Mức 1 (học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết); Đơn giá/tín chỉ = 1.250.000
+- 2: Mức học phí = Mức 2 (học phần đại cương, cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành); Đơn giá/tín chỉ = 1.400.000
+- 3: Mức học phí = Mức 3 (học phần đại cương, cơ sở ngành, chuyên ngành chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.450.000
+[/BẢNG]
+
+9️⃣ Một số thông tin liên quan khác:
+
+📌 Trong năm 2026, Trường Đại học Bình Dương dành các suất học bổng cho thí sinh tham gia trúng tuyển và hoàn tất thủ tục nhập học trong năm 2026. Thí sinh xem chi tiết quy định điều kiện nhận học bổng tại địa chỉ: https://tuyensinh.bdu.edu.vn/ (https://tuyensinh.bdu.edu.vn/).
+
+📌 Thí sinh tham gia xét tuyển ngoài nộp hồ sơ trực tiếp tại Trường hoặc chuyển phát nhanh hồ sơ về Trường, thí sinh có thể thực hiện xét tuyển trực tuyến (online) tại địa chỉ: https://xettuyenonline.bdu.edu.vn/ (https://xettuyenonline.bdu.edu.vn/).
+
+(Hội đồng tuyển sinh thông báo kết quả xét online trực tiếp đến thí sinh thông qua thông tin thí sinh cung cấp khi thực hiện xét trực tuyến). Đồng thời thí sinh cần đăng ký xét tuyển nguyện vọng trên cổng thông tin của Bộ Giáo dục và Đào tạo.
+
+📌 Thông tin tuyển sinh của Nhà trường được cập nhật thường xuyên tại Website:
+
+https://bdu.edu.vn (https://bdu.edu.vn)
+
+https://tuyensinh.bdu.edu.vn (https://tuyensinh.bdu.edu.vn)
+
+https://camau.bdu.edu.vn (https://camau.bdu.edu.vn)
+

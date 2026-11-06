@@ -1,0 +1,91 @@
+TIÊU ĐỀ: Chiêu sinh lớp Phân tích định lượng trong nghiên cứu kinh tế
+NGUỒN: https://tuyensinh.bdu.edu.vn/dao-tao-ngan-han/chieu-sinh-lop-phan-tich-dinh-luong-trong-nghien-cuu-kinh-te-573.html
+SITE: tuyensinh
+MỤC: dao-tao-ngan-han
+NGÀY BÀI: 2026-01-05
+NĂM: 2026
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Chiêu sinh lớp Phân tích định lượng trong nghiên cứu kinh tế
+
+Thứ hai - 05/01/2026 05:50
+
+Trường Đại học Bình Dương thông báo chiêu sinh lớp Phân tích định lượng trong nghiên cứu kinh tế
+
+1️⃣ Mục tiêu chương trình:
+
+Khóa học nhằm trang bị cho người học kiến thức và kỹ năng cơ bản về các phương pháp phân tích định lượng hiện đại trong nghiên cứu kinh tế, tài chính và quản trị; giúp người học thành thạo xử lý dữ liệu bằng các phần mềm chuyên dụng (Stata, R, Python), có khả năng vận dụng các phương pháp hồi quy, phân tích nhân quả, phân tích mạng và Machine Learning vào đề tài nghiên cứu và thực tiễn công việc, đồng thời hoàn thành một sản phẩm nghiên cứu hoặc mini project dựa trên dữ liệu thực.
+
+2️⃣ Đối tượng tuyển sinh: Học viên cao học.
+
+3️⃣ Nội dung chương trình:
+
+(Đơn vị tính: VNĐ)
+
+[BẢNG — (Đơn vị tính: VNĐ)]
+| TT | Mã lớp | Tên lớp | Thời lượng | Học phí |
+| --- | --- | --- | --- | --- |
+| 01 | PT01 | Hồi quy cơ bản và nâng cao trong phân tích kinh tế – tài chính | 24 tiết / 06 buổi / lớp | 2.500.000 |
+| 02 | PT01 | Ứng dụng Big Data và Machine Learning trong dự báo và quản trị | 24 tiết / 06 buổi / lớp | 2.500.000 |
+| 03 | PT01 | Các phương pháp phân tích nhân quả (RDD, DiD, RCT) | 24 tiết / 06 buổi / lớp | 2.500.000 |
+| 04 | PT01 | Phân tích mạng lưới (Network Analysis) | 24 tiết / 06 buổi / lớp | 2.500.000 |
+| 05 | PT01 | Hướng dẫn trực tiếp dựa trên đề tài nghiên cứu và dữ liệu thực tế của học viên | 24 tiết / 06 buổi / lớp | 2.500.000 |
+[DẠNG TRA CỨU]
+- 01: Mã lớp = PT01; Tên lớp = Hồi quy cơ bản và nâng cao trong phân tích kinh tế – tài chính; Thời lượng = 24 tiết / 06 buổi / lớp; Học phí = 2.500.000
+- 02: Mã lớp = PT01; Tên lớp = Ứng dụng Big Data và Machine Learning trong dự báo và quản trị; Thời lượng = 24 tiết / 06 buổi / lớp; Học phí = 2.500.000
+- 03: Mã lớp = PT01; Tên lớp = Các phương pháp phân tích nhân quả (RDD, DiD, RCT); Thời lượng = 24 tiết / 06 buổi / lớp; Học phí = 2.500.000
+- 04: Mã lớp = PT01; Tên lớp = Phân tích mạng lưới (Network Analysis); Thời lượng = 24 tiết / 06 buổi / lớp; Học phí = 2.500.000
+- 05: Mã lớp = PT01; Tên lớp = Hướng dẫn trực tiếp dựa trên đề tài nghiên cứu và dữ liệu thực tế của học viên; Thời lượng = 24 tiết / 06 buổi / lớp; Học phí = 2.500.000
+[/BẢNG]
+
+🔰 Quy mô lớp: Tối đa 15 học viên/lớp.
+
+🔰 Hình thức học: Trực tiếp kết hợp trực tuyến.
+
+4️⃣ Địa điểm và thời gian học:
+
+a) Địa điểm: Trường Đại học Bình Dương (Số 504 Đại lộ Bình Dương, phường Phú Lợi, Thành phố Hồ Chí Minh).
+
+b) Thời gian học: Thời khóa biểu cụ thể sẽ được thông báo khi tổ chức khai giảng, dự kiến:
+
+Buổi tối từ thứ Hai đến thứ Sáu (từ 18h00 đến 21h00).
+
+Thứ Bảy và Chủ nhật: Sáng: từ 08h00 đến 11h00; Chiều: từ 13h30 đến 16h30.
+
+c) Thời gian khai giảng: Khi đủ số lượng học viên theo quy định; Nhà trường sẽ thông báo cụ thể đối với từng khóa học.
+
+5️⃣ Chứng chỉ:
+
+Học viên hoàn thành khóa học và đạt yêu cầu đánh giá sẽ được cấp Chứng chỉ hoàn thành khóa học do Trường Đại học Bình Dương cấp.
+
+6️⃣ Hình thức nộp học phí: Chuyển khoản
+
+Học phí được nộp bằng hình thức chuyển khoản:
+
+🏦 Tên tài khoản: Trường Đại học Bình Dương
+
+💳 Số tài khoản: 8603931959
+
+📍 Ngân hàng: Đầu tư và Phát triển Việt Nam (BIDV) – Chi nhánh Bình Dương.
+
+📝 Nội dung chuyển khoản: Họ và tên, Số điện thoại, Lệ phí lớp (Mã lớp).
+
+Ví dụ: Nguyen Van A, 0909123456, Le phi lop PT01
+
+⚠️ Lưu ý:
+
+Trường hợp học viên thôi học vì bất kỳ lý do nào, học phí đã nộp sẽ không được hoàn trả.
+
+📌 Mọi thông tin chi tiết xin liên hệ:
+
+✔️ Phòng Tuyển sinh - Trường Đại học Bình Dương Số 504 Đại lộ Bình Dương, Phường Phú Lợi, Thành phố Hồ Chí Minh.
+
+✔️ Hotline Phòng Tuyển sinh: 0789.269.219 (Zalo) - (0274) 7303399
+
+✔️ Zalo OA: https://zalo.me/daihocbinhduong (https://zalo.me/daihocbinhduong)
+
+✔️ Thông tin chi tiết xem tại website: https://tuyensinh.bdu.edu.vn (https://tuyensinh.bdu.edu.vn)
