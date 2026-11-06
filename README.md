@@ -17,6 +17,12 @@ ngôn ngữ tiền huấn luyện kết hợp kỹ thuật RAG**.
   phân thắng bại H03). Quyết định cuối về model, kho vector (Chroma hay FAISS)
   và frontend vẫn chờ giảng viên hướng dẫn xác nhận.
 
+## Dữ liệu text đầy đủ (để đánh giá)
+
+- `data-text-v7.3.1/` — toàn bộ 1.560 file text của phiên bản v7.3.1 (1.313 file ingest-ready), giữ nguyên nội dung, kể cả tên giảng viên/cán bộ xuất hiện trong dữ liệu công khai của trường.
+- `goi-chia-chunk-v7.3.1/01-Ban-trinh-bay-chia-chunk-v7.3.1.md` — bản text của file Word trình bày phương pháp chia chunk (bản Word gốc giữ trong backup Drive; thông tin sinh viên và giảng viên hướng dẫn trong bản này đã ẩn theo quy tắc repo công khai).
+- File chunk đầy đủ (`chunks-v7.3.1.jsonl`, 13.815 dòng, 23 MB) và file zip/Word gốc không đẩy lên đây vì vượt giới hạn của đường đẩy; bản đầy đủ giữ trong backup Drive.
+
 ## Cấu trúc repo
 
 - `goi-chia-chunk-v7.3.1/` — script chia chunk, danh sách nạp, thống kê và
