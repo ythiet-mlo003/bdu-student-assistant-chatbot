@@ -18,6 +18,10 @@ Thư mục gốc trên Drive: Do-an-chatbot-BDU-backup
 - `goi-chia-chunk-v7.3.1.zip` đã thay bằng bản mới 9.734.917 byte (bản cũ trên Drive là 9.734.448 byte): thư mục `code-goc` đổi thành `script-goc-doi-chieu` kèm README, các script gốc đã sửa cho chạy độc lập trong gói trên dữ liệu v7.3.1, bỏ `build_chunks_full.py` (chỉ chạy được trên v7.3). Số liệu chunk không đổi (13.815). Gói v7.3 cũ giữ nguyên.
 - `TOM-TAT-CHAT-PHU-BACKUP-2026-11-04.md` đã thêm mục 5 ghi quyết định mục 7 ngày 04/11/2026 (tự chốt, không xin ý kiến GVHD).
 - Cập nhật mới nhất ngày 05/11/2026, 12:01: `goi-chia-chunk-v7.3.1.zip` 9.735.233 byte — README trong `script-goc-doi-chieu` viết lại dạng liệt kê (11:52, bỏ bảng Markdown khó đọc), phần đầu file Word sửa theo mẫu tiêu đề hành chính (12:01). Số liệu chunk không đổi (13.815). Chi tiết xem `NHAT-KY-CAP-NHAT.md`.
+- Cập nhật ngày 05/11/2026, 12:18: `goi-chia-chunk-v7.3.1.zip` 9.736.224 byte — thư mục `tai-lieu-tham-khao` đổi thành `thong-ke-va-bao-cao` kèm README giải thích từng file. Số liệu chunk không đổi (13.815).
+- GitHub ngày 05/11/2026, 17:06: snapshot đầu tiên (18 file text) đã đẩy lên repo `ythiet-mlo003/bdu-student-assistant-chatbot` (Public, nhánh `main`), commit `1b93f2b6873938feafe0617651303f1aa5556c08`. File zip, Word và chunk đầy đủ không đẩy lên GitHub, vẫn giữ trong backup Drive này.
+- GitHub ngày 05/11/2026, 17:09: đã xóa tên sinh viên và tên giảng viên hướng dẫn khỏi README trên repo (commit `820400d2633b8ca4b5ffffb76b72b78158b02a09`); nhật ký cập nhật đã ghi việc này (commit `8c750f7f44855140e635f4c376fe011c80fd4429`). Lưu ý: lịch sử commit cũ vẫn còn bản README cũ có tên, muốn xóa hẳn khỏi lịch sử phải xóa repo và tạo lại.
+- GitHub ngày 06/11/2026, 13:23: đã đẩy toàn bộ file text data v7.3.1 (1.564 file, 17.706.220 byte, chia 5 lần đẩy vì lần 13,5 MB bị từ chối HTTP 413) và bản Word trình bày chia chunk dạng Markdown lên repo, tên tuổi trong data giữ nguyên; file zip, Word gốc và chunk đầy đủ vẫn chỉ giữ trong backup Drive.
 
 ## Lưu ý phân biệt phiên
 - Chỉ kiểm tra tên file kết thúc bằng v7.3.1, không phân biệt hai file zip gói chia chunk bằng dung lượng vì cả hai đều 9,3 MB.

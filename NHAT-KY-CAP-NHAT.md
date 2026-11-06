@@ -5,11 +5,18 @@ Quy tắc ghi nhật ký, theo yêu cầu ngày 05/11/2026: mỗi chi tiết ch�
 như lịch sử commit trên GitHub. Bản cũ không xóa, chỉ thêm mục mới lên đầu.
 Sau này khi kết nối GitHub, mỗi mục ở đây tương ứng với một commit.
 
+## 2026-11-06 13:23 — GitHub: đẩy toàn bộ file text data v7.3.1 và bản Word dạng Markdown
+- File đổi: thêm thư mục `data-text-v7.3.1/` (1.564 file, 17.706.220 byte) và `goi-chia-chunk-v7.3.1/01-Ban-trinh-bay-chia-chunk-v7.3.1.md` (bản text của file Word trình bày chia chunk) lên repo `ythiet-mlo003/bdu-student-assistant-chatbot`; cập nhật `README.md` để trỏ tới hai thư mục này.
+- Nội dung: theo yêu cầu của người dùng, tên tuổi trong data giữ nguyên (4 file nhắc tên giảng viên với vai trò giảng viên/cán bộ trường trong dữ liệu công khai vẫn giữ nguyên); bản Word đẩy lên dạng Markdown, thông tin sinh viên và giảng viên hướng dẫn đã ẩn theo quy tắc repo công khai.
+- Giới hạn gặp khi đẩy: lần đẩy 13,5 MB một lần bị từ chối HTTP 413 (request body too large) dù giới hạn snapshot ghi 16 MB; đã chia data thành 5 lần đẩy, mỗi lần tối đa 4 MB (10 file + 1 file 4,8 MB + 657 file + 586 file + 310 file). File zip, file Word gốc (.docx) và file chunk đầy đủ (23 MB) không đẩy lên GitHub, vẫn giữ trong backup Drive.
+- Kiểm chứng: đã đọc lại trên nhánh `main` — `manifest.json` (v7.3.1, 1.560 file), file bảng điểm K29 và bản Word Markdown đều có; file bài báo giảng viên vẫn chứa tên như dữ liệu gốc. Commit data: `e3d9c30e`, `10e42413`, `7e057486`, `3ad3a7fe`, `3316aaca`; commit Word Markdown + README: `c6bc0d84`.
+
 ## 2026-11-05 17:09 — GitHub: xóa tên sinh viên và tên giảng viên hướng dẫn khỏi README
 - File đổi: `README.md` trên repo `ythiet-mlo003/bdu-student-assistant-chatbot`
 - Nội dung: theo yêu cầu của người dùng, không đẩy tên cá nhân lên repo công khai; đã xóa dòng tên sinh viên, MSSV, lớp và dòng tên giảng viên hướng dẫn khỏi README, chỉ giữ tên trường/khoa/viện. Kiểm tra toàn bộ 18 file đã đẩy: chỉ README chứa tên, các file còn lại không chứa.
 - Kiểm chứng: commit mới `820400d2633b8ca4b5ffffb76b72b78158b02a09`, đã đọc lại README trên nhánh `main` và không còn tên.
 - Lưu ý quan trọng: commit cũ `1b93f2b6` trong lịch sử GitHub vẫn còn bản README cũ có tên, vì GitHub giữ lại lịch sử commit. Xóa ở bản hiện tại chỉ làm sạch trang repo hiện tại, không xóa được lịch sử. Muốn xóa hẳn khỏi lịch sử thì phải xóa repo và tạo lại rồi đẩy bản sạch, hoặc viết lại lịch sử.
+- Quyết định ngày 05/11/2026 lúc 17:10: người dùng chọn để như hiện tại, chỉ xóa tên ở bản mới nhất, không xóa repo làm lại.
 
 ## 2026-11-05 17:06 — GitHub: đẩy snapshot đầu tiên lên repo bdu-student-assistant-chatbot
 - Repo: `ythiet-mlo003/bdu-student-assistant-chatbot` (Public, nhánh `main`), do người dùng tự tạo lúc 17:03 cùng ngày vì kết nối Muse GitHub App không có quyền tự tạo repo (thử tạo bị từ chối 403).
