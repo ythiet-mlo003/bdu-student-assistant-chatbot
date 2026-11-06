@@ -1,0 +1,13 @@
+TIÊU ĐỀ: Chức năng - Nhiệm vụ
+NGUỒN: https://daotao.bdu.edu.vn/index.php/ve-chung-toi/chuc-nang-nhiem-vu-310.html
+SITE: daotao
+MỤC: ke-hoach-thang
+NGÀY BÀI: 2024-01-01
+NĂM: 2024
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+1️⃣. Quản lý đào tạo ✔️ Tham mưu chiến lược, xây dựng quy chế, phát triển chương trình. ✔️ Quản lý kế hoạch đào tạo, tổ chức thi cử, xét miễn giảm, cấp bằng. ✔️ Ứng dụng công nghệ, kết nối doanh nghiệp hỗ trợ đào tạo và việc làm. ✔️ Quản lý, phân bổ cơ sở vật chất phục vụ đào tạo. 2️⃣. Hỗ trợ & Quản lý hệ thống ✔️ Thống kê, báo cáo, lưu trữ dữ liệu đào tạo & sinh viên. ✔️ Quản lý, cập nhật phần mềm đào tạo, cổng thông tin. ✔️ Quản lý nhân sự, tài sản, thực hiện nhiệm vụ theo chỉ đạo.

@@ -1,0 +1,502 @@
+TIÊU ĐỀ: Chương trình đào tạo Văn Bằng 2
+NGUỒN: https://daotao.bdu.edu.vn/dai-hoc-van-bang-2/chuong-trinh-dao-tao-van-bang-2-88.html
+SITE: daotao
+MỤC: dai-hoc-van-bang-2
+NGÀY BÀI: 2020-09-16
+NĂM: 2020
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+TÀI LIỆU ĐÍNH KÈM: 4 file (pdf_text_layer, pdf_text_layer, pdf_text_layer, drive_preview_p1_ocr)
+SỐ BẢNG: 1
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG]
+| STT | Ngành đào tạo | Ngày cập nhật | Ghi chú |
+| --- | --- | --- | --- |
+| 6 | Ngành Kế toán (Văn bằng 2) | 28.3.2016 | |
+| 5 | Ngành Xây dựng (Văn bằng 2) | 28.3.2016 | |
+| 4 | Chương trình Đào tạo Văn bằng 2 ngành Quản trị kinh doanh - TẢI FILE (https://drive.google.com/file/d/1FFU2DvH9ihJCJ2XbSAZ4PzbD0QakKTi3/view?usp=sharing) | 15.7.2014 | |
+| 3 | Chương trình Đào tạo Văn bằng 2 ngành Ngôn ngữ Anh - TẢI FILE (https://drive.google.com/file/d/123BsW7vCp8fYVEwuOcFWQgR5CwFQfCGB/view?usp=sharing) | 15.7.2014 | |
+| 2 | Chương trình Đào tạo Văn bằng 2 ngành Kế toán - TẢI FILE (https://drive.google.com/file/d/1Q9GCHOjArRBYTxYpMTQGt8ZCTSUxt8Nq/view?usp=sharing) | 15.7.2014 | |
+| 1 | Chương trình đào tạo Văn bằng 2 khóa 9 - TẢI FILE (https://docs.google.com/spreadsheets/d/1txE-wjat-dk7IyfbU2-km7qCe7ZucDRfGcqRt5d10NQ/edit?usp=sharing) | 14.7.2014 | |
+[DẠNG TRA CỨU]
+- 6: Ngành đào tạo = Ngành Kế toán (Văn bằng 2); Ngày cập nhật = 28.3.2016
+- 5: Ngành đào tạo = Ngành Xây dựng (Văn bằng 2); Ngày cập nhật = 28.3.2016
+- 4: Ngành đào tạo = Chương trình Đào tạo Văn bằng 2 ngành Quản trị kinh doanh - TẢI FILE (https://drive.google.com/file/d/1FFU2DvH9ihJCJ2XbSAZ4PzbD0QakKTi3/view?usp=sharing); Ngày cập nhật = 15.7.2014
+- 3: Ngành đào tạo = Chương trình Đào tạo Văn bằng 2 ngành Ngôn ngữ Anh - TẢI FILE (https://drive.google.com/file/d/123BsW7vCp8fYVEwuOcFWQgR5CwFQfCGB/view?usp=sharing); Ngày cập nhật = 15.7.2014
+- 2: Ngành đào tạo = Chương trình Đào tạo Văn bằng 2 ngành Kế toán - TẢI FILE (https://drive.google.com/file/d/1Q9GCHOjArRBYTxYpMTQGt8ZCTSUxt8Nq/view?usp=sharing); Ngày cập nhật = 15.7.2014
+- 1: Ngành đào tạo = Chương trình đào tạo Văn bằng 2 khóa 9 - TẢI FILE (https://docs.google.com/spreadsheets/d/1txE-wjat-dk7IyfbU2-km7qCe7ZucDRfGcqRt5d10NQ/edit?usp=sharing); Ngày cập nhật = 14.7.2014
+[/BẢNG]
+
+[TÀI LIỆU ĐÍNH KÈM — BỘ GIÁO DỤC VÀ ĐÀO TẠO                        CỘNG HÒa XÃ HỘI CHỦ NGHĨa VIỆT NaM]
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒa XÃ HỘI CHỦ NGHĨa VIỆT NaM
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc lập - Tự do - Hạnh phúc
+
+KHuNG CHƯƠNG TRÌNH ĐÀo TẠo THeo HỌC CHẾ TÍN CHỈ
+(Ban hành theo quyết định số: /QĐ-ĐHBD ngày tháng năm của Hiệu tr­ởng)
+
+Hệ Đào Tạo: Văn bằng 2 (VB)
+Ngành Đào Tạo: Ngôn ngữ Anh (AV) Mã ngành: 52220201
+Chuyên ngành: Th­¬ng mại và văn phòng
+Số Tín Chỉ Tích Lũy Tối Thiểu Của Tất Cả Các Môn Học 67
+
+STT Mã MH Tên môn học TC LT TH Năm HK
+
+Môn Học Theo Ch­¬ng Trình
+
+1 ENG0143 Grammar 1 3 45 1 1
+2 ENG0303 Listening 1 3 45 1 1
+3 ENG0383 Phonetics 3 45 1 1
+4 ENG0453 Reading 1 3 45 1 1
+5 ENG0483 Speaking 1 3 45 1 1
+6 ENG0543 Writing 1 3 45 1 1
+7 ENG0153 Grammar 2 3 45 1 2
+8 ENG0313 Listening 2 3 45 1 2
+9 ENG0463 Reading 2 3 45 1 2
+10 ENG0493 Speaking 2 3 45 1 2
+11 ENG0553 Writing 2 3 45 1 2
+12 ENG0133 Extra activities 3 45 2 1
+13 ENG0162 Grammar 3 2 30 2 1
+14 ENG0223 Interpretation 1 3 45 2 1
+15 ENG0443 Reading & writing 3 45 2 1
+16 ENG0523 Translation 1 3 45 2 1
+17 ENG0562 Writing 3 2 30 2 1
+18 ENG0243 Introduction to foreign trade 3 45 2 2
+19 ENG0433 Public speaking 3 45 2 2
+Cộng Nhóm: 55
+
+Nhóm MH Bắt Buộc Tự Chọn 01 - Phải Đạt 2 TC
+
+1 ENG0283 Listening & speaking 1 3 45 1 1
+2 ENG0392 Phonology 2 30 1 1
+3 ENG0502 Study Skills 2 30 1 1
+4 ENG0293 Listening & speaking 2 3 45 1 2
+5 ENG0472 Semantics 2 30 1 2
+6 ENG0043 Asian studies 3 45 2 1
+7 ENG0063 British & American literature 3 45 2 1
+8 ENG0332 Morphology & syntax 2 30 2 1
+9 ENG0402 Practice of language skills 2 30 2 1
+10 ENG0093 Culture of English speaking 3 45 2 2
+countries
+
+KHuNG CHƯƠNG TRÌNH ĐÀo TẠo THeo HỌC CHẾ TÍN CHỈ
+
+STT Mã MH Tên môn học TC LT TH Năm HK
+
+Cộng Nhóm: 25
+
+Nhóm MH Bắt Buộc Tự Chọn 02 - Phải Đạt 3 TC
+
+1 ENG0272 Lễ Tân 2 30 1 1
+2 ENG0053 Basic business laws 3 45 1 2
+3 ENG0072 Business conversations 2 30 1 2
+4 ENG0323 Marketing research 3 45 1 2
+5 ENG0123 ESP Interpretation 3 45 2 1
+6 ENG0213 Intercultural communications 3 45 2 1
+7 ENG0532 Translation 2 2 30 2 1
+8 ENG0232 Interpretation 2 2 30 2 2
+9 ENG0253 Introduction to Management 3 45 2 2
+10 ENG0373 Office skills 3 45 2 2
+11 ENG0413 Principles of accounting 3 45 2 2
+12 ENG0423 Principles of marketing 3 45 2 2
+Cộng Nhóm: 32
+
+Nhóm MH Bắt Buộc Tự Chọn 03 - Phải Đạt 7 TC
+
+1 ENG0082 Business culture 2 30 2 2
+2 ENG0102 Document translation 2 30 2 2
+3 ENG0113 E-commerce 3 45 2 2
+4 ENG0267 Khoá luận tốt nghiệp 7 105 2 2
+Cộng Nhóm: 14
+
+Tổng tín chỉ các nhóm bắt buộc tự chọn: 12
+Chú giải: "TC": Số tín chỉ; "LT": Số tiết lý thuyết"; "TH": Số tiết thực hành
+(*) Môn điều kiện, không tính điểm trung bình, khi hoàn thành sinh viên sẽ đ­ợc cấp chứng chỉ.
+L­u ý:
+Sinh viên có thể chọn học thêm các môn chuyên ngành ở phần tự chọn để tích lũy tín chỉ thay thế Khóa luận TN
+Sinh viên bắt buộc phải chọn học 01 trong 03 ngoại ngữ phụ sau: Tiếng Nhật, Tiếng Hàn, Tiếng Hoa (10TC/môn)
+
+KT.TRƯỞNG PHÒNG ĐÀo TẠo P.HT PHỤ TRÁCH ĐÀo TẠo HIỆu TRƯỞNG
+PHÓ TRƯỞNG PHÒNG
+
+TS. Võ Văn Việt TS. Cao Việt Hiếu GS.VS. Cao Văn Phường
+
+[TÀI LIỆU ĐÍNH KÈM — BỘ GIÁO DỤC VÀ ĐÀO TẠO                       CỘNG HÒa XÃ HỘI CHỦ NGHĨa VIỆT NaM]
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒa XÃ HỘI CHỦ NGHĨa VIỆT NaM
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc lập - Tự do - Hạnh phúc
+
+KHuNG CHƯƠNG TRÌNH ĐÀo TẠo THeo HỌC CHẾ TÍN CHỈ
+(Ban hành theo quyết định số: /QĐ-ĐHBD ngày tháng năm của Hiệu trưởng)
+
+Hệ Đào Tạo: Văn bằng 2 (VB)
+Ngành Đào Tạo: Kế Toán (KT) Mã ngành: 52340301
+Chuyên ngành: Kế toán
+Số Tín Chỉ Tích Lũy Tối Thiểu Của Tất Cả Các Môn Học 77
+
+STT Mã MH Tên môn học TC LT TH Năm HK
+
+Môn Học Theo Chư¬ng Trình
+
+1 ACT0062 Kế toán tài chính 1 2 30 1 1
+2 ACT0173 Nguyên lý kế toán 3 45 1 1
+3 ACT0242 Thuế trong kinh doanh (luật thuế) 2 30 1 1
+4 BUS0422 Phư¬ng pháp học đại học & nghiên 2 30 1 1
+cứu khoa học
+5 ECO0053 Kinh tế vi mô 3 45 1 1
+6 ECO0063 Kinh tế vĩ mô 3 45 1 1
+7 ECO0123 Nguyên lý thống kê kinh tế 3 45 1 1
+8 ACT0044 Kế toán chi phí 3 45 1 2
+9 ACT0072 Kế toán tài chính 2 2 30 1 2
+10 ACT0122 Kiểm toán 1 2 30 1 2
+11 ACT0203 Tài chính tiền tệ 3 45 1 2
+12 BUS0183 Quản trị học 3 45 1 2
+13 ECO0043 Kinh tế lượng 3 45 1 2
+14 ACT0052 Kế toán hành chính sự nghiệp 2 30 2 1
+15 ACT0082 Kế toán tài chính 3 2 30 2 1
+16 ACT0092 Kế toán tài chính 4 2 30 2 1
+17 ACT0132 Kiểm toán 2 2 30 2 1
+18 BUS0442 Kế toán quản trị 2 2 30 2 1
+19 ECO0022 Kế toán ngân hàng 2 30 2 1
+20 ECO0034 Kế toán quản trị 1 3 45 2 1
+21 ACT0022 Hệ thống thông tin kế toán 1 2 30 2 2
+22 ACT0032 Hệ thống thông tin kế toán 2 2 30 2 2
+23 ACT0102 Kế toán thuế và BCTC 2 30 2 2
+24 ACT0192 Sổ sách kế toán 2 30 2 2
+25 ACT0233 Thực tập 3 45 2 2
+26 BUS0452 Mô phỏng kế toán 2 30 2 2
+Cộng Nhóm: 62
+
+KHuNG CHƯƠNG TRÌNH ĐÀo TẠo THeo HỌC CHẾ TÍN CHỈ
+
+STT Mã MH Tên môn học TC LT TH Năm HK
+
+Nhóm MH Bắt Buộc Tự Chọn 01 - Phải Đạt 2 TC
+
+1 ACT0152 Kỹ thuật ngoại thư¬ng 2 30 1 1
+2 BSC0052 Kỹ năng giao tiếp 2 30 1 1
+3 ECO0072 Kinh tế phát triển 2 30 1 1
+4 ECO0082 Kinh tế quốc tế 2 30 1 1
+5 ECO0092 Lịch sử các học thuyết kinh tế 2 30 1 1
+6 ACT0182 Phân tích HĐKD của DN 2 30 1 2
+Cộng Nhóm: 12
+
+Nhóm MH Bắt Buộc Tự Chọn 02 - Phải Đạt 2 TC
+
+1 ECO0102 Luật kinh tế 2 30 1 1
+2 ACT0143 Kiểm toán căn bản 3 45 1 2
+3 BUS0433 Địa lý kinh tế 3 45 1 2
+4 ECO0113 Marketing căn bản 3 45 1 2
+5 FIB0163 Nghiệp vụ ngân hàng thư¬ng mại 3 45 1 2
+6 MAT0013 Lý thuyết xác suất và thống kê toán 3 45 1 2
+Cộng Nhóm: 17
+
+Nhóm MH Bắt Buộc Tự Chọn 03 - Phải Đạt 4 TC
+
+1 ECO0132 Thanh toán quốc tế 2 30 1 2
+2 ACT0012 Hành vi tổ chức 2 30 2 1
+3 ACT0252 Xây dựng và thẩm định dự án đầu 2 30 2 1
+tư
+4 ECO0012 Đàm phán và giao tiếp trong kinh 2 30 2 1
+doanh
+5 FIB0253 Tài chính quốc tế 3 45 2 1
+6 ACT0162 Nghiệp vụ hành chính văn phòng 2 30 2 2
+7 ACT0212 Tâm lý và nghệ thuật lãnh đạo 2 30 2 2
+8 ACT0222 Thẩm định giá bất động sản 2 30 2 2
+9 BUS0402 Thư¬ng mại điện tử 2 30 2 2
+10 ECO0142 Thị trường chứng khoán 2 30 2 2
+Cộng Nhóm: 21
+
+Nhóm MH Bắt Buộc Tự Chọn 04 - Phải Đạt 7 TC
+
+1 ACT0117 Khoá luận tốt nghiệp 7 105 2 2
+Cộng Nhóm: 7
+
+Tổng tín chỉ các nhóm bắt buộc tự chọn: 15
+Chú giải: "TC": Số tín chỉ; "LT": Số tiết lý thuyết"; "TH": Số tiết thực hành
+(*) Môn điều kiện, không tính điểm trung bình, khi hoàn thành sinh viên sẽ được cấp chứng chỉ.
+KT.TRƯỞNG PHÒNG ĐÀo TẠo P.HT PHỤ TRÁCH ĐÀo TẠo HIỆu TRƯỞNG
+PHÓ TRƯỞNG PHÒNG
+
+TS. Võ Văn Việt TS. Cao Việt Hiếu GS.VS. Cao Văn Phường
+
+[TÀI LIỆU ĐÍNH KÈM — BỘ GIÁO DỤC VÀ ĐÀO TẠO                      CỘNG HÒa XÃ HỘI CHỦ NGHĨa VIỆT NaM]
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒa XÃ HỘI CHỦ NGHĨa VIỆT NaM
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc lập - Tự do - Hạnh phúc
+
+KHuNG CHƯƠNG TRÌNH ĐÀo TẠo THeo HỌC CHẾ TÍN CHỈ
+(Ban hành theo quyết định số: /QĐ-ĐHBD ngày tháng năm của Hiệu trưởng)
+
+Hệ Đào Tạo: Văn bằng 2 (VB)
+Ngành Đào Tạo: Quản trị Kinh doanh (QT) Mã ngành: 52340101
+Chuyên ngành: Quản trị doanh nghiệp
+Số Tín Chỉ Tích Lũy Tối Thiểu Của Tất Cả Các Môn Học 77
+
+STT Mã MH Tên môn học TC LT TH Năm HK
+
+Môn Học Theo Chư¬ng Trình
+
+1 BUS0422 Phư¬ng pháp học đại học & nghiên 2 30 1 1
+cứu khoa học
+2 ECO0053 Kinh tế vi mô 3 45 1 2
+3 ECO0063 Kinh tế vĩ mô 3 45 2 1
+4 ECO0123 Nguyên lý thống kê kinh tế 3 45 2 1
+5 ACT0173 Nguyên lý kế toán 3 45 2 2
+6 BUS0183 Quản trị học 3 45 2 2
+7 BUS0283 Quản trị ngoại thư¬ng (1) 3 45 2 2
+8 ECO0012 Đàm phán và giao tiếp trong kinh 2 30 2 2
+doanh
+9 ECO0043 Kinh tế lượng 3 45 2 2
+10 BUS0013 Anh văn chuyên ngành 1 3 45 3 1
+11 BUS0223 Quản trị chiến lược và chính sách 3 45 3 1
+kinh doanh
+12 BUS0242 Quản trị hành chính văn phòng 2 30 3 1
+13 ECO0034 Kế toán quản trị 1 3 45 3 1
+14 ECO0102 Luật kinh tế 2 30 3 1
+15 BUS0022 Anh văn chuyên ngành 2 2 30 3 2
+16 BUS0163 Phân tích hoạt động kinh doanh 3 45 3 2
+của DN
+17 BUS0232 Quản trị dự án 2 30 3 2
+18 BUS0323 Quản trị sản xuất và điều hành 3 45 3 2
+19 ECO0132 Thanh toán quốc tế 2 30 3 2
+20 BUS0263 Quản trị markeitng 3 45 4 1
+21 BUS0303 Quản trị nguồn nhân lực 3 45 4 1
+22 BUS0343 Quản trị tài chính doanh nghiệp 3 45 4 1
+23 BUS0383 Thực tập 3 90 4 2
+Cộng Nhóm: 62
+
+KHuNG CHƯƠNG TRÌNH ĐÀo TẠo THeo HỌC CHẾ TÍN CHỈ
+
+STT Mã MH Tên môn học TC LT TH Năm HK
+
+Nhóm MH Bắt Buộc Tự Chọn 01 - Phải Đạt 2 TC
+
+1 BUS0393 Thuế trong kinh doanh 3 45
+2 ECO0113 Marketing căn bản 3 45
+3 ECO0072 Kinh tế phát triển 2 30 1 1
+4 ECO0092 Lịch sử các học thuyết kinh tế 2 30 1 1
+5 BSC0052 Kỹ năng giao tiếp 2 30 1 2
+6 ECO0082 Kinh tế quốc tế 2 30 1 2
+Cộng Nhóm: 14
+
+Nhóm MH Bắt Buộc Tự Chọn 02 - Phải Đạt 2 TC
+
+1 BUS0032 Đạo đức trong kinh doanh 2 30
+2 BUS0123 Marketing quốc tế 3 45
+3 BUS0433 Địa lý kinh tế 3 45 2 1
+4 MAT0013 Lý thuyết xác suất và thống kê toán 3 45 2 1
+5 ACT0203 Tài chính tiền tệ 3 45 2 2
+6 BSC0063 Kỹ năng làm việc theo nhóm 3 45 2 2
+Cộng Nhóm: 17
+
+Nhóm MH Bắt Buộc Tự Chọn 03 - Phải Đạt 4 TC
+
+1 BUS0402 Thư¬ng mại điện tử 2 30
+2 BUS0082 Logicstic 2 30 3 1
+3 BUS0152 Nghiên cứu Marketing 2 30 3 1
+4 BUS0212 Quản trị chất lượng 2 30 3 2
+5 BUS0252 Quản trị kinh doanh quốc tế 2 30 3 2
+6 BUS0372 Tâm lý quản trị và nghệ thuật lãnh 2 30 3 2
+đạo
+7 ECO0142 Thị trường chứng khoán 2 30 3 2
+8 BUS0172 PR Quan hệ công chúng 2 30 4 1
+9 BUS0272 Quản trị ngân hàng thư¬ng mại 2 30 4 1
+10 BUS0312 Quản trị rủi ro tài chính 2 30 4 1
+11 BUS0353 Quản trị thư¬ng hiệu 3 45 4 1
+Cộng Nhóm: 23
+
+Nhóm MH Bắt Buộc Tự Chọn 04 - Phải Đạt 7 TC
+
+1 BUS0067 Khoá luận tốt nghiệp 7 105 4 2
+Cộng Nhóm: 7
+
+Tổng tín chỉ các nhóm bắt buộc tự chọn: 15
+Chú giải: "TC": Số tín chỉ; "LT": Số tiết lý thuyết"; "TH": Số tiết thực hành
+(*) Môn điều kiện, không tính điểm trung bình, khi hoàn thành sinh viên sẽ được cấp chứng chỉ.
+
+KT.TRƯỞNG PHÒNG ĐÀo TẠo P.HT PHỤ TRÁCH ĐÀo TẠo HIỆu TRƯỞNG
+PHÓ TRƯỞNG PHÒNG
+
+TS. Võ Văn Việt TS. Cao Việt Hiếu GS.VS. Cao Văn Phường
+
+[TÀI LIỆU ĐÍNH KÈM — OCR ảnh xem trước trang đầu, file gốc bị khoá tải]
+
+HỌC KỲ
+
+THI TOT
+NGHIEP
+
+x
+
+HOẠCH DT HỆ VĂN BANG HAI
+NGÀNH ANH VĂN - K9
+
+MÃ MH
+011011113
+011009114
+011001114
+011006114
+011003113
+011030013
+002116013
+011012213
+011010214
+011002214
+011007214
+011004213
+011031012
+011014114
+011013312
+011008313
+011005313
+011015214
+011016114
+011033112
+012005014
+011034212
+011032014
+011025014
+012015014
+012006014
+011025014
+012110112
+011024012
+011036314
+012004014
+011037414
+012003014
+012112026
+012111212
+
+STT TÊN MÔN HỌC
+
+rammar | 3
+istening |
+
+peaking |
+
+eading |
+Writing |
+Phonetics
+Introduction to Linguistics
+Grammar 2
+Listening 2
+Speaking 2
+Reading 2
+Writing 2
+Phonology
+Listening & Speaking 1
+Grammar 3
+Reading 3
+Writing 3
+Listening & Speaking 2
+Reading & Writing |
+Translation | (E-V, V-E)
+Culture of English Speaking Count
+Translation 2 (E-V, V-E)
+Morphology & Syntax
+Public Speaking
+Literature
+nglish for the Office
+ocio-linguistics
+nterpretation | (E-V)
+emantics (Ngữ nghĩa học)
+ranslation 3 (E-V, V-E)
+Business English
+Translation 4 (ESP)
+Asian Studies
+Practice of Foreign Trade
+Interpretation 2 (E-V)
+
+@
+
+wn
+
+¬
+
+„ wn G3
+
+b2
+
+„ wn
+—
+
+b2
+
+G3
+
+tv
+
+<|Z
+
+S|8
+
+s/c
+
+8|“
+
+ta | ®2
+
+Sls
+
+iS \a
+i=
+
+"8.148
+
+oo
+
+=
+
+oO
+
+(a
+
+we
+
+©›
+
+Translation & Interpretation
+Business English
+English for the Office
+
+mm
+| 2
+| 4
+| 5
+| 6
+| 7
+| 1 |
+| 2
+| 3
+| 4
+| S|
+| 6
+7 |
+mw
+| 2
+| 3
+| 4
+| 6
+| 7 |
+| 8
+mw
+| 2
+| 3
+| 5 |
+| 6
+| 7
+|
+| 2
+| 3
+| 4
+| S|
+| 6
+mm
+—
+
+DVHT | SO TIẾT GHI CHÚ

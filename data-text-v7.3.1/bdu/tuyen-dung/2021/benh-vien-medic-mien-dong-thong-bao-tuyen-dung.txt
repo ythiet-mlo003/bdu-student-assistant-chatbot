@@ -1,0 +1,14 @@
+TIÊU ĐỀ: Bệnh viện Medic Miển Đông thông báo tuyển dụng
+NGUỒN: https://bdu.edu.vn/tuyen-dung/benh-vien-medic-mien-dong-thong-bao-tuyen-dung-1103.html
+SITE: bdu
+MỤC: tuyen-dung
+NGÀY BÀI: 2021-05-12
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: partial — Nội dung trích chưa đầy đủ
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+
+

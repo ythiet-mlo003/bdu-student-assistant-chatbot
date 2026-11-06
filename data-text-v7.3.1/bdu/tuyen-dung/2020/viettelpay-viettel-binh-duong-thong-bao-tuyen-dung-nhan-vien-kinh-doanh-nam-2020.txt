@@ -1,0 +1,14 @@
+TIÊU ĐỀ: ViettelPay - Viettel Bình Dương thông báo tuyển dụng nhân viên kinh doanh năm 2020
+NGUỒN: https://bdu.edu.vn/tuyen-dung/viettelpay-viettel-binh-duong-thong-bao-tuyen-dung-nhan-vien-kinh-doanh-nam-2020-1519.html
+SITE: bdu
+MỤC: tuyen-dung
+NGÀY BÀI: 2020-03-13
+NĂM: 2020
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: partial — Nội dung trích chưa đầy đủ
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+
+

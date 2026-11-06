@@ -1,0 +1,25 @@
+TIÊU ĐỀ: Biểu mẫu hồ sơ xét GDQP-AN
+NGUỒN: https://daotao.bdu.edu.vn/gdqp-an/bieu-mau-ho-so-xet-gdqp-an-256.html
+SITE: daotao
+MỤC: gdqp-an
+NGÀY BÀI: 2024-10-17
+NĂM: 2024
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: toan-van
+SỐ BẢNG: 1
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG]
+| STT | Nội dung | Ghi chú |
+| --- | --- | --- |
+| 1 | PHIẾU THÔNG TIN IN CHỨNG CHỈ GDQP-AN (http://drive.google.com/u/0/uc?id=1FfQcIfpWkXIzD9DBDrZQaSxwtSLSDG0n&export=download) | Tải phiếu tại đây (https://drive.google.com/u/0/uc?id=1FfQcIfpWkXIzD9DBDrZQaSxwtSLSDG0n&export=download) |
+| 2 | Giấy khai sinh | 01 bản photo |
+| 3 | Căn cước công dân/ Căn cước | 01 bản photo |
+[DẠNG TRA CỨU]
+- 1: Nội dung = PHIẾU THÔNG TIN IN CHỨNG CHỈ GDQP-AN (http://drive.google.com/u/0/uc?id=1FfQcIfpWkXIzD9DBDrZQaSxwtSLSDG0n&export=download); Ghi chú = Tải phiếu tại đây (https://drive.google.com/u/0/uc?id=1FfQcIfpWkXIzD9DBDrZQaSxwtSLSDG0n&export=download)
+- 2: Nội dung = Giấy khai sinh; Ghi chú = 01 bản photo
+- 3: Nội dung = Căn cước công dân/ Căn cước; Ghi chú = 01 bản photo
+[/BẢNG]
+

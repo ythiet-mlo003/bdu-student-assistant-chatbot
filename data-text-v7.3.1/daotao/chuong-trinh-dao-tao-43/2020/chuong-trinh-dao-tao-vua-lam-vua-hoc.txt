@@ -1,0 +1,39 @@
+TIÊU ĐỀ: Chương trình đào tạo Vừa làm vừa học
+NGUỒN: https://daotao.bdu.edu.vn/chuong-trinh-dao-tao-43/chuong-trinh-dao-tao-vua-lam-vua-hoc-87.html
+SITE: daotao
+MỤC: chuong-trinh-dao-tao-43
+NGÀY BÀI: 2020-09-16
+NĂM: 2020
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: toan-van
+SỐ BẢNG: 1
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG]
+| STT | Ngành đào tạo | Ngày cập nhật | Ghi chú |
+| --- | --- | --- | --- |
+| 10 | Ngành Xã hội học - TẢI FILE | | |
+| 9 | Ngành Việt Nam học - TẢI FILE | | |
+| 8 | Ngành Văn học - TẢI FILE | | |
+| 7 | Ngành Luật kinh tế - TẢI FILE | | |
+| 6 | Ngành Kế toán - TẢI FILE | | |
+| 5 | Ngành Điện, Điện tử - TẢI FILE | | |
+| 4 | Ngành Kế toán - TẢI FILE | | |
+| 3 | Ngành Công nghệ thông tin - TẢI FILE | | |
+| 2 | Ngành Công nghệ sinh học - TẢI FILE | | |
+| 1 | Ngành Xây dựng - TẢI FILE | | |
+[DẠNG TRA CỨU]
+- 10: Ngành đào tạo = Ngành Xã hội học - TẢI FILE
+- 9: Ngành đào tạo = Ngành Việt Nam học - TẢI FILE
+- 8: Ngành đào tạo = Ngành Văn học - TẢI FILE
+- 7: Ngành đào tạo = Ngành Luật kinh tế - TẢI FILE
+- 6: Ngành đào tạo = Ngành Kế toán - TẢI FILE
+- 5: Ngành đào tạo = Ngành Điện, Điện tử - TẢI FILE
+- 4: Ngành đào tạo = Ngành Kế toán - TẢI FILE
+- 3: Ngành đào tạo = Ngành Công nghệ thông tin - TẢI FILE
+- 2: Ngành đào tạo = Ngành Công nghệ sinh học - TẢI FILE
+- 1: Ngành đào tạo = Ngành Xây dựng - TẢI FILE
+[/BẢNG]
+

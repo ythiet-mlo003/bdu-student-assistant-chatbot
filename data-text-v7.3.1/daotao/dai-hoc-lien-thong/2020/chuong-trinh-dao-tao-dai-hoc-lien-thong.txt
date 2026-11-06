@@ -1,0 +1,31 @@
+TIÊU ĐỀ: Chương trình đào tạo Đại học liên thông
+NGUỒN: https://daotao.bdu.edu.vn/dai-hoc-lien-thong/chuong-trinh-dao-tao-dai-hoc-lien-thong-91.html
+SITE: daotao
+MỤC: dai-hoc-lien-thong
+NGÀY BÀI: 2020-09-16
+NĂM: 2020
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: toan-van
+SỐ BẢNG: 1
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG]
+| STT | Ngành đào tạo | Ngày cập nhật | Ghi chú |
+| --- | --- | --- | --- |
+| 6 | Ngành Điện - Điện tử (Hệ Liên thông) - Tải file | 29.3.2016 | |
+| 5 | Ngành Kế toán (Hệ Liên thông) | | |
+| 4 | Ngành Công nghệ thông tin (Hệ Liên thông) | | |
+| 3 | Ngành xây dựng (Hệ Liên thông) | | |
+| 2 | Chương trình đào tạo Liên thông theo niên chế từ Cao đẳng lên Đại học. | | |
+| 1 | Chương trình đào tạo liên thông theo tín chỉ | | |
+[DẠNG TRA CỨU]
+- 6: Ngành đào tạo = Ngành Điện - Điện tử (Hệ Liên thông) - Tải file; Ngày cập nhật = 29.3.2016
+- 5: Ngành đào tạo = Ngành Kế toán (Hệ Liên thông)
+- 4: Ngành đào tạo = Ngành Công nghệ thông tin (Hệ Liên thông)
+- 3: Ngành đào tạo = Ngành xây dựng (Hệ Liên thông)
+- 2: Ngành đào tạo = Chương trình đào tạo Liên thông theo niên chế từ Cao đẳng lên Đại học.
+- 1: Ngành đào tạo = Chương trình đào tạo liên thông theo tín chỉ
+[/BẢNG]
+

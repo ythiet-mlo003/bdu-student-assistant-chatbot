@@ -1,0 +1,95 @@
+TIÊU ĐỀ: Chương trình đào tạo Đại học chính quy
+NGUỒN: https://daotao.bdu.edu.vn/dai-hoc-chinh-quy-33/chuong-trinh-dao-tao-dai-hoc-chinh-quy-26.html
+SITE: daotao
+MỤC: trang-chu
+NGÀY BÀI: 2019-11-18
+NĂM: 2019
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+TÀI LIỆU ĐÍNH KÈM: 3 file (drive_preview_p1_ocr, drive_preview_p1_ocr, drive_preview_p1_ocr)
+SỐ BẢNG: 1
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG]
+| STT | Ngành đào tạo |
+| --- | --- |
+| 1 | Công nghệ thông tin (https://daotao.bdu.edu.vn/dai-hoc-chinh-quy/chuong-trinh-dao-tao/chuong-trinh-dao-tao-dai-hoc-chinh-quy-nganh-cong-nghe-thong-tin.html) |
+| 2 | Điện - Điện tử (https://daotao.bdu.edu.vn/dai-hoc-chinh-quy/chuong-trinh-dao-tao/chuong-trinh-dao-tao-dai-hoc-chinh-quy-nganh-dien-dien-tu.html) |
+| 3 | Công nghệ kỹ thuật công trình xây dựng (https://daotao.bdu.edu.vn/dai-hoc-chinh-quy/chuong-trinh-dao-tao/chuong-trinh-dao-tao-dai-hoc-chinh-quy-nganh-xay-dung.html) |
+| 4 | Luật kinh tế (https://drive.google.com/file/d/0B7rGnik8lxxpZWxyMGg0aHdPcms/view?resourcekey=0-F2QhuzmscEs9C9ShiiuaAw) |
+| 5 | Việt Nam học (https://drive.google.com/file/d/0B7rGnik8lxxpV3Y4N3hhTi1VZHM/view?resourcekey=0-FM5vJ5Bo5uFNnlg6wJm0FQ) |
+| 6 | Công nghệ sinh học (https://drive.google.com/file/d/0B7rGnik8lxxpZmVYbGxUamowdWs/view?resourcekey=0-WGigumzk8LC0Fu0ZuvNiiA) |
+| 7 | Văn học (https://drive.google.com/file/d/0B7rGnik8lxxpQVVQMkhocmsxQzg/view?resourcekey=0-vFZQbMXuTMIXScmM5MOI7Q) |
+| 8 | Tài chình ngân hàng (https://drive.google.com/file/d/1bKPrY7Mu53mddkaVOxpljI-7OXpDQ2d4/view) |
+| 9 | Kế toán (https://drive.google.com/file/d/0B7rGnik8lxxpeVpTM0o5QTVTRE0/view?resourcekey=0-jRCLOk8Pk0TUsMCfy3i0ww) |
+| 10 | Quản trị kinh doanh (https://drive.google.com/file/d/1SyzJwPKB8sgxw4NshQn2mAsFwu-3xT7T/view) |
+| 11 | Kiến trúc (https://drive.google.com/file/d/0B7rGnik8lxxpc1JmVFh5X2puS3c/view?resourcekey=0-Nnm3BZ6OBKaQ5AaY0Q0wgQ) |
+| 12 | Ngôn ngữ Anh (https://drive.google.com/file/d/1YgdSgB59XHiO3OUhddqOPLhP40CZ6ilP/view) |
+| 13 | Giáo dục thể chất (https://drive.google.com/file/d/0B7rGnik8lxxpN1ZLemhyWWo5aVk/view?resourcekey=0-7ehcPjQve0If9T6IkFoXcw) |
+[DẠNG TRA CỨU]
+- 1: Ngành đào tạo = Công nghệ thông tin (https://daotao.bdu.edu.vn/dai-hoc-chinh-quy/chuong-trinh-dao-tao/chuong-trinh-dao-tao-dai-hoc-chinh-quy-nganh-cong-nghe-thong-tin.html)
+- 2: Ngành đào tạo = Điện - Điện tử (https://daotao.bdu.edu.vn/dai-hoc-chinh-quy/chuong-trinh-dao-tao/chuong-trinh-dao-tao-dai-hoc-chinh-quy-nganh-dien-dien-tu.html)
+- 3: Ngành đào tạo = Công nghệ kỹ thuật công trình xây dựng (https://daotao.bdu.edu.vn/dai-hoc-chinh-quy/chuong-trinh-dao-tao/chuong-trinh-dao-tao-dai-hoc-chinh-quy-nganh-xay-dung.html)
+- 4: Ngành đào tạo = Luật kinh tế (https://drive.google.com/file/d/0B7rGnik8lxxpZWxyMGg0aHdPcms/view?resourcekey=0-F2QhuzmscEs9C9ShiiuaAw)
+- 5: Ngành đào tạo = Việt Nam học (https://drive.google.com/file/d/0B7rGnik8lxxpV3Y4N3hhTi1VZHM/view?resourcekey=0-FM5vJ5Bo5uFNnlg6wJm0FQ)
+- 6: Ngành đào tạo = Công nghệ sinh học (https://drive.google.com/file/d/0B7rGnik8lxxpZmVYbGxUamowdWs/view?resourcekey=0-WGigumzk8LC0Fu0ZuvNiiA)
+- 7: Ngành đào tạo = Văn học (https://drive.google.com/file/d/0B7rGnik8lxxpQVVQMkhocmsxQzg/view?resourcekey=0-vFZQbMXuTMIXScmM5MOI7Q)
+- 8: Ngành đào tạo = Tài chình ngân hàng (https://drive.google.com/file/d/1bKPrY7Mu53mddkaVOxpljI-7OXpDQ2d4/view)
+- 9: Ngành đào tạo = Kế toán (https://drive.google.com/file/d/0B7rGnik8lxxpeVpTM0o5QTVTRE0/view?resourcekey=0-jRCLOk8Pk0TUsMCfy3i0ww)
+- 10: Ngành đào tạo = Quản trị kinh doanh (https://drive.google.com/file/d/1SyzJwPKB8sgxw4NshQn2mAsFwu-3xT7T/view)
+- 11: Ngành đào tạo = Kiến trúc (https://drive.google.com/file/d/0B7rGnik8lxxpc1JmVFh5X2puS3c/view?resourcekey=0-Nnm3BZ6OBKaQ5AaY0Q0wgQ)
+- 12: Ngành đào tạo = Ngôn ngữ Anh (https://drive.google.com/file/d/1YgdSgB59XHiO3OUhddqOPLhP40CZ6ilP/view)
+- 13: Ngành đào tạo = Giáo dục thể chất (https://drive.google.com/file/d/0B7rGnik8lxxpN1ZLemhyWWo5aVk/view?resourcekey=0-7ehcPjQve0If9T6IkFoXcw)
+[/BẢNG]
+
+[TÀI LIỆU ĐÍNH KÈM — OCR ảnh xem trước trang đầu, file gốc bị khoá tải]
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG
+
+BÁO CÁO TỰ ĐÁNH GIÁ
+CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ ĐẠI HỌC
+NGANH QUAN TRI KINH DOANH
+Theo tiêu chuẩn đánh giá chat lượng chương trình đào tạo
+
+của Bộ Giáo dục và Đào tạo
+
+(Giai đoạn đánh giá: 2017 - 2022)
+
+Bình Dương, Năm 2022
+
+[TÀI LIỆU ĐÍNH KÈM — OCR ảnh xem trước trang đầu, file gốc bị khoá tải]
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG
+
+BÁO CÁO TỰ ĐÁNH GIÁ
+
+CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ ĐẠI HỌC
+NGÀNH NGÔN NGỮ ANH
+
+Theo tiêu chuẩn đánh giá chất lượng chương trình đào tạo
+
+của Bộ Giáo dục và Đào tạo
+
+(Giai đoạn đánh giá: 2017-2022)
+
+Bình Dương, Năm - 2022
+
+[TÀI LIỆU ĐÍNH KÈM — OCR ảnh xem trước trang đầu, file gốc bị khoá tải]
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG
+
+BÁO CÁO TỰ ĐÁNH GIÁ
+CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ ĐẠI HỌC
+NGÀNH TÀI CHÍNH - NGÂN HÀNG
+Theo tiêu chuẩn đánh giá chất lượng chương trình đào tạo
+
+của Bộ Giáo dục và Đào tạo
+
+(Giai đoạn đánh giá: 2017 - 2022)
+
+Bình Dương, Năm 2022

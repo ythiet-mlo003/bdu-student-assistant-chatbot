@@ -1,0 +1,14 @@
+TIÊU ĐỀ: Khách sạn The Mira thông báo tuyển dụng nhân sự năm 2021
+NGUỒN: https://bdu.edu.vn/tuyen-dung/khach-san-the-mira-thong-bao-tuyen-dung-nhan-su-nam-2021-1210.html
+SITE: bdu
+MỤC: tuyen-dung
+NGÀY BÀI: 2021-03-10
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: partial — Nội dung trích chưa đầy đủ
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+
+

@@ -1,0 +1,53 @@
+TIÊU ĐỀ: Sổ tay sinh viên BDU 2023 — Phần V: Hướng dẫn đăng ký môn học
+NGUỒN: https://daotao.bdu.edu.vn/so-tay-sinh-vien/
+SITE: daotao
+MỤC: so-tay-sinh-vien
+NGÀY BÀI: 2023
+NĂM: 2023
+PHƯƠNG THỨC LẤY TEXT: flipbook_vision
+CHẤT LƯỢNG: toan-van
+TRANG TRONG SỔ TAY: 57–63
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Phần V
+HƯỚNG DẪN ĐĂNG KÝ MÔN HỌC
+
+Bước 1: Mở trình duyệt Google Chrome hoặc các trình duyệt khác và truy cập vào Cổng thông tin sinh viên (sv.bdu.edu.vn)
+[Hình minh họa: trang chủ Cổng thông tin sinh viên sv.bdu.edu.vn với khung ĐĂNG NHẬP.]
+
+Bước 2: Đăng nhập vào Cổng thông tin sinh viên với tài khoản đăng ký môn học đã được cấp (xem tại IX. CÁC THÔNG TIN CẦN BIẾT – mục 1. Thông tin cá nhân).
+Tên đăng nhập: Mã số sinh viên
+Mật khẩu mặc định lần đầu tiên đăng nhập là 2 chữ số ngày sinh, 2 chữ số tháng sinh và 4 chữ số cuối cùng của năm sinh. Trường hợp sinh viên chỉ có năm sinh không có ngày sinh và tháng sinh thì nhập 00 vào ngày sinh và tháng sinh. Sinh viên phải đổi mật khẩu trong lần đăng nhập đầu tiên.
+Ví dụ: Sinh viên A có mã số sinh viên là 15150015, ngày sinh là 08/08/2004. Vậy:
++ Tên đăng nhập: 15150015
++ Mật khẩu: 08082004
+
+Bước 3: Thay đổi mật khẩu trong lần đăng nhập đầu tiên.
+[Hình minh họa: sau khi đăng nhập, chọn "Đổi mật khẩu" ở khung ĐĂNG NHẬP; form "Đặt lại mật khẩu" gồm: Mật khẩu cũ (nhập mật khẩu Trường cấp), Mật khẩu mới, Nhập lại mật khẩu (nhập mật khẩu sinh viên tự đặt), nút "Thay đổi mật khẩu".]
+Menu TÍNH NĂNG trên Cổng thông tin sinh viên gồm: Thông báo từ ban quản trị; Xem chương trình đào tạo; Xem môn học tiên quyết; Đăng ký môn học; Đăng ký môn nguyện vọng; Xem học phí; Hóa đơn điện tử; Xem thời khóa biểu tuần; Xem thời khóa biểu học kỳ; Xem lịch thi; Xem điểm; Đánh giá kết quả rèn luyện; Khảo sát đánh giá; Gửi ý kiến ban quản lý.
+
+Bước 4: Chọn chức năng đăng ký môn học để thực hiện đăng ký môn học
+[Hình minh họa: chọn mục "Đăng ký môn học" trong menu TÍNH NĂNG.]
+
+Bước 5: Thực hiện các thao tác đăng ký môn học. Sau khi chọn chức năng đăng ký môn học, hệ thống sẽ tự động lọc danh sách môn học theo điều kiện mặc định lớp của sinh viên. Tại đây sinh viên có thể tìm nhanh môn học muốn đăng ký bằng cách nhập mã môn vào ô Lọc theo môn học, sau đó tiến hành lọc.
+[Hình minh họa: màn hình "ĐĂNG KÝ MÔN HỌC HỌC KỲ 3 – NĂM HỌC 2021-2022" với các lựa chọn lọc: Môn sinh viên cần học lại (đã rớt); Môn học mở theo lớp sinh viên; Môn trong chương trình đào tạo kế hoạch; Môn chưa học trong CTĐT kế hoạch; Lọc theo khoa; Lọc theo lớp; Lọc theo môn học. Danh sách môn học gồm các cột: Mã MH, Tên môn học, Nhóm, Tổ, Số TC, Số lượng, Còn lại, Thời khóa biểu; phía dưới là "Danh sách môn học đã đăng ký" và "Kết quả duyệt của cố vấn học tập".]
+
+Bước 6: Sau khi chọn môn học xong, sinh viên chụp lại màn hình môn học đã đăng ký.
+[Hình minh họa: tích chọn (check) vào môn muốn đăng ký trong danh sách đã lọc theo điều kiện; danh sách môn học đã đăng ký hiện ở phần dưới, có nút "Xuất phiếu đăng ký".]
+Sinh viên có thể xem thời khóa biểu nhiều dạng khác nhau bằng cách như hình sau.
+
+Bước 7: Xem thời khóa biểu cá nhân các môn học đã chọn. Chọn chức năng xem thời khóa biểu (có 02 cách xem)
++ Chọn chức năng xem thời khóa biểu tuần
+[Hình minh họa: chọn mục "Xem thời khóa biểu tuần" trong menu TÍNH NĂNG; thời khóa biểu hiển thị theo tuần, gồm các tiết học trong tuần.]
++ Chọn chức năng xem thời khóa biểu học kỳ
+[Hình minh họa: chọn mục "Xem thời khóa biểu học kỳ"; thời khóa biểu dạng học kỳ gồm các cột: Mã MH, Tên môn học, Nhóm tổ, Số tín chỉ, Lớp, Thứ, Tiết bắt đầu, Số tiết, Phòng, Giảng viên, Thời gian học.]
+Sinh viên chọn chức năng In học phí để in phiếu đối chiếu học phí.
+
+Bước 8: Xem học phí các môn học đã đăng ký và in phiếu đối chiếu học phí thực hiện nộp học phí. Sinh viên chọn chức năng xem học phí, hệ thống hiển thị tương tự hình sau.
+[Hình minh họa: chọn mục "Xem học phí" trong menu TÍNH NĂNG; màn hình XEM HỌC PHÍ gồm "Danh sách phải thu" (STT, Mã MH, Diễn giải, Học lại, Số TCHP, Số tiền, Miễn giảm, Phải thu) và "Danh sách đã thu", có nút In và Xuất Excel.]
+
+Lưu ý:
+Trường hợp môn học hết số lượng đăng ký hoặc không tổ chức lớp, nhưng sinh viên có nguyện vọng học có thể đăng ký vào chức năng đăng ký nguyện vọng. Nhà trường sẽ tổng hợp để xem xét có tổ chức thêm lớp hoặc mở thêm số lượng để sinh viên đăng ký. Đây chỉ là chức năng để Nhà trường thu thập thông tin nguyện vọng, không phải là dữ liệu đăng ký chính thức của sinh viên.
+Sinh viên đăng nhập cổng thông tin sinh viên, chọn chức năng đăng ký môn học và kéo xuống cuối trang để thực hiện đăng ký nguyện vọng./.
