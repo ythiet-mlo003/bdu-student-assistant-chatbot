@@ -1,0 +1,426 @@
+TIÊU ĐỀ: Chuẩn đầu ra CTĐT trình độ đại học ngành Công nghệ kỹ thuật ô tô
+NGUỒN: https://bdu.edu.vn/chuan-dau-ra/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to-1910.html
+SITE: bdu
+MỤC: chuan-dau-ra
+NGÀY BÀI: 2024-08-29
+NĂM: 2024
+PHƯƠNG THỨC LẤY TEXT: drive_pdf_text_layer
+CHẤT LƯỢNG: toan-van
+TÀI LIỆU ĐÍNH KÈM: 3 file (pdf_text_layer, pdf_text_layer, pdf_ocr)
+GHI CHÚ: Thân bài phục hồi từ tài liệu đính kèm (pdf_text_layer).
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc Lập – Tự Do – Hạnh Phúc
+
+Số: 1808 /QĐ-ĐHBD Bình Dương, ngày 28 tháng 8 năm 2024
+QUYẾT ĐỊNH
+Về việc ban hành Chuẩn đầu ra chương trình đào tạo trình độ đại học
+Ngành Công nghệ kỹ thuật Ô tô thuộc Trường Đại học Bình Dương
+
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG
+
+Căn cứ Quyết định số 791/TTg ngày 24 tháng 9 năm 1997 của Thủ tướng
+Chính phủ về việc thành lập Trường Đại học Dân lập Bình Dương;
+Căn cứ Quyết định số 1420/QĐ-TTg, ngày 19 tháng 9 năm 2017 của Thủ tướng
+Chính phủ về việc chuyển đổi Trường Đại học Dân lập Bình Dương sang loại hình
+trường đại học tư thục;
+Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22 tháng 6 năm 2021 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy định chuẩn chương trình đào tạo; xây
+dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại
+học;
+Căn cứ Quyết định số 03/QĐ-ĐHBD-HĐT ngày 30 tháng 11 năm 2020 của
+Hội đồng trường, Trường Đại học Bình Dương về việc bổ nhiệm chức vụ Hiệu trưởng
+Trường Đại học Bình Dương, nhiệm kỳ 2020-2025;
+Căn cứ Nghị quyết số 04/NQ-ĐHBD-HĐT ngày 05 tháng 10 năm 2022 của
+Hội đồng trường Trường Đại học Bình Dương về việc ban hành Quy chế tổ chức và
+hoạt động Trường Đại học Bình Dương;
+Căn cứ Quyết định số 560/QĐ-ĐHBD ngày 21 tháng 6 năm 2022 về việc ban
+hành Quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành
+chương trình đào tạo các trình độ của giáo dục đại học;
+Căn cứ Quyết định số 32/QĐ-ĐHBD ngày 06 tháng 01 năm 2023 của Hiệu
+trưởng Trường Đại học Bình Dương về việc thay thế và bổ sung phụ lục biểu mẫu
+ban hành kèm theo Quyết định số 560/QĐ-ĐHBD ngày 21 tháng 6 năm 2022 của
+Trường Đại học Bình Dương;
+Căn cứ Quyết định số 614/QĐ-ĐHBD ngày 14 tháng 7 tháng 2022 của Trường
+Đại học Bình Dương về việc ban hành Quy chế đào tạo trình độ đại học theo tín chỉ
+của Trường Đại học Bình Dương;
+Căn cứ Biên bản Thẩm định chương trình đào tạo/Chương trình dạy học ngày
+14 tháng 8 năm 2024 của Hội đồng thẩm định chương trình đào tạo ngành Công
+nghệ kỹ thuật Ô tô.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành chuẩn đầu ra chương trình đào tạo trình độ đại học ngành
+Công nghệ kỹ thuật Ô tô, mã ngành 7510205 thuộc Trường Đại học Bình Dương
+theo bảng đính kèm.
+G:\My Drive\Công việc Đai học Bình Dương\Ban Giam hieu\SOAN THAO VAN BAN\QUYET DINH\Quyet dinh ban hanh chuong trinh dao tao\2024.08.01 Quyet
+dinh ban hanh Chuan dau ra nganh CNKT o to.docx
+
+Điều 2. Chuẩn đầu ra chương trình đào tạo ban hành kèm theo Quyết định này
+được áp dụng cho sinh viên trình độ đào tạo đại học, hình thức đào tạo chính quy,
+hình thức đào tạo vừa làm vừa học khóa tuyển sinh năm 2024 trở về sau.
+Điều 3. Phòng Tổng hợp, Phòng Quản lý đào tạo và Công tác sinh viên, Phòng
+Tài chính - Kế toán, Phòng Bảo đảm chất lượng và Khảo thí, Khoa Công nghệ kỹ
+thuật Ô tô và các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành quyết định
+này./
+Nơi nhận. HIỆU TRƯỞNG
+- Như Điều 3;
+- Luu: PTH, KA.
+
+Đã ký
+
+Cao Việt Hiếu
+
+CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO
+NGÀNH CÔNG NGHỆ KỸ THUẬT Ô TÔ TRÌNH ĐỘ ĐẠI HỌC
+(Ban hành kèm theo Quyết định số 1808 /QĐ-ĐHBD ngày 28 tháng 8 năm 2024
+của Hiệu trưởng Trường Đại học Bình Dương).
+
+Trình Chung/
+STT Chủ đề Chuẩn đầu ra Mã hóa độ năng Chuyên
+lực (*) biệt
+1. Kiến thức:
+Khái quát hoá những kiến thức cơ bản về lý luận Chung
+chính trị; pháp luật; quốc phòng an ninh; khoa học
+1.1 xã hội và nhân văn; khoa học tự nhiên; lựa chọn PLO.1 2/6
+các kiến thức trên để lý giải những vấn đề đặt ra
+trong khoa học và đời sống.
+Vận dụng kiến thức về cơ sở ngành để tính toán, Chung/
+1.2 chứng minh và giải quyết những vấn đề trong PLO.2 3/6 Riêng
+nghiên cứu khai thác CNKT ô tô . biệt
+Phân tích được nội dung, biết phân loại và kiểm Riêng
+1.3 tra kiến thức từ đó xác định, chẩn đoán về vấn đề PLO.3 4/6 biệt
+kỹ thuật ngành CNKT ô tô.
+Đánh giá và đề xuất được về công nghệ kỹ thuật, Riêng
+lựa chọn các kiến thức liên ngành phù hợp, kiến biệt
+1.4 PLO.4 5/6
+thức về quản trị quản lý để giải quyết những yêu
+cầu của ngành CNKT ô tô.
+2. Kỹ năng:
+Lựa chọn, tổng hợp, phân tích, đánh giá các dữ Chung/
+2.1 liệu và thông tin có giải pháp xử lý vấn đề về PLO.5 1/5 Riêng
+CNKT ô tô một cách khoa học. biệt
+Thực hiện truyền đạt những kiến thức dựa trên Riêng
+2.2 nghiên cứu các vấn đề về chuyên môn và khoa học PLO.6 2/5 biệt
+đối với người cùng ngành và người khác.
+Hoàn thiện các kỹ năng thực hành ô tô, sử dụng Riêng
+2.3 các kiến thức về tổ chức, quản trị và quản lý các PLO.7 3/5 biệt
+hoạt động về nghề nghiệp của ngành CNKT ô tô.
+Giải quyết được những vấn đề phát sinh trong Riêng
+nghiên cứu, sử dụng thành thạo các công nghệ ứng biệt
+2.4 PLO.8 4/5
+dụng có hiệu quả trong lĩnh vực nghề nghiệp và
+học thuật.
+
+Trình Chung/
+STT Chủ đề Chuẩn đầu ra Mã hóa độ năng Chuyên
+lực (*) biệt
+Phát triển kiến thức trình độ bản thân khi nghiên Riêng
+2.5 cứu, có trình độ Anh ngữ đáp ứng chuyên môn bậc PLO.9 5/5 biệt
+4/6 theo khung năng lực ngoại ngữ Việt Nam.
+3. Năng lực tự chủ, trách nhiệm, thái độ đạo đức và
+khả năng phát triển chuyên môn:
+Thích ứng với quá trình nghiên cứu, đưa ra những Chung/
+3.1 sáng kiến quan trọng. Tự thích nghi, định hướng PLO.10 3/5 Riêng
+và phát triển người khác. biệt
+Hình thành và đưa ra những kết luận về chuyên Riêng
+3.2 môn nghề nghiệp khi nghiên cứu các vấn đề một PLO.11 4/5 biệt
+cách chính xác.
+Thực hiện tốt công tác quản lý, đánh giá và cải tiến Riêng
+3.3 các hoạt động về chuyên môn CNKT ô tô. Cống PLO.12 5/5 biệt
+hiến hết mình và tự nghiên cứu suốt đời.
+
+[TÀI LIỆU ĐÍNH KÈM — BỘ GIÁO DỤC VÀ ĐÀO TẠO               CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM]
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc Lập – Tự Do – Hạnh Phúc
+
+Số: 1515 /QĐ-ĐHBD Bình Dương, ngày 08 tháng 12 năm 2022.
+
+QUYẾT ĐỊNH
+Về việc ban hành Chuẩn đầu ra chương trình đào tạo trình độ đại học
+Ngành Công nghệ kỹ thuật Ô tô thuộc Trường Đại học Bình Dương
+
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG
+Căn cứ Quyết định số 791/TTg ngày 24 tháng 9 năm 1997 của Thủ tướng
+Chính phủ về việc thành lập Trường Đại học Dân lập Bình Dương;
+Căn cứ Quyết định số 1420/QĐ-TTg, ngày 19 tháng 9 năm 2017 của Thủ tướng
+Chính phủ về việc chuyển đổi Trường Đại học Dân lập Bình Dương sang loại hình
+trường đại học tư thục;
+Căn cứ Thông tư số 07/2015/TT-BGDĐT ngày 16 tháng 4 năm 2015 của Bộ
+Giáo dục và Đào tạo về việc ban hành Quy định về khối lượng kiến thức tối thiểu,
+yêu cầu về năng lực mà người học đạt được sau khi tốt nghiệp đối với mỗi trình độ
+đào tạo của giáo dục đại học và quy trình xây dựng, thẩm định, ban hành chương
+trình đào tạo trình độ đại học, thạc sĩ, tiến sĩ;
+Căn cứ Quyết định số 246/QĐ-ĐHBD ngày 09 tháng 5 năm 2018 của Hiệu
+trưởng Trường Đại học Bình Dương về việc ban hành Quy định về khối lượng kiến
+thức tối thiểu, yêu cầu về năng lực mà người học đạt được sau khi tốt nghiệp đối với
+mỗi trình độ đào tạo của giáo dục đại học và quy trình xây dựng, thẩm định, ban
+hành chương trình đào tạo trình độ Đại học, Thạc sĩ, Tiến sĩ thuộc Trường Đại học
+Bình Dương;
+Căn cứ Quyết định số 560/QĐ-ĐHBD ngày 21 tháng 6 năm 2022 về việc ban
+hành Quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành
+chương trình đào tạo các trình độ của giáo dục đại học;
+Căn cứ Quyết định số 614/QĐ-ĐHBD ngày 14 tháng 7 tháng 2022 của Trường
+Đại học Bình Dương về việc ban hành Quy chế đào tạo trình độ đại học theo tín chỉ
+của Trường Đại học Bình Dương;
+Căn cứ Biên bản Thẩm định chương trình đào tạo/Chương trình dạy học ngày
+06 tháng 12 năm 2022 của Hội đồng thẩm định chương trình đào tạo ngành Công
+nghệ kỹ thuật Ô tô.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành chuẩn đầu ra chương trình đào tạo trình độ đại học ngành
+Công nghệ kỹ thuật Ô tô, mã ngành 7510205 thuộc Trường Đại học Bình Dương
+theo bảng đính kèm.
+
+Điều 2. Chuẩn đầu ra chương trình đào tạo ban hành kèm theo Quyết định này
+được áp dụng cho sinh viên trình độ đào tạo đại học, hình thức đào tạo chính quy,
+hình thức đào tạo vừa làm vừa học khóa tuyển sinh năm 2023 trở về sau.
+Điều 3. Phòng Tổng hợp, Phòng Quản lí đào tạo và Công tác sinh viên, Phòng
+Tài chính - Kế toán, Phòng Bảo đảm chất lượng và Khảo thí, Khoa Công nghệ kỹ
+thuật Ô tô và các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành quyết định
+này./
+Nơi nhận. HIỆU TRƯỞNG
+- Như Điều 3;
+- Luu: TTLT&TV, TTru.
+
+(Đã ký)
+
+Cao Việt Hiếu
+
+CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO
+NGÀNH CÔNG NGHỆ KỸ THUẬT Ô TÔ TRÌNH ĐỘ ĐẠI HỌC
+(Ban hành kèm theo Quyết định số 1515/QĐ-ĐHBD ngày 08 tháng 12 năm 2022 của
+HIệu trưởng Trường Đại học Bình Dương).
+
+Ghi
+STT Chủ đề chuẩn đầu ra Mã hóa
+chú
+1. Kiến thức:
+1.1 Khối kiến thức cơ bản
+Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và
+pháp luật để xử lí những vấn đề thực tiễn. Về toán học và
+1 PLO.1
+khoa học tự nhiên để ứng dụng trong kĩ thuật; có khả năng
+học tập nâng cao trình độ.
+1.2 Khối kiến thức cơ sở ngành
+Vận dụng được kiến thức các học phần kĩ thuật cơ sở ngành:
+Vẽ kĩ thuật, Kĩ thuật Điện - Điện tử, Cơ lí thuyết, Sức bền vật
+1 PLO.2
+liệu, Nguyên lí máy, Chi tiết máy, Kĩ thuật nhiệt, ... để tiếp thu
+kiến thức chuyên ngành CNKT ô tô
+1.3 Khối kiến thức chuyên ngành
+Vận dụng được kiến thức chuyên ngành để phân tích và đánh
+giá các chỉ tiêu kĩ thuật cũng như triển khai lắp ráp, chế tạo,
+1 PLO.3
+sửa chữa, bảo dưỡng, khai thác ô tô và cập nhật công nghệ mới
+trong lĩnh vực CNKT ô tô
+Vận dụng được kiến thức về tổ chức và quản lí trong việc điều
+2 hành sản xuất của doanh nghiệp lắp ráp, chế tạo, sửa chữa, bảo PLO.4
+dưỡng và khai thác ô tô;
+2. Kĩ năng:
+2.1 Kĩ năng nghề nghiệp
+Tính toán, thiết kế được quy trình công nghệ chế tạo, lắp ráp
+các sản phẩm trong lĩnh vực CNKT ô tô. Thiết lập được quy
+1 PLO.5
+trình kiểm tra, chẩn đoán, bảo dưỡng và sửa chữa các loại ô tô
+thông dụng.
+
+Đề xuất, phản biện và tư vấn các vấn đề thuộc lĩnh vực: Vận hành,
+2 khai thác, chẩn đoán, bảo trì, bảo dưỡng, sửa chữa các loại ô tô và PLO.6
+các thiết bị động lực.
+Đào tạo, bồi dưỡng kiến thức và kĩ năng nghề nghiệp cho bậc
+4 PLO.7
+đào tạo thấp hơn.
+2.2 Kĩ năng mềm
+Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm
+1 việc thay đổi. Sử dụng tốt ngoại ngữ và tin học trong công việc PLO.8
+ở lĩnh vực CNKT ô tô.
+3. Năng lực tự chủ, trách nhiệm, thái độ đạo đức và khả năng
+phát triển chuyên môn:
+3.1 Năng lực tự chủ và trách nhiệm:
+Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ
+1 được quan điểm cá nhân, kiến tạo thương hiệu bản thân và PLO.9
+khởi nghiệp
+3.2 Thái độ, đạo đức
+Đạo đức nghề nghiệp tốt, ý thức tổ chức kỉ luật lao động cao
+và tác phong công nghiệp, tôn trọng đồng nghiệp và tôn trọng
+1 PLO.10
+nội quy của cơ quan, doanh nghiệp, sống và làm việc theo pháp
+luật.
+3.3 Khả năng phát triển chuyên môn
+1 Tốt nghiệp ngành CNKT ô tô, SV có nhiều cơ hội việc làm tại
+các doanh nghiệp sản xuất phụ tùng ô tô, nhà máy lắp ráp, các
+trung tâm bảo dưỡng, sửa chữa ô tô và các cơ sở đào tạo nghề. PLO.11
+Có thể làm việc ở các vị trí: Kĩ thuật viên, Nhân viên tư vấn
+dịch vụ, Giảng viên…
+2 Thể hiện khả năng đề suất, tối ưu công nghệ, nâng cao năng
+suất lao động. Khả năng tiếp cận và làm chủ công nghệ mới
+PLO.12
+trong lĩnh vực CNKT ô tô, khả năng tiếp tục học tập và nghiên
+cứu ở trình độ cao hơn.
+
+[TÀI LIỆU ĐÍNH KÈM — BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HOI CHỦ NGHĨA VIỆT NAM]
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HOI CHỦ NGHĨA VIỆT NAM
+
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc lập - Tự do - Hạnh phúc
+Số: ¢ 42 /QĐ-ĐHBD Binh Dương, ngày 14. tháng £ năm 2020
+QUYẾT ĐỊNH
+
+Về việc ban hành chuẩn đầu ra chương trình đào tạo trình độ đại học
+thuậc Trường Đại học Bình Dương
+
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG
+
+Căn cứ Quyết định số 791/TTg ngày 24 tháng 9 năm 1997 của Thủ tướng Chính
+phủ về việc thành lập Trường Đại học Dân lập Bình Dương;
+
+Căn cứ Quyết định số 1420/QĐ-TTg, ngày 19 tháng 9 năm 2017 của Thủ tướng
+Chính phủ về việc chuyên đối Trường Đại học Dân lập Bình Dương sang loại hình
+trường đại học tư thục;
+
+Căn cứ Thông tư số 07/2015/TT-BGDĐT ngày 16/04/2015 của Bộ Giáo dục và
+Đào tạo về việc ban hành Quy định về khối lượng kiến thúc tối thiếu, yêu cdu về năng
+lực mà người học đạt được sau khi tot nghiệp đối với mỗi trình độ đào tạo của giáo
+duc đại học và quy trình xây dựng, thẩm định, ban hành chương trình đào tạo trình độ
+đại học, thạc sĩ, tiễn sĩ;
+
+Căn cứ Quyết định số 246/QD-DHBD ngày 09 tháng 5 năm 2018 của Hiệu
+trưởng Trường Đại học Bình Dương về việc ban hành Quy định về khối lượng kiến
+thức tối thiểu, yêu cầu về năng lực mà người bọc dat được sau khi tot nghiệp đối với
+mỗi trình độ đào tạo của giáo duc đại học và quy trình xây dựng, thẩm định, ban hành
+chương trình đào tạo trình độ Đại học, Thạc sĩ, Ti ién sĩ thuộc Trường Đại học Bình
+Dương;
+
+Căn cứ Quyết định số 965/QĐ-ĐHBD ngày 24 tháng 4 năm 2019 của Trường
+Đại học Bình Dương về việc ban hành mẫu Chương trình đào tạo thuộc Trường Đại
+học Bình Dương;
+
+Căn cứ theo Kế hoạch số 3151/KH-DHBD, ngày 31 tháng 12 năm 2019 về việc
+rà soái, điều chỉnh và hoàn thiện chương trình đào tạo
+
+Căn cứ đề xuất của các Khoa.
+QUYET ĐỊNH:
+
+Điều 1. Nay ban hành chuẩn đầu ra chương trình đào tạo trình độ đại học thuộc
+Trường Đại học Bình Dương (Theo bảng đính kèm).
+Điều 2. Quyết định này áp dụng cho các khóa tuyển sinh năm 2020 trở về sau.
+
+G:\Shared drives\TT PBCL\2020\CONG VAN DA2020.8. 14 Quyet dinh ban hanh chuan dau ra chuong trinh dao tao.doc
+
+Điều 3. Phòng Tổng hợp, Phòng Quản lý đào tạo và Công tác sinh viên, Phòng
+Tài chính - Kế toán, Trung tâm Đảm bảo chất lượng, các Khoa và các đơn vị, CB-NV
+có liên quan chịu trách nhiệm thi hành quyết định này./. fe
+Noi nhập — =
+- Như Điều 3;
+- Lưu: P.TH, MPhuong.
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+CHUAN DAU RA CHƯƠNG TRÌNH ĐÀO TẠO TRÌNH ĐỘ ĐẠI HỌC
+(Ban hành kèm theo Quyết định số F40/QĐ-ĐHBD ngày 44 tháng & năm 2020 của
+
+Hiệu trưởng Trường Đại học Bình Dương)
+
+1. Ngành CNKT Ô tô - Mã ngành: 7510205
+
+STT Chủ đề chuẩn đầu ra ‘jal 1m
+hóa chú
+1. Kiên thức:
+1.1 | Khôi kiên thức cơ bản
+i Kiến thức cơ bản về khoa học Xã hội, ôn học chính trị và ee
+pháp luật dé xử lí những van đề thực tiên.
+3 Có kiến thức cơ bản về toán học và khoa học tự nhiên dé ứng —_
+dụng trong kĩ thuat; có khả năng học tập nâng cao trình độ.
+1.2 | Khối kiến thức cơ sở ngành
+Hiểu và vận dụng được kiến thức các học phần kĩ thuật cơ sở
+i ngành: Vẽ kĩ thuật, Kĩ thuật Điện - Điện tử, Cơ lí thuyết, Sức `
+bên vật liệu, Nguyên li máy, Chi tiết máy, Kĩ thuật nhiệt, ... dé
+tiếp thu kiến thức chuyên ngành CNKT ô tô
+1.3 | Khôi kiên thức chuyên ngành
+Vận dụng được kiến thức chuyên ngành đề phân tích và đánh
+giá các chỉ tiêu kĩ thuật cũng như triển khai lắp ráp, chế tạo, rae
+sửa chữa, bảo dưỡng, khai thác 6 tô và cập nhật công nghệ mới
+trong lĩnh vực CNKT ô tô
+Vận dụng được kiến thức về tô chức và quản lí trong việc điều
+2 | hành sản xuất của doanh nghiệp lắp ráp, chế tạo, sửa chữa, bảo |_LO.5
+dưỡng và khai thác ô tô;
+2. Ki nang:
+2.1 | Kindng nghệ nghiệp
+1 Tính toán, thiết kế được quy trình công nghệ chê tao, lắp rap 106
+
+các sản phẩm trong lĩnh vực CNKT 6 tô.
+
+Thiết lập được quy trình kiểm tra, chân đoán, bảo dưỡng và
+sửa chữa các loại ô tô thông dụng.
+
+Q.7
+
+Đề xuất, phản biện và tư van các van dé thuộc lĩnh vực: Vận hành,
+khai thác, chân đoán, bảo trì, bảo dưỡng và sửa chữa các loại ô tô
+và các thiết bị động lực.
+
+LO.8
+
+Đào tạo, bồi dưỡng kiến thức và ki năng nghề nghiệp cho bậc
+đào tạo thấp hơn.
+
+LO.9
+
+Kĩ năng mềm
+
+Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm
+việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với
+nhóm.
+
+LO.10
+
+Sử dụng tốt ngoại ngữ và tin học trong công việc ở lĩnh vực
+CNKT ô t6.
+
+LO.II
+
+3. Năng lực tự chủ, trách nhiệm, thái độ đạo đức và khả năng
+
+phát triển chuyên môn
+
+3.1
+
+Nang lực tự chủ và trách nhiệm:
+
+Tự định hướng, đưa ra kết luận chuyên môn và có thé bảo vệ
+được quan điểm cá nhân, kiến tạo thương hiệu bản thân và khởi
+nghiệp
+
+LO.12
+
+3.2
+
+Thái độ, đạo đức
+
+Có đạo đức nghê nghiệp, có ý thức tổ chức kỉ luật lao động và
+tác phong công nghiệp, tôn trọng đồng nghiệp và tôn trọng nội
+quy của cơ quan, doanh nghiệp, sống và làm việc theo pháp
+
+luật.
+
+LO.13
+
+3.3
+
+Kha nang phat trién chuyén mén
+
+Có kha năng đề suất, tối wu công nghệ, nâng cao năng suất lao
+động và có nhiều cơ hội việc làm tại các doanh nghiệp sản xuất
+phụ tùng ô tô, nhà máy lắp ráp, các trung tâm bảo dưỡng, sửa
+chữa ô tô và các cơ sở đào tạo nghề; khả năng tiếp cận và làm
+chủ công nghệ mới trong lĩnh vực CNKT ô tô, khả năng tiếp tục
+
+học tập và nghiên cứu ở trình độ cao hơn.
+
+LO.14

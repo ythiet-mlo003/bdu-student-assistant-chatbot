@@ -1,0 +1,21 @@
+TIÊU ĐỀ: DANH SÁCH HỘI ĐỒNG QUẢN TRỊ BDU NHIỆM KỲ (2017-2022)
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/danh-sach-hoi-dong-quan-tri-bdu-nhiem-ky-2017-2022-1113.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-09
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: xlsx_text
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+DANH SÁCH HỘI ĐỒNG QUẢN TRỊ TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG NHIỆM KỲ (2017-2022)
+STT | HỌ VÀ TÊN | HỌC HÀM/HỌC VỊ | CHỨC VỤ | GIAI ĐOẠN
+1.0 | Cao Văn Phường | GS.VS | Chủ tịch
+2.0 | Cao Việt Hiếu | GS. TS | Thành viên
+3.0 | Bà Nguyễn Hồng Sáng | Thành viên
+4.0 | Ông Cao Việt Hưng | Thành viên
+5.0 | Cao Thị Việt Hương | TS | Thành viên
+6.0 | Bà Nguyễn Việt Thu | Thành viên
+7.0 | Ông Lê Kim Thảo | Thành viên

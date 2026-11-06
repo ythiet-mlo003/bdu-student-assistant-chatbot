@@ -1,0 +1,23 @@
+TIÊU ĐỀ: Báo cáo kết quả thẩm định thuyết minh đề tài cấp trường của giảng viên Phan Quốc Bảo
+NGUỒN: https://bdu.edu.vn/nghien-cuu-khoa-hoc/bao-cao-ket-qua-tham-dinh-thuyet-minh-de-tai-cap-truong-cua-giang-vien-phan-quoc-bao-2119.html
+SITE: bdu
+MỤC: nghien-cuu-khoa-hoc
+NGÀY BÀI: 2026-05-27
+NĂM: 2026
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Báo cáo kết quả thẩm định thuyết minh đề tài cấp trường của giảng viên Phan Quốc Bảo
+
+Thứ tư - 27/05/2026 00:40
+
+Sáng ngày 27/05, Phòng Quản lý khoa học và Quan hệ đối ngoại phối hợp Viện Trí tuệ nhân tạo và Chuyển đổi số Trường Đại học Bình Dương đã tổ chức thẩm định thuyết minh hai đề tài nghiên cứu khoa học của Giảng viên Khoa Điện - Điện tử do TS. Phan Quốc Bảo làm chủ nhiệm đề tài. Tham gia hội đồng bảo vệ có PGS.TS. Lê Văn Cường - Phó Hiệu Trưởng Trường Đại học Bình Dương (Chủ tịch); TS. Trần Văn Trọn - Trường Đại học Công nghệ - kỹ thuật Thành phố Hồ Chí Minh (Phản biện 1 ), TS. Nguyễn Văn Thức - Trường Đại học Công nghệ - kỹ thuật Thành phố Hồ Chí Minh (Phản biện 2), TS. Lê Hoàng Hiệp - Trường Đại học Bình Dương (Ủy viên), ThS. Nguyễn Trần An Tuấn - Trường Đại học Bình Dương (Thư ký). Ngoài ra, buổi họp hội đồng còn có sự hiện diện của đại diện Phòng Quản lý Khoa học và Quan hệ đối ngoại của trường.
+
+Tại buổi thẩm định thuyết minh đề tài, TS. Phan Quốc Bảo đã trình bày, giới thiệu ngắn gọn về tên đề tài, mục tiêu nghiên cứu, lý do chọn đề tài và tính cấp thiết của vấn đề nghiên cứu. Bên cạnh đó, Chủ nhiệm đề tài đã nêu các sản phẩm dự kiến, hiệu quả khoa học và khả năng ứng dụng thực tiễn của kết quả nghiên cứu, khẳng định ý nghĩa của đề tài và sẵn sàng giải đáp các câu hỏi phản biện của hội đồng
+
+Hội đồng đã tiến hành xem xét, đánh giá và phản biện nội dung nghiên cứu nhằm bảo đảm đề tài có tính cần thiết, khoa học và khả thi trước khi triển khai thực hiện. Ở 2 đề tài mà chủ nhiệm đề tài trình bày, hội đồng đã xem xét về nội dung nghiên cứu về việc Tối ưu hoá quá trình phân loại và nhận diện bằng cách tích hợp thuật toán ANN và ANN-GA vào chuyển hoá mô hình giải thuật đã được hình thành từ luận lí cơ bản và Tối ưu hoá quá trình phân loại và nhận diện bằng cách tích hợp thuật toán CNN và CNN-SPR-PAC vào chuyển hoá mô hình giải thuật đã được hình thành từ luận lí cơ bản.
+
+Hội đồng đã đánh giá cao kết quả đạt được của đề tài và tinh thần làm việc nghiêm túc, tâm huyết, trách nhiệm của nhóm nghiên cứu. Đặc biệt, Hội đồng hoan nghênh việc Nhóm nghiên cứu đã thực hiện vượt kế hoạch một số nội dung so với đăng ký, phù hợp với tình hình thực tế, thể hiện tính trách nhiệm cao của người làm nghiên cứu khoa học. Tuy nhiên, Nhóm nghiên cứu cần chỉnh sửa lại một số nội dung theo các góp ý của Hội đồng để đề tài được hoàn thiện hơn. Kết thúc buổi thẩm định đề tài, Hội đồng thẩm định đã thống nhất thông qua đề tài đạt yêu cầu và đề nghị phê duyệt triển khai thực hiện . Đồng thời, đề nghị chủ nhiệm đề tài đẩy nhanh tiến độ thực hiện các thủ tục liên quan để hoàn thiện hồ sơ theo quy định hiện hành.

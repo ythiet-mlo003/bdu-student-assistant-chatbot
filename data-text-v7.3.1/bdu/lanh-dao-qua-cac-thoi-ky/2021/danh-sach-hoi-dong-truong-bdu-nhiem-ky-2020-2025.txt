@@ -1,0 +1,41 @@
+TIÊU ĐỀ: DANH SÁCH HỘI ĐỒNG TRƯỜNG BDU NHIỆM KỲ (2020-2025)
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/danh-sach-hoi-dong-truong-bdu-nhiem-ky-2020-2025-1115.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-09
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: xlsx_text
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG — bảng tính 1]
+| DANH SÁCH HỘI ĐỒNG TRƯỜNG BDU NHIỆM KỲ (2020-2025) | Cột 2 | Cột 3 | Cột 4 | Cột 5 | Cột 6 | Cột 7 | Cột 8 | Cột 9 | Cột 10 | Cột 11 | Cột 12 | Cột 13 | Cột 14 | Cột 15 | Cột 16 | Cột 17 | Cột 18 | Cột 19 | Cột 20 | Cột 21 | Cột 22 | Cột 23 | Cột 24 | Cột 25 | Cột 26 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STT | HỌ VÀ TÊN | HỌC HÀM/HỌC VỊ | CHỨC VỤ | GIAI ĐOẠN | | | | | | | | | | | | | | | | | | | | | |
+| 1.0 | Cao Văn Phường | GS. VS | Chủ tịch | | | | | | | | | | | | | | | | | | | | | | |
+| 2.0 | Cao Việt Hiếu | GS. TS | Phó Chủ tịch | | | | | | | | | | | | | | | | | | | | | | |
+| 3.0 | Ông Cao Việt Hưng | | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+| 4.0 | Cao Thị Việt Hương | TS | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+| 5.0 | Bà Nguyễn Việt Thu | | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+| 6.0 | Đỗ Đoan Trang | TS | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+| 7.0 | Hoàng Nghĩa Sơn | PGS.TS.NCVCC | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+| 8.0 | Võ Xuân Vinh | GS.TS | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+| 9.0 | Ông Nguyễn Minh Hiếu | | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+| 10.0 | Đào Thế Sơn | ThS | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+| 11.0 | Ông Lê Kim Thảo | | Thành viên | | | | | | | | | | | | | | | | | | | | | | |
+[DẠNG TRA CỨU]
+- STT: Cột 2 = HỌ VÀ TÊN; Cột 3 = HỌC HÀM/HỌC VỊ; Cột 4 = CHỨC VỤ; Cột 5 = GIAI ĐOẠN
+- 1.0: Cột 2 = Cao Văn Phường; Cột 3 = GS. VS; Cột 4 = Chủ tịch
+- 2.0: Cột 2 = Cao Việt Hiếu; Cột 3 = GS. TS; Cột 4 = Phó Chủ tịch
+- 3.0: Cột 2 = Ông Cao Việt Hưng; Cột 4 = Thành viên
+- 4.0: Cột 2 = Cao Thị Việt Hương; Cột 3 = TS; Cột 4 = Thành viên
+- 5.0: Cột 2 = Bà Nguyễn Việt Thu; Cột 4 = Thành viên
+- 6.0: Cột 2 = Đỗ Đoan Trang; Cột 3 = TS; Cột 4 = Thành viên
+- 7.0: Cột 2 = Hoàng Nghĩa Sơn; Cột 3 = PGS.TS.NCVCC; Cột 4 = Thành viên
+- 8.0: Cột 2 = Võ Xuân Vinh; Cột 3 = GS.TS; Cột 4 = Thành viên
+- 9.0: Cột 2 = Ông Nguyễn Minh Hiếu; Cột 4 = Thành viên
+- 10.0: Cột 2 = Đào Thế Sơn; Cột 3 = ThS; Cột 4 = Thành viên
+- 11.0: Cột 2 = Ông Lê Kim Thảo; Cột 4 = Thành viên
+[/BẢNG]

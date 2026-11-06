@@ -1,0 +1,60 @@
+TIÊU ĐỀ: Bảng điểm trúng tuyển đại học chính quy Khóa 29 — Trường Đại học Bình Dương (năm 2026)
+NGUỒN: https://bdu.edu.vn/thong-bao/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29-2152.html
+SITE: bdu
+MỤC: groups
+NGÀY BÀI: 2026-08-12
+NĂM: 2026
+PHƯƠNG THỨC LẤY TEXT: image_transcription_verified_v4
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3.1
+GHI CHÚ: Bảng điểm trích từ ảnh infographic trong bài gốc, đã OCR và kiểm chứng trực tiếp với ảnh gốc ngày 2026-10-10 (bản v4). Áp dụng vào v7.3.1 ngày 2026-10-31 dưới dạng document riêng cạnh bài gốc; bài gốc không sửa. Trước v7.3.1, bảng này bị mất khi cào lại ở v5/v6/v7.3.
+
+----- NỘI DUNG -----
+
+ĐẠI HỌC BÌNH DƯƠNG CÔNG BỐ ĐIỂM CHUẨN TRÚNG TUYỂN ĐẠI HỌC CHÍNH QUY NĂM 2026
+
+Lưu ý: Nhà trường sẽ đối chiếu kết quả học tập THPT, giấy chứng nhận điểm thi, các hồ sơ minh chứng về đối tượng ưu tiên, khu vực ưu tiên, minh chứng điểm cộng, điểm thưởng khi thí sinh làm thủ tục nhập học. Nếu kết quả xác minh hồ sơ có sai lệch dẫn đến thay đổi kết quả trúng tuyển nhà trường sẽ hủy kết quả trúng tuyển theo quy định. Nhà trường không hoàn trả học phí và hồ sơ khi thí sinh đã đóng học phí, nộp hồ sơ.
+
+[BẢNG ĐIỂM TRÚNG TUYỂN — trích từ ảnh trong bài, đã kiểm chứng với ảnh gốc]
+
+[BẢNG — Điểm trúng tuyển đại học chính quy Khóa 29, Trường Đại học Bình Dương (năm 2026)]
+| Stt | Ngành học | Điểm thi THPT | Điểm học bạ | Điểm ĐGNL ĐHQG TP. HCM |
+| --- | --- | --- | --- | --- |
+| 1 | Nhật Bản học (Công nghiệp văn hóa Nhật Bản) | 15 | 16 | 600 |
+| 2 | Hàn Quốc học (Hàn Quốc học thương mại; Hàn Quốc học hiện đại) | 15 | 16 | 600 |
+| 3 | Ngôn ngữ Anh (Giảng dạy; Tiếng Anh thương mại – văn phòng) | 15 | 16 | 600 |
+| 4 | Công nghệ thực phẩm (Công nghệ thực phẩm; Công nghệ thực phẩm – kinh doanh; Công nghệ chế biến thủy sản) | 15 | 16 | 600 |
+| 5 | Dược học (Quản lý và cung ứng Thuốc; Sản xuất và Phát triển Thuốc; Dược liệu và Dược cổ truyền) | 20 | 20 (học bạ loại Tốt) | — |
+| 6 | Hóa dược (Phân tích và kiểm nghiệm; Bào chế và phát triển thuốc) | 15 | 16 | 600 |
+| 7 | Logistics và quản lý chuỗi cung ứng (Dịch vụ Logistics; Quản lý chuỗi cung ứng) | 15 | 16 | 600 |
+| 8 | Tài chính – Ngân hàng (Tài chính số; Tài chính ngân hàng; Công nghệ tài chính) | 15 | 16 | 600 |
+| 9 | Quản trị kinh doanh (Quản trị doanh nghiệp; Quản trị digital Marketing; Quản trị logistics; Doanh nghiệp số; Quản trị khởi nghiệp; Quản trị Du lịch và Lữ hành) | 15 | 16 | 600 |
+| 10 | Kế toán (Kế toán số và phân tích dữ liệu; Kế toán doanh nghiệp) | 15 | 16 | 600 |
+| 11 | Xã hội học (Truyền thông đa phương tiện) | 15 | 16 | 600 |
+| 12 | Luật | 20 | 18 (học bạ loại Tốt) | — |
+| 13 | Luật kinh tế (Luật kinh tế; Luật thương mại điện tử) | 20 | 18 (học bạ loại Tốt) | — |
+| 14 | Công nghệ thông tin (Robot và trí tuệ nhân tạo; Kỹ thuật phần mềm; Hệ thống thông tin; Thiết kế đồ họa; Khoa học dữ liệu; Mạng máy tính và An toàn thông tin; Kỹ thuật học máy) | 15 | 16 | 600 |
+| 15 | Công nghệ kỹ thuật công trình xây dựng (Công nghệ xây dựng ứng dụng AI; Xây dựng dân dụng và công nghiệp) | 15 | 16 | 600 |
+| 16 | Kiến trúc (Thiết kế kiến trúc ứng dụng AI; Thiết kế kiến trúc và Công trình bền vững; Thiết kế nội thất) | 15 | 16 | 600 |
+| 17 | Công nghệ kỹ thuật Ô tô | 15 | 16 | 600 |
+| 18 | Công nghệ kỹ thuật điện, điện tử (Điện công nghiệp; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật Robot; Hệ thống nhúng và IoT; Cơ điện tử; Công nghệ vi mạch bán dẫn) | 15 | 16 | 600 |
+[DẠNG TRA CỨU]
+- Nhật Bản học: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Hàn Quốc học: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Ngôn ngữ Anh: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Công nghệ thực phẩm: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Dược học: Điểm thi THPT = 20; Điểm học bạ = 20 (học bạ loại Tốt); Điểm ĐGNL ĐHQG TP. HCM = không công bố
+- Hóa dược: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Logistics và quản lý chuỗi cung ứng: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Tài chính – Ngân hàng: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Quản trị kinh doanh: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Kế toán: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Xã hội học: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Luật: Điểm thi THPT = 20; Điểm học bạ = 18 (học bạ loại Tốt); Điểm ĐGNL ĐHQG TP. HCM = không công bố
+- Luật kinh tế: Điểm thi THPT = 20; Điểm học bạ = 18 (học bạ loại Tốt); Điểm ĐGNL ĐHQG TP. HCM = không công bố
+- Công nghệ thông tin: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Công nghệ kỹ thuật công trình xây dựng: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Kiến trúc: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Công nghệ kỹ thuật Ô tô: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+- Công nghệ kỹ thuật điện, điện tử: Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600
+[/BẢNG]

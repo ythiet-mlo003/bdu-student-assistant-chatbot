@@ -1,0 +1,121 @@
+TIÊU ĐỀ: Hướng dẫn 2k4 cách đăng ký nguyện vọng xét tuyển đại học trực tuyến
+NGUỒN: https://bdu.edu.vn/thong-bao/huong-dan-2k4-cach-dang-ky-nguyen-vong-xet-tuyen-dai-hoc-truc-tuyen-616.html
+SITE: bdu
+MỤC: thong-bao
+NGÀY BÀI: 2022-07-06
+NĂM: 2022
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Hướng dẫn 2k4 cách đăng ký nguyện vọng xét tuyển đại học trực tuyến
+
+Thứ tư - 06/07/2022 03:20
+
+Đăng ký nguyện vọng xét tuyển Đại học là một trong những bước quan trọng quyết định tương lai của các thí sinh, vì vậy để xảy ra sai sót ở bước này là vô cùng đáng tiếc. Hãy thí sinh hãy cùng tham khảo các bước hướng dẫn đăng ký nguyện vọng siêu chi tiết dưới đây nhé!
+
+Thay vì đăng ký nguyện vọng trực tiếp trên phiếu như những năm trước. Năm 2022, các thí sinh thực hiện đăng ký nguyện vọng hoàn toàn bằng hình thức trực tuyến.
+
+Các học sinh lớp 12 tại các trường phổ thông sẽ được trường cấp tài khoản (là số Căn cước công dân hoặc Chứng minh nhân dân, viết tắt: CCCD/CMND; trường hợp thí sinh không có CCCD/CMND thì sẽ sử dụng mã số định danh do cơ quan Công an cấp để thay thế) và mật khẩu để truy cập hệ thống Quản lý thi (QLT).
+
+Đối với thí sinh tự do, sau khi nộp phiếu Đăng ký dự thi (ĐKDT) sẽ được đơn vị ĐKDT cấp tài khoản và mật khẩu để đăng nhập vào hệ thống QLT.
+
+Thông tin đăng nhập bao gồm: Tài khoản đăng nhập (dãy số CMND/CCCD của thí sinh), mật khẩu đăng nhập.
+
+Lưu ý: Thí sinh cần chú ý bảo mật thông tin tài khoản, mật khẩu đăng nhập. Sau khi nhận tài khoản đăng nhập, thí sinh nên thay đổi mật khẩu ngay để bảo mật thông tin. Trong trường hợp thí sinh quên tài khoản và mật khẩu thì có thể liên hệ Đơn vị ĐKDT để được cấp lại.
+
+Các bước đăng ký nguyện vọng trực tuyến:
+
+Bước 1: Đăng nhập
+
+– Truy cập vào website: thisinh.thitotnghiepthpt.edu.vn (http://thisinh.thitotnghiepthpt.edu.vn/)
+
+– Tên đăng nhập: Số CMND/CCCD/Mã định danh
+
+– Mật khẩu: Mật khẩu để đăng nhập Hệ thống của thí sinh là mật khẩu được cấp khi đăng ký dự thi, trường hợp đã thay đổi mật khẩu sau khi được cấp thì dùng mật khẩu đã thay đổi. Thí sinh đăng nhập vào Hệ thống như sau:
+
+Bước 2: Truy cập chức năng Đăng ký nguyện vọng trực tuyến
+
+– Thí sinh vào phần “Phiếu đăng ký”, truy cập mục “Đăng ký nguyện vọng trực tuyến”.
+
+Truy cập mục “Đăng ký nguyện vọng trực tuyến”
+
+Nếu thí sinh tick chọn Đăng ký nguyện vọng trực tuyến, màn hình hệ thống sẽ xuất hiện các thông tin như sau
+
+Để bổ sung thêm nguyện vọng, thí sinh bấm nút “Thêm nguyện vọng”
+
+Thí sinh có thể bấm “Thêm nguyện vọng”.
+
+Bảng thêm mới nguyện vọng hiện lên, thí sinh nhập các thông tin: Thứ tự nguyện vọng, mã trường, ngành, tổ hợp môn vào của sổ thêm mới.
+
+Nhập thông tin như thứ tự nguyện vọng, mã trường, mã ngành, tổ hợp môn.
+
+Bước 3: In danh sách nguyện vọng trước khi thay đổi
+
+– Thí sinh nhấn nút “In danh sách” trên màn hình để in danh sách nguyện vọng:
+
+Bước 4: Thay đổi nguyện vọng
+
+Lưu ý: Thí sinh có thể thực hiện một trong các thao tác: Sắp xếp lại thứ tự nguyện vọng hoặc Xóa, Sửa, Thêm mới nguyện vọng.
+
+Bước 4.1 Thay đổi thứ tự nguyện vọng
+
+– Để thay đổi thứ tự nguyện vọng, thí sinh nhập thứ tự nguyện vọng vào ô thứ tự nguyện vọng (ví dụ như hình bên dưới thí sinh muốn thay đổi thứ tự nguyện vọng 3 thành nguyện vọng 1, nguyện vọng 1 thành nguyện vọng 3):
+
+– Sau đó nhấn nút “Xếp theo thứ tự NV” để sắp xếp theo thứ tự nguyện vọng tăng dần từ nguyện vọng thứ 1 đến thứ tự nguyện vọng cuối cùng của thí sinh:
+
+– Sau khi nhấn nút Xếp theo thứ tự NV, hệ thống sẽ thực hiện sắp xếp lại theo thứ tự tăng dần như sau:
+
+Bước 4.2: Xóa nguyện vọng
+
+– Để xóa 1 nguyện vọng, thí sinh nhấn chuột vào biểu tượng “Thùng rác màu đỏ” của nguyện vọng đó:
+
+– Trên màn hình hiển thị cửa sổ xác nhận xóa, thí sinh nhấn nút “Đồng ý” để xác nhận xóa nguyện vọng này ra khỏi Danh sách nguyện vọng đăng ký xét tuyển sinh hiện có:
+
+Bước 4.3: Thêm mới nguyện vọng
+
+Lưu ý: Nút Thêm nguyện vọng chỉ hiển thị khi tổng số nguyện vọng hiện có nhỏ hơn tổng số nguyện vọng thí sinh đã đăng ký ban đầu khi nộp hồ sơ đăng ký dự thi.
+
+– Để thêm mới 1 nguyện vọng, thí sinh nhấn nút “Thêm nguyện vọng” trên màn hình:
+
+– Thí sinh nhập thông tin nguyện vọng trong hình sau:
+
+Bước 4.4: Sửa nguyện vọng
+
+– Để sửa 1 nguyện vọng trong danh sách nguyện vọng, thí sinh nhấn biểu tượng “Hình bút chì” của nguyện vọng đó:
+
+– Thí sinh nhập thông tin nguyện vọng như trong hình sau:
+
+– Trên màn hình sửa nguyện vọng, thí sinh chọn trường, chọn ngành, chọn tổ hợp môn nếu muốn thay đổi và nhấn nút Chọn:
+
+Bước 5: Lưu thông tin
+
+– Sau khi đã điều chỉnh thông tin nguyện vọng, thí sinh nhấn nút “Lưu thông tin”
+
+Hệ thống hiển thị Danh sách nguyện vọng đã đăng ký để thí sinh xác nhận
+
+Thí sinh bấm nút Xác nhận đăng ký, thông tin nguyện vọng sẽ được hệ thống lưu lại, hệ thống sẽ mất vài phút để kiểm tra và cập nhật dữ liệu.
+
+Sau khi hệ thống xác nhận, thí sinh có thể thay đổi các nguyện vọng nếu thời gian đăng ký vẫn còn.
+
+Màn hình hiển thị sau khi hệ thống ghi nhận yêu cầu thay đổi nguyện vọng
+
+Bước 6: Kiểm tra thông tin điều chỉnh nguyện vọng đăng ký xét tuyển
+
+– Sau khi thí sinh đã điều chỉnh nguyện vọng đăng ký xét tuyển thành công, thoát khỏi chức năng điều chỉnh nguyện vọng đăng ký xét tuyển và Hệ thống.
+
+– Đó đăng nhập lại Hệ thống, vào chức năng Đăng ký nguyện vọng trực tuyến.
+
+– Vào trang thông tin nguyện vọng, thí sinh thực hiện In danh sách nguyện vọng sau khi điều chỉnh và lưu lại:
+
+Lưu ý:
+
+– Để việc điều chỉnh nguyện vọng đăng ký xét tuyển thành công, thí sinh phải thực hiện điều chỉnh nguyện vọng đăng ký xét tuyển đầy đủ các bước, không được bỏ qua hoặc dừng lại khi chưa thực hiện xong bước cuối cùng.
+
+– Thời gian hiện trong ảnh là thời gian của các năm điều chỉnh trước đó.
+
+(Nguồn: Bộ Giáo dục và Đào tạo)
+
+Phú Điền – Mỹ Nương, Ban CĐCTCL

@@ -1,0 +1,29 @@
+TIÊU ĐỀ: DANH SÁCH HIỆU TRƯỞNG QUA CÁC THỜI KỲ TỪ NĂM 1997-2017
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/danh-sach-hieu-truong-qua-cac-thoi-ky-tu-nam-1997-2017-1108.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-10
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: xlsx_text
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG — bảng tính 1]
+| DANH SÁCH HIỆU TRƯỞNG QUA CÁC THỜI KỲ TỪ NĂM 1997-2017 | Cột 2 | Cột 3 | Cột 4 | Cột 5 |
+| --- | --- | --- | --- | --- |
+| STT | HỌ VÀ TÊN | HỌC HÀM/HỌC VỊ | CHỨC VỤ | GIAI ĐOẠN |
+| 1.0 | MAI HÀ SAN | PGS | Hiệu trưởng | 1997 - 30/12/1997 |
+| 2.0 | HUỲNH VĂN HOÀNG | PGS | Hiệu trưởng | 1998 - 1999 |
+| 3.0 | TS NGUYỄN XÍCH LIÊN | PGS | Quyền Hiệu trưởng | 2000 – 6/2001 |
+| 4.0 | CAO VĂN PHƯỜNG | GS.VS | Hiệu trưởng | 2001 – 2017 |
+| 5.0 | CAO VIỆT HIẾU | GS. TS | Hiệu trưởng | 2017 - Nay |
+[DẠNG TRA CỨU]
+- STT: Cột 2 = HỌ VÀ TÊN; Cột 3 = HỌC HÀM/HỌC VỊ; Cột 4 = CHỨC VỤ; Cột 5 = GIAI ĐOẠN
+- 1.0: Cột 2 = MAI HÀ SAN; Cột 3 = PGS; Cột 4 = Hiệu trưởng; Cột 5 = 1997 - 30/12/1997
+- 2.0: Cột 2 = HUỲNH VĂN HOÀNG; Cột 3 = PGS; Cột 4 = Hiệu trưởng; Cột 5 = 1998 - 1999
+- 3.0: Cột 2 = TS NGUYỄN XÍCH LIÊN; Cột 3 = PGS; Cột 4 = Quyền Hiệu trưởng; Cột 5 = 2000 – 6/2001
+- 4.0: Cột 2 = CAO VĂN PHƯỜNG; Cột 3 = GS.VS; Cột 4 = Hiệu trưởng; Cột 5 = 2001 – 2017
+- 5.0: Cột 2 = CAO VIỆT HIẾU; Cột 3 = GS. TS; Cột 4 = Hiệu trưởng; Cột 5 = 2017 - Nay
+[/BẢNG]

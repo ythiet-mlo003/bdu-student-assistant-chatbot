@@ -1,0 +1,61 @@
+TIÊU ĐỀ: Thông báo về việc triển khai học tập trực tuyến trong thời gian sinh viên nghỉ học phòng tránh dịch bệnh Covid-19
+NGUỒN: https://bdu.edu.vn/thong-bao/thong-bao-ve-viec-trien-khai-hoc-tap-truc-tuyen-trong-thoi-gian-sinh-vien-nghi-hoc-phong-tranh-dich-benh-covid-19-1503.html
+SITE: bdu
+MỤC: thong-bao
+NGÀY BÀI: 2020-03-26
+NĂM: 2020
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Thông báo về việc triển khai học tập trực tuyến trong thời gian sinh viên nghỉ học phòng tránh dịch bệnh Covid-19
+
+Thứ năm - 26/03/2020 21:18
+
+Trước những diễn biến phức tạp của dịch bệnh Covid-19, Trường Đại học Bình Dương thông báo đến toàn thể sinh viên hệ Đại học chính quy về việc triển khai học tập trực tuyến trong thời gian nghỉ phòng tránh dịch bệnh Covid-19 như sau:
+
+[BẢNG — Trước những diễn biến phức tạp của dịch bệnh Covid-19, Trường Đại học Bình Dương thông báo đến toàn thể sinh viên hệ Đại]
+| STT | Thời gian | Nội dung thực hiện | Kênh thông tin | Ghi chú |
+| --- | --- | --- | --- | --- |
+| 1 | Từ ngày 27/3 đến ngày 28/3/2020 | Sinh viên nhận thông tin tài khoản học online được gửi qua email sinh viên (do Nhà trường cấp) | Cổng thông tin sinh viên | Trường hợp sinh viên quên mật khẩu email, vui lòng liên hệ: hotro@bdu.edu.vn |
+| 2 | Từ ngày 27/3/2020 đến ngày 29/3/2020 | Sinh viên kết nối với giảng viên để được hướng dẫn phương pháp học trực tuyến theo nhóm, lớp | Ứng dụng Microsoft Teams | |
+| 3 | Từ ngày 30/3/2020 đến ngày 5/4/2020 | Sinh viên học thử nghiệm | Ứng dụng Microsoft Teams | |
+| 4 | Từ ngày 6/4/2020 đến khi có thông báo mới | Học chính thức theo thời khóa biểu | Ứng dụng Microsoft Teams; Cổng thông tin sinh viên | |
+[DẠNG TRA CỨU]
+- 1: Thời gian = Từ ngày 27/3 đến ngày 28/3/2020; Nội dung thực hiện = Sinh viên nhận thông tin tài khoản học online được gửi qua email sinh viên (do Nhà trường cấp); Kênh thông tin = Cổng thông tin sinh viên; Ghi chú = Trường hợp sinh viên quên mật khẩu email, vui lòng liên hệ: hotro@bdu.edu.vn
+- 2: Thời gian = Từ ngày 27/3/2020 đến ngày 29/3/2020; Nội dung thực hiện = Sinh viên kết nối với giảng viên để được hướng dẫn phương pháp học trực tuyến theo nhóm, lớp; Kênh thông tin = Ứng dụng Microsoft Teams
+- 3: Thời gian = Từ ngày 30/3/2020 đến ngày 5/4/2020; Nội dung thực hiện = Sinh viên học thử nghiệm; Kênh thông tin = Ứng dụng Microsoft Teams
+- 4: Thời gian = Từ ngày 6/4/2020 đến khi có thông báo mới; Nội dung thực hiện = Học chính thức theo thời khóa biểu; Kênh thông tin = Ứng dụng Microsoft Teams; Cổng thông tin sinh viên
+[/BẢNG]
+
+✅ Lưu ý:
+
+✍ Sinh viên cập nhật lịch học, thông tin lớp học thông qua cổng thông tin sinh viên, email sinh viên, zalo.
+
+✍ Chuẩn bị các phương tiện hỗ trợ học tập: Điện thoại thông minh, laptop có kết nối internet.
+
+✍ Sinh viên tham gia đầy đủ các lớp học, đúng giờ theo thời khóa biểu và tương tác, thực hiện các bài tập theo sự hướng dẫn, yêu cầu của giảng viên. Sinh viên vắng mặt, vào lớp không đúng giờ, không làm bài tập sẽ bị trừ điểm quá trình.
+
+✍ Trong quá trình triển khai học tập trực tuyến, sinh viên gặp khó khăn, sự cố vui lòng liên hệ giảng viên và trợ lý giáo vụ để được hỗ trợ.
+
+Tài liệu hướng dẫn học online dành cho giảng viên và sinh viên
+
+Tài liệu hướng dẫn dành cho giảng viên:
+
+Tài liệu: http://bit.ly/3bmJSBC (http://bit.ly/3bmJSBC)
+
+Video hướng dẫn:
+
++ Làm quen: http://bit.ly/2U295LY (http://bit.ly/2U295LY)
+
++ Khởi tạo và quản trị lớp học: http://bit.ly/3b65u57 (http://bit.ly/3b65u57)
+
++ Tổ chức buổi học tương tác: http://bit.ly/3dblXHm (http://bit.ly/3dblXHm)
+
++ Giao bài tập và đánh giá: http://bit.ly/2Qtl8jb (http://bit.ly/2Qtl8jb)
+
+✅Tài liệu hướng dẫn dành cho sinh viên: http://bit.ly/2x6RCsU (http://bit.ly/2x6RCsU)
+
+Ban Biên tập

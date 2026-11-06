@@ -1,0 +1,95 @@
+TIÊU ĐỀ: Các đơn vị đối tác truyền thông
+NGUỒN: https://bdu.edu.vn/thong-bao/cac-don-vi-doi-tac-truyen-thong-1223.html
+SITE: bdu
+MỤC: thong-bao
+NGÀY BÀI: 2021-03-05
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: drive_docx_text
+CHẤT LƯỢNG: toan-van
+TÀI LIỆU ĐÍNH KÈM: 1 file (docx_text)
+GHI CHÚ: Thân bài phục hồi từ tài liệu đính kèm (docx_text).
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG — bảng 1 trong văn bản]
+| TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG BAN VĂN HÓA – TRUYỀN THÔNG | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc |
+| --- | --- |
+| | Bình Dương, ngày tháng năm 2021 |
+[/BẢNG]
+
+THỐNG KÊ CÔNG TÁC TRUYỀN THÔNG
+
+GIỮA TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG VÀ CÁC CƠ QUAN BÁO CHÍ
+
+[BẢNG — bảng 2 trong văn bản]
+| STT | TÊN CƠ QUAN BÁO CHÍ | LOGO |
+| --- | --- | --- |
+| 1 | ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM (HỢP TÁC VỚI VTV2) | |
+| 2 | BÁO BÌNH DƯƠNG | |
+| 3 | ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG | |
+| 4 | BÁO MỰC TÍM | |
+| 5 | ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH | |
+| 6 | ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC | |
+| 7 | BÁO CÀ MAU | |
+| 8 | BÁO TUỔI TRẺ | |
+[DẠNG TRA CỨU]
+- 1: TÊN CƠ QUAN BÁO CHÍ = ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM (HỢP TÁC VỚI VTV2)
+- 2: TÊN CƠ QUAN BÁO CHÍ = BÁO BÌNH DƯƠNG
+- 3: TÊN CƠ QUAN BÁO CHÍ = ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG
+- 4: TÊN CƠ QUAN BÁO CHÍ = BÁO MỰC TÍM
+- 5: TÊN CƠ QUAN BÁO CHÍ = ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH
+- 6: TÊN CƠ QUAN BÁO CHÍ = ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC
+- 7: TÊN CƠ QUAN BÁO CHÍ = BÁO CÀ MAU
+- 8: TÊN CƠ QUAN BÁO CHÍ = BÁO TUỔI TRẺ
+[/BẢNG]
+
+LINK MINH CHỨNG CÁC BÀI VIẾT
+
+[BẢNG — bảng 3 trong văn bản]
+| STT | NGƯỜI VIẾT/ĐƠN VỊ | NỘI DUNG | KẾT QUẢ |
+| --- | --- | --- | --- |
+| ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM | ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM | ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM | ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM |
+| 1 | 13/7/2021 | Từ nhà đến trường | Watch | Facebook |
+| 2 | 20/7/2021 | Từ nhà đến trường | Watch | Facebook |
+| BÁO BÌNH DƯƠNG | BÁO BÌNH DƯƠNG | BÁO BÌNH DƯƠNG | BÁO BÌNH DƯƠNG |
+| 1 | 19/9/2020 | Trường Đại học Bình Dương: Mở gian hàng 0 đồng phục vụ sinh viên, người dân khó khăn | Facebook |
+| ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG | ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG | ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG | ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG |
+| 1 | 11/8/2021 | Trường Đại học Bình Dương chăm lo đời sống cho sinh viên | Watch | Facebook |
+| BÁO MỰC TÍM | BÁO MỰC TÍM | BÁO MỰC TÍM | BÁO MỰC TÍM |
+| 1 | 1/9/2021 | Trường Đại học Bình Dương trao 450 suất học bổng | Đại học Bình Dương - Bài viết | Facebook |
+| ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH | ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH | ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH | ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH |
+| 1 | 06/4/2020 | Huyện đoàn Châu Thành phối hợp với Trường ĐH Bình Dương tổ chức “Tư vấn hướng nghiệp - Chọn ngành tiếp bước tương lai” | Watch | Facebook |
+| ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC | ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC | ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC | ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC |
+| 4 | 26/01/2020 | Trường Đại học Bình Dương tư vấn tuyển sinh tại Bình Phước | Watch | Facebook |
+| BÁO GIÁO DỤC & THỜI ĐẠI | BÁO GIÁO DỤC & THỜI ĐẠI | BÁO GIÁO DỤC & THỜI ĐẠI | BÁO GIÁO DỤC & THỜI ĐẠI |
+| 6 | 24/12/2016 | Trường Đại học Bình Dương trao bằng tốt nghiệp và giao lưu văn nghệ chào năm mới | Trường Đại học Bình Dương trao bằng tốt nghiệp và giao lưu văn nghệ chào năm mới (giaoducthoidai.vn) |
+| BÁO CÀ MAU | BÁO CÀ MAU | BÁO CÀ MAU | BÁO CÀ MAU |
+| 1 | 13/9/2021 | Khởi động năm học mới | Khởi động năm học mới (baocamau.com.vn) |
+| BÁO TUỔI TRẺ | BÁO TUỔI TRẺ | BÁO TUỔI TRẺ | BÁO TUỔI TRẺ |
+| 1 | 21/8/2015 | Trường Đại học Bình Dương: Mở hướng đi để sinh viên hội nhập | Đại học Bình Dương: Mở hướng đi để sinh viên hội nhập - Tuổi Trẻ Online (tuoitre.vn) |
+| 2 | 24/7/2016 | Trường ĐH Bình Dương : Cơ hội cho SV học tập và lập nghiệp | Trường ĐH Bình Dương : Cơ hội cho SV học tập và lập nghiệp - Tuổi Trẻ Online (tuoitre.vn) |
+[DẠNG TRA CỨU]
+- ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM: NGƯỜI VIẾT/ĐƠN VỊ = ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM; NỘI DUNG = ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM; KẾT QUẢ = ĐÀI TRUYỀN HÌNH QUỐC GIA VIỆT NAM
+- 1: NGƯỜI VIẾT/ĐƠN VỊ = 13/7/2021; NỘI DUNG = Từ nhà đến trường; KẾT QUẢ = Watch | Facebook
+- 2: NGƯỜI VIẾT/ĐƠN VỊ = 20/7/2021; NỘI DUNG = Từ nhà đến trường; KẾT QUẢ = Watch | Facebook
+- BÁO BÌNH DƯƠNG: NGƯỜI VIẾT/ĐƠN VỊ = BÁO BÌNH DƯƠNG; NỘI DUNG = BÁO BÌNH DƯƠNG; KẾT QUẢ = BÁO BÌNH DƯƠNG
+- 1: NGƯỜI VIẾT/ĐƠN VỊ = 19/9/2020; NỘI DUNG = Trường Đại học Bình Dương: Mở gian hàng 0 đồng phục vụ sinh viên, người dân khó khăn; KẾT QUẢ = Facebook
+- ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG: NGƯỜI VIẾT/ĐƠN VỊ = ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG; NỘI DUNG = ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG; KẾT QUẢ = ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH DƯƠNG
+- 1: NGƯỜI VIẾT/ĐƠN VỊ = 11/8/2021; NỘI DUNG = Trường Đại học Bình Dương chăm lo đời sống cho sinh viên; KẾT QUẢ = Watch | Facebook
+- BÁO MỰC TÍM: NGƯỜI VIẾT/ĐƠN VỊ = BÁO MỰC TÍM; NỘI DUNG = BÁO MỰC TÍM; KẾT QUẢ = BÁO MỰC TÍM
+- 1: NGƯỜI VIẾT/ĐƠN VỊ = 1/9/2021; NỘI DUNG = Trường Đại học Bình Dương trao 450 suất học bổng; KẾT QUẢ = Đại học Bình Dương - Bài viết | Facebook
+- ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH: NGƯỜI VIẾT/ĐƠN VỊ = ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH; NỘI DUNG = ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH; KẾT QUẢ = ĐÀI PHÁT THANH & TRUYỀN HÌNH TÂY NINH
+- 1: NGƯỜI VIẾT/ĐƠN VỊ = 06/4/2020; NỘI DUNG = Huyện đoàn Châu Thành phối hợp với Trường ĐH Bình Dương tổ chức “Tư vấn hướng nghiệp - Chọn ngành tiếp bước tương lai”; KẾT QUẢ = Watch | Facebook
+- ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC: NGƯỜI VIẾT/ĐƠN VỊ = ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC; NỘI DUNG = ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC; KẾT QUẢ = ĐÀI PHÁT THANH & TRUYỀN HÌNH BÌNH PHƯỚC
+- 4: NGƯỜI VIẾT/ĐƠN VỊ = 26/01/2020; NỘI DUNG = Trường Đại học Bình Dương tư vấn tuyển sinh tại Bình Phước; KẾT QUẢ = Watch | Facebook
+- BÁO GIÁO DỤC & THỜI ĐẠI: NGƯỜI VIẾT/ĐƠN VỊ = BÁO GIÁO DỤC & THỜI ĐẠI; NỘI DUNG = BÁO GIÁO DỤC & THỜI ĐẠI; KẾT QUẢ = BÁO GIÁO DỤC & THỜI ĐẠI
+- 6: NGƯỜI VIẾT/ĐƠN VỊ = 24/12/2016; NỘI DUNG = Trường Đại học Bình Dương trao bằng tốt nghiệp và giao lưu văn nghệ chào năm mới; KẾT QUẢ = Trường Đại học Bình Dương trao bằng tốt nghiệp và giao lưu văn nghệ chào năm mới (giaoducthoidai.vn)
+- BÁO CÀ MAU: NGƯỜI VIẾT/ĐƠN VỊ = BÁO CÀ MAU; NỘI DUNG = BÁO CÀ MAU; KẾT QUẢ = BÁO CÀ MAU
+- 1: NGƯỜI VIẾT/ĐƠN VỊ = 13/9/2021; NỘI DUNG = Khởi động năm học mới; KẾT QUẢ = Khởi động năm học mới (baocamau.com.vn)
+- BÁO TUỔI TRẺ: NGƯỜI VIẾT/ĐƠN VỊ = BÁO TUỔI TRẺ; NỘI DUNG = BÁO TUỔI TRẺ; KẾT QUẢ = BÁO TUỔI TRẺ
+- 1: NGƯỜI VIẾT/ĐƠN VỊ = 21/8/2015; NỘI DUNG = Trường Đại học Bình Dương: Mở hướng đi để sinh viên hội nhập; KẾT QUẢ = Đại học Bình Dương: Mở hướng đi để sinh viên hội nhập - Tuổi Trẻ Online (tuoitre.vn)
+- 2: NGƯỜI VIẾT/ĐƠN VỊ = 24/7/2016; NỘI DUNG = Trường ĐH Bình Dương : Cơ hội cho SV học tập và lập nghiệp; KẾT QUẢ = Trường ĐH Bình Dương : Cơ hội cho SV học tập và lập nghiệp - Tuổi Trẻ Online (tuoitre.vn)
+[/BẢNG]
+
+--- HẾT---

@@ -1,0 +1,39 @@
+TIÊU ĐỀ: Cấp tài khoản truy cập Cổng thông tin sinh viên dành cho tân sinh viên
+NGUỒN: https://bdu.edu.vn/thong-bao/cap-tai-khoan-truy-cap-cong-thong-tin-sinh-vien-danh-cho-tan-sinh-vien-916.html
+SITE: bdu
+MỤC: thong-bao
+NGÀY BÀI: 2021-11-02
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Cấp tài khoản truy cập Cổng thông tin sinh viên dành cho tân sinh viên
+
+Thứ ba - 02/11/2021 03:24
+
+Phòng Quản lý đào tạo và Công tác sinh viên thông báo về việc cấp tài khoản truy cập Cổng thông tin sinh viên (sv.bdu.edu.vn) dành cho tân sinh viên, cụ thể như sau:
+
+Đối tượng và phạm vi: Sinh viên khóa tuyển sinh năm 2021 (khóa 24) nhập học trước ngày 19/10/2021.
+
+Thông tin tài khoản
+
+Tên đăng nhập: Mã số sinh viên
+
+Mật khẩu: Sinh viên kiểm email sinh viên do Nhà trường cấp để nhận mật khẩu (sinh viên đổi mật khẩu trong lần đăng nhập đầu tiên, đây là tài khoản quan trọng trong quá trình sinh viên theo học tại Trường).
+
+Tiện ích tài khoản
+
+Kiểm tra điểm, học phí;
+
+Tải hóa đơn học phí (hóa đơn điện tử);
+
+Đánh giá kết quả rèn luyện sinh viên;
+
+Đánh giá chất lượng giảng dạy từng môn học;
+
+Các tiện ích khác liên quan đến quá trình học tập tại Trường.
+
+Trong quá trình đăng nhập tài khoản tại Cổng thông tin sinh viên (sv.bdu.edu.vn), sinh viên gặp khó khăn có thể liên hệ về địa chỉ Email cssv@bdu.edu.vn (Tổ Chăm sóc sinh viên) để được hỗ trợ kịp thời./.

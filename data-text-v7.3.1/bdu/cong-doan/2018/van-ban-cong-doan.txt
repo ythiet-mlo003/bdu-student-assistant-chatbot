@@ -1,0 +1,31 @@
+TIÊU ĐỀ: Văn bản Công đoàn
+NGUỒN: https://bdu.edu.vn/cong-doan/van-ban-cong-doan-359.html
+SITE: bdu
+MỤC: cong-doan
+NGÀY BÀI: 2018-03-07
+NĂM: 2018
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Văn bản Công đoàn
+
+Thứ tư - 07/03/2018 05:40
+
+1. Quyết định
+
+[BẢNG — 1. Quyết định]
+| 1 | Quyết định v/v công nhận Ban chấp hành, Ủy ban kiểm tra, chức danh Chủ tịch, Phó chủ tịch, Chủ nhiệm UBKT CĐCS Trường Đại học Bình Dương nhiệm kỳ 2017-2022. | Chi tiết |
+| --- | --- | --- |
+| 2 | Quyết định v/v ban hành Quy chế hoạt động của Ban Chấp hành Công đoàn cơ sở Trường Đại học Bình Dương lần thứ VI, nhiệm kỳ 2017-2022. | Chi tiết |
+| 3 | Quyết định v/v ban hành Quy chế hoạt động của UBKT Công đoàn cơ sở Trường Đại học Bình Dương khóa VI, nhiệm kỳ 2017-2022. | Chi tiết |
+| 4 | Quyết định v/v thành lập Tổ công đoàn trực thuộc Công đoàn cơ sở Trường Đại học Bình Dương. | Chi tiết |
+| 5 | Quyết định v/v thành lập Ban Nữ công thuộc Công đoàn cơ sở Trường Đại học Bình Dương. | Chi tiết |
+[DẠNG TRA CỨU]
+- 2: Quyết định v/v công nhận Ban chấp hành, Ủy ban kiểm tra, chức danh Chủ tịch, Phó chủ tịch, Chủ nhiệm UBKT CĐCS Trường Đại học Bình Dương nhiệm kỳ 2017-2022. = Quyết định v/v ban hành Quy chế hoạt động của Ban Chấp hành Công đoàn cơ sở Trường Đại học Bình Dương lần thứ VI, nhiệm kỳ 2017-2022.; Chi tiết = Chi tiết
+- 3: Quyết định v/v công nhận Ban chấp hành, Ủy ban kiểm tra, chức danh Chủ tịch, Phó chủ tịch, Chủ nhiệm UBKT CĐCS Trường Đại học Bình Dương nhiệm kỳ 2017-2022. = Quyết định v/v ban hành Quy chế hoạt động của UBKT Công đoàn cơ sở Trường Đại học Bình Dương khóa VI, nhiệm kỳ 2017-2022.; Chi tiết = Chi tiết
+- 4: Quyết định v/v công nhận Ban chấp hành, Ủy ban kiểm tra, chức danh Chủ tịch, Phó chủ tịch, Chủ nhiệm UBKT CĐCS Trường Đại học Bình Dương nhiệm kỳ 2017-2022. = Quyết định v/v thành lập Tổ công đoàn trực thuộc Công đoàn cơ sở Trường Đại học Bình Dương.; Chi tiết = Chi tiết
+- 5: Quyết định v/v công nhận Ban chấp hành, Ủy ban kiểm tra, chức danh Chủ tịch, Phó chủ tịch, Chủ nhiệm UBKT CĐCS Trường Đại học Bình Dương nhiệm kỳ 2017-2022. = Quyết định v/v thành lập Ban Nữ công thuộc Công đoàn cơ sở Trường Đại học Bình Dương.; Chi tiết = Chi tiết
+[/BẢNG]

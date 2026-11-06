@@ -1,0 +1,43 @@
+TIÊU ĐỀ: Phòng Tài chính - Kế toán
+NGUỒN: https://bdu.edu.vn/index.php/tin-tu-cac-don-vi-bdu/phong-tai-chinh-ke-toan-357.html
+SITE: bdu
+MỤC: groups
+NGÀY BÀI: 2019-12-01
+NĂM: 2019
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Phòng Tài chính - Kế toán
+
+Chủ nhật - 01/12/2019 08:26
+
+a. Thông tin liên hệ: Điện thoại: 0274 3835 014. b. Lịch sử hình thành: Tiền thân là Phòng Tài vụ được thành lập ngày 24/9/1997. c. Chức năng, nhiệm vụ của đơn vị: Giúp Hiệu trưởng theo dõi, giám sát, tổ chức công tác tài chính trong trường đúng quy định của Nhà nước và HĐQT trường. d. Lãnh đạo đơn vị qua các thời kỳ
+
+[BẢNG — a. Thông tin liên hệ: Điện thoại: 0274 3835 014. b. Lịch sử hình thành: Tiền thân là Phòng Tài vụ được thành lập ngày 24]
+| TT | HỌ VÀ TÊN | CHỨC VỤ | THỜI GIAN |
+| --- | --- | --- | --- |
+| 1 | Ông Hồ Văn Chắc | Trưởng phòng | Từ 1998 – 1999 |
+| 2 | Ông Nguyễn Thanh Phúc | Trưởng phòng | Từ 2000 – 2001 |
+| 3 | Bà Nguyễn Việt Thu | Trưởng phòng | Từ 12/2001 – 04/2004 |
+| 4 | Bà Trần Thị Mỹ Hạnh | Trưởng phòng | Từ 04/2004 – 10/2007 |
+| 5 | Bà Nguyễn Việt Thu | Trưởng phòng | Từ 15/11/2007 – 12/2019 |
+| 6 | Bà Nguyễn Thị Thu Hương | Trưởng phòng | Từ 12/2019 - Đến nay |
+[DẠNG TRA CỨU]
+- 1: HỌ VÀ TÊN = Ông Hồ Văn Chắc; CHỨC VỤ = Trưởng phòng; THỜI GIAN = Từ 1998 – 1999
+- 2: HỌ VÀ TÊN = Ông Nguyễn Thanh Phúc; CHỨC VỤ = Trưởng phòng; THỜI GIAN = Từ 2000 – 2001
+- 3: HỌ VÀ TÊN = Bà Nguyễn Việt Thu; CHỨC VỤ = Trưởng phòng; THỜI GIAN = Từ 12/2001 – 04/2004
+- 4: HỌ VÀ TÊN = Bà Trần Thị Mỹ Hạnh; CHỨC VỤ = Trưởng phòng; THỜI GIAN = Từ 04/2004 – 10/2007
+- 5: HỌ VÀ TÊN = Bà Nguyễn Việt Thu; CHỨC VỤ = Trưởng phòng; THỜI GIAN = Từ 15/11/2007 – 12/2019
+- 6: HỌ VÀ TÊN = Bà Nguyễn Thị Thu Hương; CHỨC VỤ = Trưởng phòng; THỜI GIAN = Từ 12/2019 - Đến nay
+[/BẢNG]
+
+e. Bộ máy tổ chức
+
+[BẢNG — e. Bộ máy tổ chức]
+| STT | HỌ VÀ TÊN | CHỨC VỤ | GHI CHÚ |
+| --- | --- | --- | --- |
+| 1 | Bà Nguyễn Thị Thu Hương | Trưởng phòng | |
+[/BẢNG]

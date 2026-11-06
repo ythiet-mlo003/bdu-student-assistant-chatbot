@@ -1,0 +1,22 @@
+TIÊU ĐỀ: Biểu mẫu Công đoàn
+NGUỒN: https://bdu.edu.vn/cong-doan/bieu-mau-cong-doan-360.html
+SITE: bdu
+MỤC: cong-doan
+NGÀY BÀI: 2018-12-01
+NĂM: 2018
+PHƯƠNG THỨC LẤY TEXT: html_text
+CHẤT LƯỢNG: partial — Nội dung trích chưa đầy đủ
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+1. Biểu mẫu công đoàn cơ sở
+
+[BẢNG — 1. Biểu mẫu công đoàn cơ sở]
+| 1 | Biểu mẫu Công đoàn BDU | Tải file (http://temp.bdu.edu.vn/bdu/wp-content/uploads/file/cong_doan/don_gia_nhap_cd_001.jpg) |
+| --- | --- | --- |
+| 2 | | |
+| 3 | | |
+[DẠNG TRA CỨU]
+[/BẢNG]
+

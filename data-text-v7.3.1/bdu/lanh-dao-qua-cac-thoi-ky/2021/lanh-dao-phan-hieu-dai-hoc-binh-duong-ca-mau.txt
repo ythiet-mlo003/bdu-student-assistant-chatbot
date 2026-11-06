@@ -1,0 +1,29 @@
+TIÊU ĐỀ: LÃNH ĐẠO PHÂN HIỆU ĐẠI HỌC BÌNH DƯƠNG - CÀ MAU
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/lanh-dao-phan-hieu-dai-hoc-binh-duong-ca-mau-1116.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-09
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: drive_xlsx_text
+CHẤT LƯỢNG: toan-van
+TÀI LIỆU ĐÍNH KÈM: 1 file (xlsx_text)
+GHI CHÚ: Thân bài phục hồi từ tài liệu đính kèm (xlsx_text).
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG — bảng tính 1]
+| LÃNH ĐẠO PHÂN HIỆU ĐẠI HỌC BÌNH DƯƠNG - CÀ MAU | Cột 2 | Cột 3 | Cột 4 | Cột 5 |
+| --- | --- | --- | --- | --- |
+| STT | HỌ VÀ TÊN | HỌC HÀM/HỌC VỊ/ CHỨC DANH NGHỀ NGHIỆP | CHỨC VỤ | GIAI ĐOẠN |
+| 1.0 | Cao Việt Hiếu | GS. TS | Phân Hiệu trưởng | |
+| 2.0 | Đoàn Thị Bẩy | ThS | Phân Hiệu phó (thường trực) | đến tháng 8/2020 |
+| 3.0 | Ông Đinh Chí Hiếu | | Phân Hiệu phó (phụ trách cơ sở vật chất) | |
+| 4.0 | Trịnh Huỳnh An | ThS | Phân Hiệu phó (thường trực) | tháng 10/2020 - nay |
+[DẠNG TRA CỨU]
+- STT: Cột 2 = HỌ VÀ TÊN; Cột 3 = HỌC HÀM/HỌC VỊ/ CHỨC DANH NGHỀ NGHIỆP; Cột 4 = CHỨC VỤ; Cột 5 = GIAI ĐOẠN
+- 1.0: Cột 2 = Cao Việt Hiếu; Cột 3 = GS. TS; Cột 4 = Phân Hiệu trưởng
+- 2.0: Cột 2 = Đoàn Thị Bẩy; Cột 3 = ThS; Cột 4 = Phân Hiệu phó (thường trực); Cột 5 = đến tháng 8/2020
+- 3.0: Cột 2 = Ông Đinh Chí Hiếu; Cột 4 = Phân Hiệu phó (phụ trách cơ sở vật chất)
+- 4.0: Cột 2 = Trịnh Huỳnh An; Cột 3 = ThS; Cột 4 = Phân Hiệu phó (thường trực); Cột 5 = tháng 10/2020 - nay
+[/BẢNG]

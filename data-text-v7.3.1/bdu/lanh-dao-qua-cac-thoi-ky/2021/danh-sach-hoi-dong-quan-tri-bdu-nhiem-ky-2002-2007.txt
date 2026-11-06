@@ -1,0 +1,33 @@
+TIÊU ĐỀ: DANH SÁCH HỘI ĐỒNG QUẢN TRỊ BDU NHIỆM KỲ 2002 - 2007
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/danh-sach-hoi-dong-quan-tri-bdu-nhiem-ky-2002-2007-1110.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-10
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: xlsx_text
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG — bảng tính 1]
+| DANH SÁCH HỘI ĐỒNG QUẢN TRỊ BDU NHIỆM KỲ 2002 - 2007 | Cột 2 | Cột 3 | Cột 4 | Cột 5 | Cột 6 | Cột 7 | Cột 8 | Cột 9 | Cột 10 | Cột 11 | Cột 12 | Cột 13 | Cột 14 | Cột 15 | Cột 16 | Cột 17 | Cột 18 | Cột 19 | Cột 20 | Cột 21 | Cột 22 | Cột 23 | Cột 24 | Cột 25 | Cột 26 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STT | HỌ VÀ TÊN | HỌC HÀM /HỌC VỊ | CHỨC VỤ | GIAI ĐOẠN | | | | | | | | | | | | | | | | | | | | | |
+| 1.0 | Cao Văn Phường | GS. VS | Chủ tịch HĐQT | 2002 đến nay | | | | | | | | | | | | | | | | | | | | | |
+| 2.0 | Ông Nguyễn Văn Thật | | | | | | | | | | | | | | | | | | | | | | | | |
+| 3.0 | Ông Nguyễn Văn Rua | | | | | | | | | | | | | | | | | | | | | | | | |
+| 4.0 | Nguyễn Hồng Đào | PGS. TS | | | | | | | | | | | | | | | | | | | | | | | |
+| 5.0 | Trần Tấn Lộc | PGS. TS | | | | | | | | | | | | | | | | | | | | | | | |
+| 6.0 | Ông Cao Việt Hưng | | | | | | | | | | | | | | | | | | | | | | | | |
+| 7.0 | Cao Việt Hiếu | GS. TS | | | | | | | | | | | | | | | | | | | | | | | |
+[DẠNG TRA CỨU]
+- STT: Cột 2 = HỌ VÀ TÊN; Cột 3 = HỌC HÀM /HỌC VỊ; Cột 4 = CHỨC VỤ; Cột 5 = GIAI ĐOẠN
+- 1.0: Cột 2 = Cao Văn Phường; Cột 3 = GS. VS; Cột 4 = Chủ tịch HĐQT; Cột 5 = 2002 đến nay
+- 2.0: Cột 2 = Ông Nguyễn Văn Thật
+- 3.0: Cột 2 = Ông Nguyễn Văn Rua
+- 4.0: Cột 2 = Nguyễn Hồng Đào; Cột 3 = PGS. TS
+- 5.0: Cột 2 = Trần Tấn Lộc; Cột 3 = PGS. TS
+- 6.0: Cột 2 = Ông Cao Việt Hưng
+- 7.0: Cột 2 = Cao Việt Hiếu; Cột 3 = GS. TS
+[/BẢNG]

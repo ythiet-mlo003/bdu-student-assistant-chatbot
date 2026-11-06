@@ -1,0 +1,23 @@
+TIÊU ĐỀ: DANH SÁCH THÀNH VIÊN SÁNG LẬP VÀ LÃNH ĐẠO QUA CÁC THỜI KỲ TỪ NĂM 1997-2001
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/danh-sach-thanh-vien-sang-lap-va-lanh-dao-qua-cac-thoi-ky-tu-nam-1997-2001-1107.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-10
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: xlsx_text
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+DANH SÁCH THÀNH VIÊN SÁNG LẬP VÀ LÃNH ĐẠO QUA CÁC THỜI KỲ TỪ NĂM 1997-2001
+STT | HỌ VÀ TÊN | CHỨC VỤ
+1.0 | Ông Nguyễn Văn Thật | Chủ tịch Hội đồng Sáng lập
+2.0 | Ông Huỳnh Văn Hoàng | Ủy viên
+3.0 | Ông Trịnh Văn Tự | Ủy viên
+4.0 | Ông Nguyễn Thạnh | Ủy viên
+5.0 | Ông Trương Kim Thống | Ủy viên
+6.0 | Ông Hoàng Hà | Ủy viên
+7.0 | Ông Bùi Việt Trì | Ủy viên
+8.0 | Ông Nguyễn Văn Bảo | Ủy viên
+9.0 | Bà Trần Thị Tuyết | Ủy viên

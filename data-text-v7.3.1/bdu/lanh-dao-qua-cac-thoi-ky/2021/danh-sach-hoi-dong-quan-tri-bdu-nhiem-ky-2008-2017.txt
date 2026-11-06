@@ -1,0 +1,33 @@
+TIÊU ĐỀ: DANH SÁCH HỘI ĐỒNG QUẢN TRỊ BDU NHIỆM KỲ 2008 - 2017
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/danh-sach-hoi-dong-quan-tri-bdu-nhiem-ky-2008-2017-1111.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-10
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: xlsx_text
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+[BẢNG — bảng tính 1]
+| DANH SÁCH HỘI ĐỒNG QUẢN TRỊ BDU NHIỆM KỲ 2008 - 2017 | Cột 2 | Cột 3 | Cột 4 | Cột 5 |
+| --- | --- | --- | --- | --- |
+| STT | HỌ VÀ TÊN | HỌC HÀM/HỌC VỊ | CHỨC VỤ | GIAI ĐOẠN |
+| 1 | Cao Văn Phường | GS.VS | Chủ tịch | |
+| 2 | Ông Nguyễn Văn Thật | | Thành viên | |
+| 3 | Nguyễn Hồng Đào | PGS.TS | Thành viên | |
+| 4 | Trần Tấn Lộc | PGS.TS | Thành viên | |
+| 5 | Ông Nguyễn Văn Rua | | Thành viên | |
+| 6 | Ông Cao Việt Hưng | | Thành viên | |
+| 7 | Cao Việt Hiếu | TS | Thành viên | |
+[DẠNG TRA CỨU]
+- STT: Cột 2 = HỌ VÀ TÊN; Cột 3 = HỌC HÀM/HỌC VỊ; Cột 4 = CHỨC VỤ; Cột 5 = GIAI ĐOẠN
+- 1: Cột 2 = Cao Văn Phường; Cột 3 = GS.VS; Cột 4 = Chủ tịch
+- 2: Cột 2 = Ông Nguyễn Văn Thật; Cột 4 = Thành viên
+- 3: Cột 2 = Nguyễn Hồng Đào; Cột 3 = PGS.TS; Cột 4 = Thành viên
+- 4: Cột 2 = Trần Tấn Lộc; Cột 3 = PGS.TS; Cột 4 = Thành viên
+- 5: Cột 2 = Ông Nguyễn Văn Rua; Cột 4 = Thành viên
+- 6: Cột 2 = Ông Cao Việt Hưng; Cột 4 = Thành viên
+- 7: Cột 2 = Cao Việt Hiếu; Cột 3 = TS; Cột 4 = Thành viên
+[/BẢNG]

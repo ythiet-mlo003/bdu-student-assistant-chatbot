@@ -1,0 +1,35 @@
+TIÊU ĐỀ: Góc nhìn của nhà quản trị về đào tạo Đại học trong bối cảnh trí tuệ nhân tạo (AI)
+NGUỒN: https://bdu.edu.vn/cac-van-de-giao-duc/goc-nhin-cua-nha-quan-tri-ve-dao-tao-dai-hoc-trong-boi-canh-tri-tue-nhan-tao-ai-2116.html
+SITE: bdu
+MỤC: cac-van-de-giao-duc
+NGÀY BÀI: 2026-05-20
+NĂM: 2026
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Góc nhìn của nhà quản trị về đào tạo Đại học trong bối cảnh trí tuệ nhân tạo (AI)
+
+Thứ tư - 20/05/2026 21:42
+
+Trong bối cảnh trí tuệ nhân tạo (AI) đang phát triển với tốc độ chưa từng có, giáo dục đại học đứng trước một bước ngoặt quan trọng. AI không chỉ thay đổi cách con người làm việc, mà còn tác động tận gốc đến cách chúng ta học tập, tiếp cận tri thức và đánh giá năng lực. Dưới góc nhìn của một nhà quản trị, công tác đào tạo hiện nay không thể tách rời khỏi công nghệ, mà phải chủ động tích hợp AI như một cấu phần chiến lược trong toàn bộ hệ sinh thái giáo dục.
+
+Trước hết, cần nhìn nhận rằng AI đang làm thay đổi bản chất của tri thức. Những kiến thức mang tính ghi nhớ thuần túy ngày càng mất đi giá trị độc quyền, bởi các hệ thống AI có thể truy xuất và tổng hợp thông tin trong thời gian cực ngắn. Điều này buộc nhà trường phải tái định nghĩa mục tiêu đào tạo: từ “truyền đạt kiến thức” sang “phát triển năng lực tư duy, năng lực phản biện và khả năng ra quyết định trong môi trường phức tạp”. Sinh viên không chỉ học để biết, mà còn phải học cách đặt câu hỏi đúng, đánh giá thông tin và sử dụng AI một cách hiệu quả, có trách nhiệm.
+
+Từ góc độ quản trị, AI đang tạo ra một cuộc cách mạng trong thiết kế và vận hành chương trình đào tạo. Các hệ thống phân tích dữ liệu học tập (learning analytics) cho phép nhà trường hiểu sâu hơn về hành vi của sinh viên, từ đó cá nhân hóa lộ trình cho từng người học. Đây là một bước chuyển từ mô hình đào tạo “đại trà” sang mô hình “cá thể hóa” – nơi mỗi sinh viên đều được hỗ trợ theo đúng năng lực, tốc độ và phong cách học tập riêng.
+
+Bên cạnh đó, AI cũng đặt ra yêu cầu mới đối với đội ngũ giảng viên. Thầy cô không còn là nguồn cung cấp tri thức duy nhất, mà trở thành người thiết kế trải nghiệm học tập, người hướng dẫn tư duy và người kiểm soát chất lượng học thuật trong môi trường công nghệ. Điều này đòi hỏi chiến lược phát triển giảng viên phải tập trung mạnh mẽ vào năng lực số, khả năng ứng dụng AI vào giảng dạy, cũng như đạo đức học thuật trong thời đại mới.
+
+Một vấn đề quan trọng khác là đánh giá kết quả học tập. Sự phổ biến của các công cụ AI tạo sinh khiến các phương pháp kiểm tra truyền thống dựa trên ghi nhớ và tái hiện trở nên kém hiệu quả. Nhà quản trị giáo dục cần thúc đẩy các mô hình đánh giá mới, chú trọng vào năng lực thực hành, tư duy phản biện, giải quyết vấn đề và khả năng sáng tạo. Các hình thức như học tập qua dự án, nghiên cứu tình huống, hay học tập qua vấn đề (PBL) sẽ trở nên quan trọng hơn bao giờ hết.
+
+Trong môi trường này, trải nghiệm của người học cũng thay đổi sâu sắc. AI có thể hỗ trợ sinh viên mọi lúc, mọi nơi, đóng vai trò như một “trợ lý học tập cá nhân”. Tuy nhiên, điều này cũng đặt ra thách thức về sự phụ thuộc công nghệ và nguy cơ suy giảm năng lực tư duy độc lập. Vì vậy, nhà trường cần thiết kế một không gian học tập cân bằng, nơi AI được sử dụng như một công cụ bổ trợ, chứ không thể thay thế tư duy con người.
+
+Từ góc độ quản trị chiến lược, chuyển đổi số trong giáo dục đại học không còn dừng ở việc số hóa quy trình, mà đã tiến tới tích hợp AI vào toàn bộ chuỗi giá trị đào tạo: từ tuyển sinh, xây dựng chương trình, giảng dạy, đánh giá cho đến các hoạt động hỗ trợ sinh viên. Điều này đòi hỏi một tầm nhìn dài hạn, cùng với năng lực quản trị thay đổi mạnh mẽ để đảm bảo nhà trường không bị tụt hậu trong cuộc cạnh tranh toàn cầu.
+
+Quan trọng hơn cả, trong kỷ nguyên AI, giá trị cốt lõi của giáo dục đại học vẫn không thay đổi: đó là đào tạo con người. AI có thể xử lý dữ liệu, nhưng không thể thay thế trách nhiệm xã hội, đạo đức nghề nghiệp và tư duy nhân văn. Do đó, nhà quản trị đại học phải đảm bảo rằng mọi đổi mới công nghệ đều phục vụ mục tiêu phát triển con người một cách toàn diện và bền vững.
+
+Nhìn một cách tổng thể, đào tạo đại học trong kỷ nguyên số không chỉ là sự thích ứng mà còn là một cuộc tái cấu trúc toàn diện. Khi AI được tích hợp một cách thông minh và có định hướng, trường đại học không chỉ giữ vai trò là nơi truyền thụ tri thức, mà còn trở thành trung tâm kiến tạo năng lực tương lai cho toàn xã hội.
+
+PGS.TS Đỗ Đoan Trang.

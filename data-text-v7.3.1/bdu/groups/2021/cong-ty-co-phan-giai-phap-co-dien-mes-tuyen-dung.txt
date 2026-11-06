@@ -1,0 +1,64 @@
+TIÊU ĐỀ: CÔNG TY CỔ PHẦN GIẢI PHÁP CƠ ĐIỆN MES TUYỂN DỤNG
+NGUỒN: https://bdu.edu.vn/tuyen-dung/cong-ty-co-phan-giai-phap-co-dien-mes-tuyen-dung-853.html
+SITE: bdu
+MỤC: groups
+NGÀY BÀI: 2021-12-20
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: drive_pdf_text_layer
+CHẤT LƯỢNG: toan-van
+TÀI LIỆU ĐÍNH KÈM: 1 file (pdf_text_layer)
+GHI CHÚ: Thân bài phục hồi từ tài liệu đính kèm (pdf_text_layer).
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+THÔNG BÁO TUYỂN DỤNG NHÂN SỰ
+
+Công Ty Cổ Phần Cơ Điện MES được thành lập từ năm 2009 chuyên thiết
+kế, thi công trong lĩnh vực cơ điện và hệ thống chiếu sáng. Cùng đội ngũ kỹ sư giàu
+kinh nghiệm trong lĩnh vực thiết kế chiếu sáng chức năng hợp chuẩn, công ty đã
+mạnh dạn đi sâu vào việc nghiên cứu & phát triển và cho ra mắt các dòng sản phẩm
+đèn chiếu sáng ứng dụng LED chất lượng cao. Hiện tại, công ty chúng tôi đang cần
+tuyển 01 nhân viên vào vị trí:
+
+NHÂN VIÊN PHÁT TRIỂN PHẦN MỀM CÔNG NGHỆ THÔNG TIN
+(IT SOFTWARE DEVELOPER)
+Mô tả công việc:
+- Tham gia trực tiếp vào dự án để được: Đào tạo chuyên sâu, tổng thời gian 2-
+3 tháng, với các nội dung bao gồm: kiến thức về Database, Lập trình hướng
+đối tượng, quy trình phát triển phần mềm, quản lý rủi ro, tích hợp vào thiết
+bị IOT và cloud AWS;
+- Mở rộng và xây dựng cho hướng phát triển phần mềm cho các hệ thống và
+giải pháp công nghiệp của của công ty cho định hướng IOT;
+- Được yêu cầu tham gia đầy đủ quá trình phát triển phần mềm từ phân tích
+thiết kế, lập trình đến kiểm thử chất lượng phần mềm.
+Yêu cầu:
+- Tốt nghiệp hoặc sinh viên chuẩn bị tốt nghiệp chuyên ngành Công nghệ
+thông tin, Toán tin, Khoa học máy tính … hoặc các chuyên ngành có liên
+quan phát triển phần mềm;
+- Nắm vững kiến thức cơ bản về Lập trình hướng đối tượng và một trong các
+ngôn ngữ C/C++, Java, C#, PHP…;
+- Ham học hỏi, tuân thủ kỷ luật & có trách nhiệm với công việc;
+- Có khả năng đọc hiểu tiếng Anh;
+- Có định hướng rõ ràng trong sự nghiệp và có cam kết làm việc lâu dài;
+- Ưu tiên ứng viên đang cư trú tại tỉnh Bình Dương
+Quyền lợi:
+- Mức thu nhập ban đầu thương lượng theo năng lực;
+- Đánh giá năng lực, xem xét điều chỉnh lương thưởng;
+- Tuần làm việc 5 ngày, thời gian linh hoạt, chủ yếu dựa trên hiệu quả công
+việc;
+- Lộ trình phát triển sự nghiệp rõ ràng, được tư vấn và định hướng bởi các
+quản lý, các chuyên gia cố vấn của công ty trong và ngoài nước;
+- Hưởng chế độ bảo hiểm xã hội và các chế độ chính sách theo đúng luật lao
+động Việt Nam;
+
+- Môi trường làm việc trẻ trung, thân thiện, tôn trọng và hỗ trợ lẫn nhau trong
+công việc, với nhiều hoạt động;
+- Chấp nhận các ứng viên trẻ, ít kinh nghiệm trong lĩnh vực phát triển phần
+mềm, nhưng có quyết tâm và khả năng học tập và theo đuổi lĩnh vực phát
+triển phần mềm, cũng như có cam kết làm việc lâu dài cho công ty.
+Liên hệ:
+- Email: Vui lòng gửi CV ứng tuyển về email: phamdienhoa@mes.vn
+- Hoặc nộp hồ sơ trực tiếp tại: Số 37 Huỳnh Văn Lũy, Tổ 17, KP3, P. Phú Lợi,
+TP. TDM, T. Bình Dương.
+- Liên hệ: 0274.3557799

@@ -1,0 +1,225 @@
+TIÊU ĐỀ: Công ty TNHH XP Power Việt Nam tuyển dụng
+NGUỒN: https://bdu.edu.vn/tuyen-dung/cong-ty-tnhh-xp-power-viet-nam-tuyen-dung-2138.html
+SITE: bdu
+MỤC: groups
+NGÀY BÀI: 2026-07-07
+NĂM: 2026
+PHƯƠNG THỨC LẤY TEXT: drive_pdf_ocr
+CHẤT LƯỢNG: toan-van
+TÀI LIỆU ĐÍNH KÈM: 1 file (pdf_ocr)
+GHI CHÚ: Thân bài phục hồi từ tài liệu đính kèm (pdf_ocr).
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+XP Power
+
+HVHP - Kỹ thuật viên điện tử
+
+Báo cáo cho: Trưởng nhóm Kỹ sư điện tử
+Thời gian làm việc: Thứ 2 — Thứ 7
+
+Địa điểm: Việt Nam
+
+Loại hình làm việc; Toàn thời gian
+
+> VỀ CHÚNG TÔI
+
+XP Power là tập đoàn hàng đầu thế giới trong việc cung cấp các giải pháp nguồn điện thiết yếu cho các lĩnh vực
+Công nghệ Công nghiệp, Chăm sóc Sức khỏe và Thiết bị Sản xuất Bán dẫn. Chúng tôi thiết kế và sản xuất các bộ
+điều khiển nguồn điện (power controllers) — thành phần phần cứng thiết yếu trong mọi thiết bị điện, có nhiệm vụ
+chuyển đổi nguồn điện từ lưới điện thành dạng điện năng phù hợp để thiết bị có thể hoạt động. Là một công ty
+thuộc chỉ số FTSE 250 được niêm yết trên Sàn Giao dịch Chứng khoán London, chúng tôi là một doanh nghiệp
+đang phát triển nhanh chóng, phục vụ các khách hàng hàng đầu trên toàn cầu thông qua 29 cơ sở hoạt động tại
+Châu Âu, Bắc Mỹ và Châu Á. Chúng tôi vô cùng tự hào và cam kết xây dựng một văn hóa doanh nghiệp đề cao các
+giá trị: Tập trung vào khách hàng (Customer Focus), Linh hoạt (Flexibility), Kiến thức (Knowledge), Tốc độ (Speed)
+và Chính trực (Integrity). Gia nhập đội ngũ của chúng tôi đồng nghĩa với việc bạn sẽ làm việc trong một tổ chức
+toàn cầu có hiệu suất cao, nơi các nhân viên cùng hợp tác và không ngừng nỗ lực để đưa XP Power trở thành nhà
+cung cấp giải pháp nguồn điện được khách hàng ưu tiên lựa chọn, đồng thời mang đến trải nghiệm tốt nhất cho
+cả khách hàng và nhân viên của chúng tôi.
+
+> MÔ TẢ CÔNG VIỆC
+
+Là thành viên của đội ngũ Kiểm thử (Test Team) tại Việt Nam, bạn sẽ thực hiện việc thiết lập và vận hành
+các bài kiểm tra Điện áp cao — Công suất cao (High-Voltage High-Power - HVHP) đối với các bộ nguồn DC
+(DC Power Supplies), thiết bị kiểm tra (Test Equipment) và các linh kiện khác.
+
+Quá trình kiểm thử HVHP đòi hỏi khả năng phân tích và kỹ năng chẩn đoán, xử lý lỗi (debug). Kinh nghiệm
+trong lĩnh vực này là một lợi thế để đảm bảo các sản phẩm đáp ứng đầy đủ các tiêu chuẩn kiểm thử và
+yêu cầu của khách hàng. Bạn sẽ gia nhập đội ngũ với vai trò quan trọng là Kỹ thuật viên Kiểm thử HVHP
+(HVHP Test Technician), góp phần đảm bảo chất lượng và độ tin cậy của sản phẩm trước khi đến tay
+khách hàng.
+
+s Thực hiện kiểm tra (test), chẩn đoán lỗi (diagnose), sửa chữa/khắc phục (rework) và xác nhận kết qua
+(verify) đối với các cụm linh kiện (sub-components) và sản phẩm điện tử hoàn chỉnh có mức độ phức tạp
+từ trung bình đến cao, theo đúng bản vẽ kỹ thuật, sơ đồ mạch điện (electrical schematics) và/hoặc quy
+trình làm việc.
+
+© C6 khả năng kiểm tra và chẩn đoán lỗi sản phẩm một cách độc lập, chỉ cần rất ít sự hướng dẫn từ cấp trên
+hoặc đồng nghiệp.
+
+POWERING THE WORLD'S CRITICAL SYSTEMS
+
+XP. Power
+
+© Ghi nhận dữ liệu lỗi và các vấn đề phát sinh trong quá trình kiểm thử vào hệ thống cơ sở dữ liệu theo yêu
+cầu. Phối hợp với Kỹ sư Kiểm thử (Test Engineer) để cập nhật và lưu trữ các thay đổi trong quá trình sửa
+chữa sản phẩm. Đánh giá kết quả kiểm thử và đề xuất các hành động khắc phục khi cần thiết.
+
+© Đề xuất các cải tiến về thiết kế, cập nhật quy trình và nâng cao hiệu quả của hệ thống kiểm thử. Hỗ trợ
+lắp ráp và thiết lập các trạm kiểm thử (test stations) phục vụ cho quá trình kiểm tra sản phẩm.
+
+© Chuẩn bị các báo cáo chỉ tiết và quy trình kiểm thử, ghi lại kết quả, phương pháp thực hiện và các thiết bị
+được sử dụng trong quá trình đánh giá sản phẩm.
+
+© Có kỹ năng giao tiếp tốt với đồng nghiệp, giữa các ca làm việc và với các bộ phận hỗ trợ liên quan.
+
+s Tham gia vào các nhóm và hoạt động cải tiến quy trình nhằm nâng cao chất lượng và hiệu quả sản xuất.
+
+© pam bảo đi làm đầy đủ, đúng giờ và duy trì sự ổn định trong công việc.
+
+© Thực hiện các nhiệm vụ khác theo sự phân công khi cần thiết..
+
+> YÊU CÀU CÔNG VIỆC
+
+© Có ít nhất 1 năm kinh nghiệm ở vị trí Kỹ thuật viên Kiểm thử (Test Technician) trong công ty điện tử hoặc
+lĩnh vực tương tự.
+
+© Ung viên mới tốt nghiệp (Freshers) có trình độ tiếng Anh tốt sẽ được đào tạo.
+
+s__ Tốt nghiệp Đại học chuyên ngành Công nghệ Kỹ thuật Điện — Điện tử hoặc Kỹ thuật Điện — Điện tử,
+
+© Có kinh nghiệm kiểm thử, chẩn đoán sự cố và sửa chữa các thiết bị điện tử.
+
+s _ Có kinh nghiệm kiểm tra và chẩn đoán lỗi đối với sản phẩm điện tử, bộ nguồn (Power Supplies) và các sản
+phẩm liên quan.
+
+© _ Có khả năng đọc và làm việc theo sơ đồ mạch điện (Electrical Schematics), thông báo thay đổi kỹ thuật
+(Change Notices) và sử dụng thành thạo các thiết bị chẩn đoán điện tử tiêu chuẩn.
+
+s_ Có kinh nghiệm trong lĩnh vực điện tử quân sự (Military Electronics) là một lợi thế.
+
+© Có khả năng thực hiện các kết nối cơ khí cơ bản liên quan đến việc kiểm thử bộ nguồn.
+
+s__ Có khả năng giao tiếp hiệu quả bằng cả tiếng Anh và tiếng Việt, bao gồm kỹ năng nói và viết.
+
+s Thành thạo các ứng dụng Microsoft Windows, đặc biệt là Word, Excel và PowerPoint.
+
+© _ Có hiểu biết hoặc kinh nghiệm sử dụng hệ thống SAP là một lợi thế.
+
+s__ Có khả nang làm việc độc lập với sự giám sát tối thiểu.
+
+© Có thể làm việc theo ca.
+
+© Cékha năng nâng, mang vác vật nặng lên đến 50 Ibs (khoảng 23 kg).
+
+Đại diện công ty
+
+Left
+
+\ (VIỆT NAM / — ...
+sả». Nguyễn Thị Trinh
+= “Palani Acquisition and Admin Manager
+
+POWERING THE WORLD'S CRITICAL SYSTEMS
+
+XP | Power
+
+Kỹ thuật viên sửa lỗi
+
+Báo cáo cho: Quản lý Phân tích lỗi sản phẩm
+Thời gian làm việc: Thứ 2-7
+
+Địa điểm: Việt Nam
+
+Loại hình làm việc: Toàn thời gian
+
+> VE CHUNG TÔI
+
+XP Power là tập đoàn hang đầu thé giới trong việc cung cấp các giải pháp nguồn điện thiết yếu cho các lĩnh vực
+Công nghệ Công nghiệp, Chăm sóc Sức khỏe và Thiết bị Sản xuất Bán dẫn. Chúng tôi thiết kế và sản xuất các bộ
+điều khiển nguồn điện (power controllers) — thành phần phần cứng thiết yếu trong mọi thiết bị điện, có nhiệm vụ
+chuyển đổi nguồn điện từ lưới điện thành dạng điện năng phù hợp để thiết bị có thể hoạt động. Là một công ty
+thuộc chỉ số FTSE 250 được niêm yết trên Sàn Giao dịch Chứng khoán London, chúng tôi là một doanh nghiệp
+đang phát triển nhanh chóng, phục vụ các khách hàng hàng đầu trên toàn cầu thông qua 29 cơ sở hoạt động tại
+Châu Âu, Bắc Mỹ và Châu Á. Chúng tôi vô cùng tự hào và cam kết xây dựng một văn hóa doanh nghiệp đề cao các
+giá trị: Tập trung vào khách hàng (Customer Focus), Linh hoạt (Flexibility), Kiến thức (Knowledge), Tốc độ (Speed)
+và Chính trực (Integrity). Gia nhập đội ngũ của chúng tôi đồng nghĩa với việc bạn sẽ làm việc trong một tổ chức
+toàn cầu có hiệu suất cao, nơi các nhân viên cùng hợp tác và không ngừng nỗ lực để đưa XP Power trở thành nhà
+cung cấp giải pháp nguồn điện được khách hàng ưu tiên lựa chọn, đồng thời mang đến trải nghiệm tốt nhất cho
+cả khách hàng và nhân viên của chúng tôi.
+
+> MÔ TẢ CÔNG VIỆC
+
+Là thành viên của đội ngũ Sản xuất (Manufacturing Team) tại Việt Nam, bạn sẽ thực hiện việc khắc phục
+sự cố (troubleshooting), chẩn đoán lỗi (debugging) và sửa chữa các bộ nguồn DC (DC Power Supplies)
+cùng các cụm lắp ráp điện tử liên quan. Bạn sẽ phân tích các lỗi phát sinh trong quá trình kiểm thử, xác
+định nguyên nhân gốc (Root Cause Analysis), thực hiện các hành động khắc phục và xác minh hiệu suất
+của sản phẩm nhằm đảm bảo sản phẩm đáp ứng các tiêu chuẩn chất lượng và yêu cầu của khách hàng. Vị
+trí này đòi hỏi khả năng phân tích và giải quyết vấn đề tốt. Ứng viên có kinh nghiệm trong lĩnh vực chẩn
+đoán, khắc phục lỗi và sửa chữa thiết bị điện tử sẽ là một lợi thế. Bạn sẽ gia nhập đội ngũ trong vai trò
+quan trọng là Kỹ thuật viên Debug (Debug Technician), góp phần đảm bảo chất lượng, độ tin cậy và hiệu
+suất của sản phẩm trước khi được bàn giao cho khách hàng.
+
+© Hé trợ bộ phận Sản xuất (Production/Manufacturing) trong việc khắc phục sự cố và xử lý các
+sản phẩm bị lỗi phát sinh trên dây chuyền sản xuất.
+
+© Phan tích các vấn đề liên quan đến quá trình sản xuất hoặc thiết kế sản phẩm, đồng thời đề
+xuất các biện pháp khắc phục và cải tiến phù hợp.
+
+s... Tổng hợp kết quả phân tích lỗi (Failure Analysis) và lập báo cáo hằng ngày.
+
+POWERING THE WORLD'S CRITICAL SYSTEMS
+
+| XP | Power
+
+© Ghinhan, theo dõi và báo cáo các vấn đề phát sinh theo đúng quy trình, sử dụng các công cụ
+quản lý chất lượng hoặc các phương pháp tương tự để xử lý và leo thang vấn đề khi cần
+thiết.
+
+© Thực hiện khắc phục sự cố (troubleshooting) đối với sản phẩm trong giai đoạn NPI/NPD
+(Giới thiệu/Phát triển sản phẩm mới) cũng như sản xuất hàng loạt (Mass Production). Phối
+hợp với các bộ phận liên quan (cross-functional teams) để xử lý triệt để các vấn đề, xác định
+nguyên nhân gốc (Root Cause Analysis) và đưa ra giải pháp khắc phục.
+
+© Phân tích và đề xuất các cải tiến đối với quy trình và phương pháp sản xuất, đặc biệt liên
+quan đến hoạt động kiểm thử (testing) nhằm nâng cao chất lượng sản phẩm.
+
+© Hỗ trợ bộ phận sản xuất đảm bảo số lượng sản phẩm đang chờ xử lý lỗi (Debug Work-In-
+Progress — Debug WIP) được duy trì ở mức thấp nhất, đồng thời theo dõi thời gian tồn đọng
+(aging time) của các sản phẩm này để đảm bảo tiến độ xử lý.
+
+> YÊU CAU CÔNG VIỆC
+
+© _ Có nền tang kỹ thuật và hiểu biết về ngành công nghiệp bộ nguồn (Power Supply Industry).
+
+© Có tư duy sáng tạo và cách tiếp cận thận trọng, logic trong việc giải quyết vấn đề.
+
+s __ Có kỹ năng tổ chức công việc tốt, có khả năng quản lý và xử lý khối lượng công việc lớn, đa
+
+dạng và phức tạp.
+
+Có tư duy rõ ràng, logic và chú ý cao đến từng chỉ tiết.
+
+Có kỹ năng giao tiếp bằng tiếng Anh, cả nói và viết, là một lợi thế.
+
+Có khả năng làm việc hiệu quả dưới áp lực và đáp ứng các thời hạn gấp.
+
+Có kinh nghiệm khắc phục sự cố (troubleshooting) trên PCBA (Printed Circuit Board
+
+Assembly — Bo mạch điện tử đã lắp ráp linh kiện) và sử dụng các đồng hồ đo, thiết bị đo
+
+kiểm để kiểm tra PCBA.
+
+© Có kinh nghiệm thực tế ở các vị tri Debug (chẩn đoán và xử lý lỗi), Repair (sửa chữa) hoặc
+Testing (kiểm thử).
+
+Đại diện công ty
+
+XP POWER |
+VIET NAM cone
+AMET NAW doy) Thi Trinh
+
+\ Gent Aypusition and Admin Manager
+
+POWERING THE WORLD'S CRITICAL SYSTEMS

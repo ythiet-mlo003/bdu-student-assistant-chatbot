@@ -1,0 +1,33 @@
+TIÊU ĐỀ: DANH SÁCH HỘI ĐỒNG KHOA HỌC & ĐÀO TẠO ĐƯỢC THÀNH LẬP NĂM 2002
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/danh-sach-hoi-dong-khoa-hoc-dao-tao-duoc-thanh-lap-nam-2002-1109.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-10
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: xlsx_text
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+DANH SÁCH HỘI ĐỒNG KHOA HỌC & ĐÀO TẠO ĐƯỢC THÀNH LẬP NĂM 2002
+STT | HỌ VÀ TÊN | HỌC HÀM/HỌC VỊ | CHỨC VỤ | GIAI ĐOẠN
+1.0 | Trần Văn Giàu | GS.NGND | Cố vấn
+2.0 | Trần Hồng Quân | GS.TS | Chủ tịch danh dự
+3.0 | Nguyễn Văn Đạo | GS.VS | Cố vấn
+4.0 | Cao Văn Phường | GS.TS | Hiệu trưởng – Chủ tịch
+5.0 | Nguyễn Hồng Đào | PGS.TS | Trưởng phòng Đào tạo – Phó Chủ tịch
+6.0 | Đào Công Tiến | PGS.TS | Ủy viên
+7.0 | Trương Minh Vệ | GS.TS | Ủy viên
+8.0 | Nguyễn Hữu Anh | GS.TS | Ủy viên
+9.0 | Trần Thành Trai | PGS.TS | Ủy viên
+10.0 | Trần Tấn Lộc | PGS.TS | Ủy viên
+11.0 | Nguyễn Văn Thưởng | TS | Ủy viên
+12.0 | Đỗ Văn Nhơn | TS | Ủy viên
+13.0 | Võ Thanh Thu | GS.TS | Ủy viên
+14.0 | Lê Thị Thanh Thu | Th.S | Ủy viên
+15.0 | Cao Việt Hiếu | Th.S | Ủy viên
+16.0 | Trần Anh Tuấn | TS | Ủy viên
+17.0 | Trần Ngọc Hội | TS | Ủy viên
+18.0 | Dương Công Kiên | TS | Ủy viên
+19.0 | Nguyễn Văn Rua | Th.S | Ủy viên

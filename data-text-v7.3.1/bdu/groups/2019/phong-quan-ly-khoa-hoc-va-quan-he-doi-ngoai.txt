@@ -1,0 +1,65 @@
+TIÊU ĐỀ: Phòng Quản lý khoa học và Quan hệ đối ngoại
+NGUỒN: https://bdu.edu.vn/index.php/tin-tu-cac-don-vi-bdu/phong-quan-ly-khoa-hoc-va-quan-he-doi-ngoai-1878.html
+SITE: bdu
+MỤC: groups
+NGÀY BÀI: 2019-09-24
+NĂM: 2019
+PHƯƠNG THỨC LẤY TEXT: html_v7
+CHẤT LƯỢNG: toan-van
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+Phòng Quản lý khoa học và Quan hệ đối ngoại
+
+Thứ ba - 24/09/2019 03:13
+
+1. Thông tin liên hệ:
+
+Điện thoại: 0274.3871387 Email: nckh@bdu.edu.vn
+
+2. Lịch sử hình thành: Phòng được thành lập năm 2006 theo quyết định số 209/2006/QĐ-ĐHBD, ngày 17 tháng 11 năm 2006. Tiền thân là phòng Quản lý nghiên cứu khoa học.
+
+3. Chức năng, nhiệm vụ của Phòng Quản lý khoa học và Quan hệ đối ngoại:
+
+Chịu trách nhiệm tham mưu cho Hiệu trưởng xây dựng quy định về quản lý hoạt động NCKH của Nhà trường; phối hợp các đơn vị chức năng tổ chức thực hiện kế hoạch, thẩm định, xét duyệt, kiểm tra đánh giá nghiệm thu, công nhận kết quả thực hiện nhiệm vụ NCKH, báo cáo hoạt động NCKH do Nhà trường quản lý; tổ chức giới thiệu kết quả nghiên cứu, quản lý các hoạt động ứng dụng, chuyển giao công nghệ, dịch vụ NCKH của Nhà trường; tham mưu tổ chức tổng kết đánh giá hoạt động NCKH, khen thưởng, xử lý phạm vi hoạt động NCKH của trường hàng năm.
+
+4. Lãnh đạo đơn vị qua các thời kỳ:
+
+[BẢNG — 4. Lãnh đạo đơn vị qua các thời kỳ:]
+| Stt | Chức vụ | Thời gian |
+| --- | --- | --- |
+| 1 | ThS. Vương Ngọc Long | 2006 - 2013 |
+| 2 | TS. Nguyễn Thanh Bình | 2014 - 2015 |
+| 3 | PGS.TS Nguyễn Văn Út | 2015 - 2016 |
+| 4 | ThS. Lê Thành Long | 2017 - 2019 |
+| 5 | ThS. Hà Hoàng Hiếu | 2019 – 2020 |
+| 6 | TS. Nguyễn Thái Hoan | 2020 – 2021 |
+| 7 | TS. Đào Văn Tuyết | 2022 – 2023 |
+[DẠNG TRA CỨU]
+- 1: Chức vụ = ThS. Vương Ngọc Long; Thời gian = 2006 - 2013
+- 2: Chức vụ = TS. Nguyễn Thanh Bình; Thời gian = 2014 - 2015
+- 3: Chức vụ = PGS.TS Nguyễn Văn Út; Thời gian = 2015 - 2016
+- 4: Chức vụ = ThS. Lê Thành Long; Thời gian = 2017 - 2019
+- 5: Chức vụ = ThS. Hà Hoàng Hiếu; Thời gian = 2019 – 2020
+- 6: Chức vụ = TS. Nguyễn Thái Hoan; Thời gian = 2020 – 2021
+- 7: Chức vụ = TS. Đào Văn Tuyết; Thời gian = 2022 – 2023
+[/BẢNG]
+
+5. Bộ máy hiện nay:
+
+[BẢNG — 5. Bộ máy hiện nay:]
+| Stt | Họ và tên | Chức vụ |
+| --- | --- | --- |
+| 1 | PGS.TS.NGUT Lê Văn Cường | Phó Hiệu trưởng |
+| 2 | ThS. Lê Thành Long | Phó trưởng phòng, phụ trách Quản lý khoa học và quan hệ đối ngoại |
+| 3 | ThS. Vũ Đức Quý | Phó trưởng phòng, phụ trách Tạp chí khoa học, hội thảo, hội nghị khoa học |
+| 4 | ThS. Lưu Thanh Thảo Trâm | Nhân viên |
+| 5 | CN. Nguyễn Thị Len | Nhân viên |
+[DẠNG TRA CỨU]
+- 1: Họ và tên = PGS.TS.NGUT Lê Văn Cường; Chức vụ = Phó Hiệu trưởng
+- 2: Họ và tên = ThS. Lê Thành Long; Chức vụ = Phó trưởng phòng, phụ trách Quản lý khoa học và quan hệ đối ngoại
+- 3: Họ và tên = ThS. Vũ Đức Quý; Chức vụ = Phó trưởng phòng, phụ trách Tạp chí khoa học, hội thảo, hội nghị khoa học
+- 4: Họ và tên = ThS. Lưu Thanh Thảo Trâm; Chức vụ = Nhân viên
+- 5: Họ và tên = CN. Nguyễn Thị Len; Chức vụ = Nhân viên
+[/BẢNG]

@@ -1,0 +1,21 @@
+TIÊU ĐỀ: BAN GIÁM HIỆU TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG NHIỆM KỲ 2017-2025
+NGUỒN: https://bdu.edu.vn/lanh-dao-qua-cac-thoi-ky/ban-giam-hieu-truong-dai-hoc-binh-duong-nhiem-ky-2017-2025-1114.html
+SITE: bdu
+MỤC: lanh-dao-qua-cac-thoi-ky
+NGÀY BÀI: 2021-05-09
+NĂM: 2021
+PHƯƠNG THỨC LẤY TEXT: drive_xlsx_text
+CHẤT LƯỢNG: toan-van
+TÀI LIỆU ĐÍNH KÈM: 1 file (xlsx_text)
+GHI CHÚ: Thân bài phục hồi từ tài liệu đính kèm (xlsx_text).
+PHIÊN BẢN DỮ LIỆU: v7.3
+
+----- NỘI DUNG -----
+
+DANH SÁCH BAN GIÁM HIỆU TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG NHIỆM KỲ 2017-2025
+STT | HỌ VÀ TÊN | HỌC HÀM/HỌC VỊ | CHỨC VỤ | GIAI ĐOẠN
+1.0 | Cao Việt Hiếu | GS. TS | Hiệu trưởng
+2.0 | Ông Cao Việt Hưng | Phó Hiệu trưởng | đến tháng 11-2021
+3.0 | Cao Thị Việt Hương | TS | Phó Hiệu trưởng | đến tháng 11-2021
+4.0 | Lê Văn Cường | PGS.TS.NGƯT | Phó Hiệu trưởng
+5.0 | Đỗ Đoan Trang | TS | Phó Hiệu trưởng | 11-2021 đến nay
