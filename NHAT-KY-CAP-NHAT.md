@@ -5,6 +5,12 @@ Quy tắc ghi nhật ký, theo yêu cầu ngày 05/11/2026: mỗi chi tiết ch�
 như lịch sử commit trên GitHub. Bản cũ không xóa, chỉ thêm mục mới lên đầu.
 Sau này khi kết nối GitHub, mỗi mục ở đây tương ứng với một commit.
 
+## 2026-11-06 14:32 — GitHub: gỡ gói cũ v7.3.1 khỏi repo, chỉ giữ bản mới nhất
+- File đổi: xóa toàn bộ thư mục `goi-chia-chunk-v7.3.1/` (15 file, 200.590 byte) khỏi repo; thêm `ingest-manifest-v7.3.1.txt` vào gói v7.3.2 (commit `d02e77eb`) vì script v7.3.2 cần file này để chạy; cập nhật `README.md` bỏ các chỗ nhắc gói cũ.
+- Nội dung: theo yêu cầu của người dùng, trên git chỉ giữ các file chính mới nhất để clone về chạy và làm việc; file cũ chỉ giữ trong backup Drive (`goi-chia-chunk-v7.3.1.zip` 9.736.224 byte), không mất.
+- Lưu ý: xóa bằng commit mới chỉ gỡ file khỏi bản hiện tại, lịch sử commit cũ vẫn còn các file này nên clone đầy đủ vẫn tải chúng về (gói cũ chỉ ~200 KB, không đáng kể so với 17,7 MB data). Muốn lịch sử sạch hẳn thì phải xóa repo và tạo lại rồi đẩy bản sạch; muốn clone nhẹ thì dùng `git clone --depth 1` để chỉ lấy bản mới nhất, không lấy lịch sử.
+- Kiểm chứng: cây file trên nhánh `main` còn 0 file v7.3.1, gói v7.3.2 đủ 17 file (kể cả manifest), data 1.564 file nguyên vẹn. Commit xóa: `51f594f9` đến `a0dcfa73` (15 commit xóa từng file).
+
 ## 2026-11-06 13:54 — Cập nhật v7.3.2: cắt chunk theo ranh giới câu (13.953 chunk)
 - File đổi: gói mới `goi-chia-chunk-v7.3.2.zip` (14.190.864 byte) và `chunks-v7.3.2.jsonl` (13.953 dòng, 23.312.482 byte) đã đẩy lên Drive (thư mục `03-goi-trinh-bay/` và `02-chunks/`); file text mới của gói (script, thống kê, báo cáo cắt theo câu, bản Word dạng Markdown) đã đẩy lên GitHub, commit `20748a1b41db294a67ab0f4e30c235725836bc2d`.
 - Nội dung: dữ liệu gốc vẫn là v7.3.1, không đổi (1.560 file, 1.313 file ingest-ready). Cách cắt đổi từ cắt cứng sang cắt theo câu: tổng chunk 13.815 → 13.953 (+138), điểm cắt giữa một từ 1.651 → 0, chunk trên 1.200 ký tự 587 → 458; phần cắt bảng giữ nguyên. Mốc BM25 chạy lại cho hạng giống hệt bản cũ trên 19 câu. Gói v7.3.1 và file chunk v7.3.1 giữ nguyên, không ghi đè.

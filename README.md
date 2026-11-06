@@ -15,7 +15,7 @@ ngôn ngữ tiền huấn luyện kết hợp kỹ thuật RAG**.
   cắt giữa một từ, chunk trên 1.200 ký tự còn 458 thay vì 587.
 - Gói chia chunk: `goi-chia-chunk-v7.3.2/` — script gộp `chia-chunk-v7.3.2.py`
   tái tạo lại toàn bộ file chunk từ dữ liệu gốc, chỉ cần chạy một lệnh. Gói
-  v7.3.1 vẫn giữ nguyên để đối chiếu.
+  cũ v7.3.1 đã gỡ khỏi repo, chỉ giữ trong backup Drive.
 - Model embedding tạm chốt để làm tiếp: **bge-m3** (0% cắt cụt, thắng tiêu chí
   phân thắng bại H03). Quyết định cuối về model, kho vector (Chroma hay FAISS)
   và frontend vẫn chờ giảng viên hướng dẫn xác nhận.
@@ -23,14 +23,11 @@ ngôn ngữ tiền huấn luyện kết hợp kỹ thuật RAG**.
 ## Dữ liệu text đầy đủ (để đánh giá)
 
 - `data-text-v7.3.1/` — toàn bộ 1.560 file text của phiên bản v7.3.1 (1.313 file ingest-ready), giữ nguyên nội dung, kể cả tên giảng viên/cán bộ xuất hiện trong dữ liệu công khai của trường.
-- `goi-chia-chunk-v7.3.1/01-Ban-trinh-bay-chia-chunk-v7.3.1.md` — bản text của file Word trình bày phương pháp chia chunk v7.3.1 (bản Word gốc giữ trong backup Drive; thông tin sinh viên và giảng viên hướng dẫn trong bản này đã ẩn theo quy tắc repo công khai).
 - `goi-chia-chunk-v7.3.2/01-Ban-trinh-bay-chia-chunk-v7.3.2.md` — bản text của file Word trình bày phương pháp chia chunk v7.3.2 (cắt theo câu), cùng script, thống kê và báo cáo cắt theo câu.
 - File chunk đầy đủ (`chunks-v7.3.2.jsonl`, 13.953 dòng, 23 MB) và file zip/Word gốc không đẩy lên đây vì vượt giới hạn của đường đẩy; bản đầy đủ giữ trong backup Drive.
 
 ## Cấu trúc repo
 
-- `goi-chia-chunk-v7.3.1/` — script chia chunk, danh sách nạp, thống kê và
-  các script gốc để đối chiếu (đã chỉnh cho chạy độc lập trong gói).
 - `goi-chia-chunk-v7.3.2/` — gói chia chunk mới nhất (cắt theo câu), gồm script,
   thống kê, báo cáo cắt theo câu và bản xem trước 3.067 chunk mẫu.
 - `NHAT-KY-CAP-NHAT.md` — nhật ký cập nhật kiểu GitHub: mỗi mục ghi thời gian,
