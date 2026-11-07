@@ -1,0 +1,299 @@
+[
+ {
+  "question": "Cho tôi danh sách sinh viên đạt kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 hệ đại học chính quy gồm những ai?",
+  "year_filter": null,
+  "chunks": [
+   {
+    "n": 1,
+    "file": "daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 (Đại học chính quy)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-436.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-436.html"
+   },
+   {
+    "n": 2,
+    "file": "tuyensinh/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 (Đại học chính quy)",
+    "year": "2026",
+    "source_url": "https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-723.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-723.html"
+   },
+   {
+    "n": 3,
+    "file": "daotao/tot-nghiep/2026/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo Kết quả sơ bộ sau phản hồi xét tốt nghiệp đợt 1 năm 2026 (Đại học chính quy)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/tot-nghiep/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-440.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-440.html"
+   },
+   {
+    "n": 4,
+    "file": "daotao/tot-nghiep/2026/ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Kết quả sơ bộ xét tốt nghiệp đợt 2 năm 2026 (Đại học chính quy)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy-449.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy-449.html"
+   },
+   {
+    "n": 5,
+    "file": "tuyensinh/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo Kết quả sơ bộ sau phản hồi xét tốt nghiệp đợt 1 năm 2026 (Đại học chính quy)",
+    "year": "2026",
+    "source_url": "https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-725.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-725.html"
+   },
+   {
+    "n": 6,
+    "file": "tuyensinh/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 (Sau đại học)",
+    "year": "2026",
+    "source_url": "https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc-722.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc-722.html"
+   },
+   {
+    "n": 7,
+    "file": "daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 (Sau đại học)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc-435.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc-435.html"
+   },
+   {
+    "n": 8,
+    "file": "daotao/tot-nghiep/2026/ket-qua-so-bo-xet-tot-nghiep-dot-3-nam-2026-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Kết quả sơ bộ xét tốt nghiệp đợt 3 năm 2026 (Đại học chính quy)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-3-nam-2026-dai-hoc-chinh-quy-474.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-3-nam-2026-dai-hoc-chinh-quy-474.html"
+   },
+   {
+    "n": 9,
+    "file": "daotao/trang-chu/2026/ket-qua-so-bo-xet-tot-nghiep-dot-4-nam-2026-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Kết quả sơ bộ xét tốt nghiệp đợt 4 năm 2026 (Đại học chính quy)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-4-nam-2026-dai-hoc-chinh-quy-502.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-4-nam-2026-dai-hoc-chinh-quy-502.html"
+   },
+   {
+    "n": 10,
+    "file": "daotao/tot-nghiep/2026/ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Kết quả sơ bộ sau phản hồi xét tốt nghiệp đợt 2 năm 2026 (Đại học chính quy)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy-452.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy-452.html"
+   }
+  ],
+  "prompt": "Câu hỏi: Cho tôi danh sách sinh viên đạt kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 hệ đại học chính quy gồm những ai?\n\nTài liệu tham khảo:\n\n[Đoạn 1] (Nguồn: daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-436.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-436.html\n\n[Đoạn 2] (Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt#chunk 0, năm 2026, link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-723.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-723.html\n\n[Đoạn 3] (Nguồn: daotao/tot-nghiep/2026/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/tot-nghiep/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-440.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-440.html\n\n[Đoạn 4] (Nguồn: daotao/tot-nghiep/2026/ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy-449.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy-449.html\n\n[Đoạn 5] (Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt#chunk 0, năm 2026, link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-725.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-725.html\n\n[Đoạn 6] (Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc.txt#chunk 0, năm 2026, link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc-722.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc-722.html\n\n[Đoạn 7] (Nguồn: daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc-435.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-sau-dai-hoc-435.html\n\n[Đoạn 8] (Nguồn: daotao/tot-nghiep/2026/ket-qua-so-bo-xet-tot-nghiep-dot-3-nam-2026-dai-hoc-chinh-quy.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-3-nam-2026-dai-hoc-chinh-quy-474.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-3-nam-2026-dai-hoc-chinh-quy-474.html\n\n[Đoạn 9] (Nguồn: daotao/trang-chu/2026/ket-qua-so-bo-xet-tot-nghiep-dot-4-nam-2026-dai-hoc-chinh-quy.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-4-nam-2026-dai-hoc-chinh-quy-502.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-xet-tot-nghiep-dot-4-nam-2026-dai-hoc-chinh-quy-502.html\n\n[Đoạn 10] (Nguồn: daotao/tot-nghiep/2026/ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy-452.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-so-bo-sau-phan-hoi-xet-tot-nghiep-dot-2-nam-2026-dai-hoc-chinh-quy-452.html\n\nTrả lời câu hỏi trên chỉ dựa vào các đoạn tài liệu trên. Cuối câu trả lời, ghi nguồn theo dạng: [Nguồn: tên file].",
+  "answer": "Bạn vui lòng xem danh sách kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 hệ đại học chính quy trực tiếp tại các đường link sau:\n\n- https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-436.html\n- https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-723.html\n\n[Nguồn: daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt, tuyensinh/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt]",
+  "id": "V5-P01"
+ },
+ {
+  "question": "Cho tôi danh sách sinh viên duy trì học bổng học kỳ 1 năm học 2025-2026 tại cơ sở chính.",
+  "year_filter": null,
+  "chunks": [
+   {
+    "n": 1,
+    "file": "daotao/trang-chu/2025/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo Danh sách sinh viên duy trì học bổng học kỳ 1, năm học 2025-2026 tại Trường Đại học Bình Dương (Cơ sở chính)",
+    "year": "2025",
+    "source_url": "https://daotao.bdu.edu.vn/sinh-vien/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh-368.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/sinh-vien/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh-368.html"
+   },
+   {
+    "n": 2,
+    "file": "daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 2,
+    "title": "Danh sách sinh viên Khóa 27, Khóa 28 được duy trì học bổng Học kỳ 1 năm học 2026-2027 tại Trường Đại học Bình Dương (cơ sở chính)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html",
+    "text": "Hiệu trưởng Trường Đại học Bình Dương về việc ban hành chính sách học bổng đối với sinh viên hệ chính quy khóa 28 trúng tuyển năm 2025; Căn cứ Biên bản họp số 03/BB-TĐKTKLSV ngày 05 tháng 9 năm 2026 của Hội đồng Thi đua khen thưởng kỷ luật sinh viên về việc tổ chức xét duy trì học bổng học kỳ I năm học 2026–2027; Theo Tờ trình số 349/TTr-P.ĐT ngày 08 tháng 9 năm 2026 của Phòng Đào tạo về việc phê duyệt thực hiện xét duy trì học bổng học kỳ 1 năm học 2026-2027 tại cơ sở chính. QUYẾT ĐỊNH:"
+   },
+   {
+    "n": 3,
+    "file": "daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 4,
+    "title": "Danh sách sinh viên Khóa 27, Khóa 28 được duy trì học bổng Học kỳ 1 năm học 2026-2027 tại Trường Đại học Bình Dương (cơ sở chính)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html",
+    "text": "2 Điều 1. Duy trì học bổng học kỳ I năm học 2026-2027 Duy trì học bổng học kỳ I năm học 2026–2027 đối với 31 (ba mốt) sinh viên đại học chính quy, gồm 05 (năm) sinh viên khóa 27 và 26 (hai sáu) sinh viên khóa 28 đang học tại cơ sở chính Trường Đại học Bình Dương, theo danh sách tại Phụ lục kèm theo Quyết định này. 1. Các loại học bổng được duy trì: a) Đối với sinh viên khóa 27: - Học bổng “Toàn phần”: 04 (bốn) sinh viên. - Học bổng “Gia đình BDU”: 01 (một) sinh viên. b) Đối với sinh viên khóa 28: - Học bổng “Toàn phần”: 22 (hai mươi hai) sinh viên. - Học bổng “Gia đình BDU”: 02 (hai) sinh viên. - Học bổng “Chắp cánh ước mơ”: 02 (hai) sinh viên. 2. Giá trị học bổng được duy trì: - Học bổng “Toàn phần”: được duy trì theo mức học bổng của từng sinh viên quy định tại Phụ lục kèm theo Quyết định này. - Học bổng “Gia đình BDU”: 5.000.000 đồng/sinh viên. - Học bổng “Chắp cánh ước mơ”: được duy trì theo mức học bổng của từng sinh viên quy định tại Phụ lục kèm theo Quyết định này. Điều 2. Quy định về chi trả học bổng và điều kiện ràng buộc: 1. Học bổng được chuyển vào tài khoản học phí của sinh viên để khấu trừ học phí trong học kỳ/năm học tương ứng, không quy đổi ra tiền mặt. 2."
+   },
+   {
+    "n": 4,
+    "file": "daotao/trang-chu/2026/danh-sach-sinh-vien-cham-dut-duy-tri-hoc-bong-khoa-28-ke-tu-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 2,
+    "title": "Danh sách sinh viên chấm dứt duy trì học bổng Khóa 28 kể từ Học kỳ 1 năm học 2026-2027 tại Trường Đại học Bình Dương (cơ sở chính)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-cham-dut-duy-tri-hoc-bong-khoa-28-ke-tu-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-497.html",
+    "text": "Hội đồng Thi đua khen thưởng kỷ luật sinh viên về việc tổ chức xét duy trì học bổng học kỳ I năm học 2026–2027; Theo Tờ trình số 349/TTr-P.ĐT ngày 08 tháng 9 năm 2026 của Phòng Đào tạo về việc phê duyệt thực hiện xét duy trì học bổng học kỳ 1 năm học 2026-2027 tại cơ sở chính. QUYẾT ĐỊNH: Điều 1. Chấm dứt việc chi học bổng từ học kỳ I năm học 2026–2027 đối với 02 (hai) sinh viên đại học chính quy Khóa 28 tại Cơ sở chính Trường Đại học Bình Dương (theo danh sách kèm theo)."
+   },
+   {
+    "n": 5,
+    "file": "daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 3,
+    "title": "Danh sách sinh viên Khóa 27, Khóa 28 được duy trì học bổng Học kỳ 1 năm học 2026-2027 tại Trường Đại học Bình Dương (cơ sở chính)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html",
+    "text": "G:\\My Drive\\BDU\\NGHIỆP VỤ CTSV\\HỌC BỔNG\\XET DUY TRI HK1 26 27\\Soan thao QD\\2026.9.10. QD duy tri HB HK1 2627 K27 28.doc"
+   },
+   {
+    "n": 6,
+    "file": "daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 0,
+    "title": "Danh sách sinh viên Khóa 27, Khóa 28 được duy trì học bổng Học kỳ 1 năm học 2026-2027 tại Trường Đại học Bình Dương (cơ sở chính)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html",
+    "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc lập - Tự do - Hạnh phúc\nSố: 3591 /QĐ-ĐHBD Thành phố Hồ Chí Minh, ngày 11 tháng 9 năm 2026\nQUYẾT ĐỊNH\nVề việc duy trì học bổng học kỳ I năm học 2026–2027\nđối với sinh viên đại học chính quy khóa 27 và khóa 28\ntại Trường Đại học Bình Dương (cơ sở chính)\nHIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG"
+   },
+   {
+    "n": 7,
+    "file": "daotao/sinh-vien/2025/danh-sach-bo-sung-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 0,
+    "title": "Danh sách (bổ sung) sinh viên duy trì học bổng học kỳ 3, năm học 2024-2025 tại Trường Đại học Bình Dương (Cơ sở chính)",
+    "year": "2025",
+    "source_url": "https://daotao.bdu.edu.vn/sinh-vien/danh-sach-bo-sung-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-361.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-bo-sung-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-361.html"
+   },
+   {
+    "n": 8,
+    "file": "daotao/sinh-vien/2025/danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 0,
+    "title": "Danh sách sinh viên duy trì học bổng học kỳ 3 năm học 2024 -2025  tại Trường Đại học Bình Dương (cơ sở chính)",
+    "year": "2025",
+    "source_url": "https://daotao.bdu.edu.vn/sinh-vien/danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-332.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-332.html"
+   },
+   {
+    "n": 9,
+    "file": "daotao/trang-chu/2025/danh-sach-sinh-vien-bo-sung-cham-dut-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 0,
+    "title": "Danh sách sinh viên (bổ sung) chấm dứt duy trì học bổng học kỳ 3, năm học 2024-2025 tại Trường Đại học Bình Dương (Cơ sở chính)",
+    "year": "2025",
+    "source_url": "https://daotao.bdu.edu.vn/sinh-vien/danh-sach-sinh-vien-bo-sung-cham-dut-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-362.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-sinh-vien-bo-sung-cham-dut-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-362.html"
+   },
+   {
+    "n": 10,
+    "file": "daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+    "chunk_idx": 6,
+    "title": "Danh sách sinh viên Khóa 27, Khóa 28 được duy trì học bổng Học kỳ 1 năm học 2026-2027 tại Trường Đại học Bình Dương (cơ sở chính)",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html",
+    "text": "3\nĐiều 3. Hiệu lực thi hành\n1. Quyết định này có hiệu lực kể từ ngày ký.\n2. Phòng Tổng hợp, Phòng Tài chính - Kế toán, Phòng Đào tạo, Hội đồng thi\nđua khen thưởng kỷ luật sinh viên, Phòng Tuyển sinh, Đoàn Thanh niên - Hội\nSinh viên, sinh viên có tên tại Phụ lục kèm theo và các đơn vị, cá nhân có liên\nquan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận: HIỆU TRƯỞNG\n- Như Điều 3;\n- Ban Giám hiệu (b/c);\n- Lưu: PTH, HNHung.\n(Đã ký)\nCao Việt Hiếu\n4\nBỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc lập – Tự do – Hạnh phúc\n[Ghi chú: văn bản gốc có kèm danh sách sinh viên/học viên (dữ liệu cá nhân) — phần danh sách đã được loại khỏi dữ liệu theo quy định, xem danh sách tại trang nguồn.]"
+   }
+  ],
+  "prompt": "Câu hỏi: Cho tôi danh sách sinh viên duy trì học bổng học kỳ 1 năm học 2025-2026 tại cơ sở chính.\n\nTài liệu tham khảo:\n\n[Đoạn 1] (Nguồn: daotao/trang-chu/2025/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 0, năm 2025, link: https://daotao.bdu.edu.vn/sinh-vien/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh-368.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/sinh-vien/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh-368.html\n\n[Đoạn 2] (Nguồn: daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 2, năm 2026, link: https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html)\nHiệu trưởng Trường Đại học Bình Dương về việc ban hành chính sách học bổng đối với sinh viên hệ chính quy khóa 28 trúng tuyển năm 2025; Căn cứ Biên bản họp số 03/BB-TĐKTKLSV ngày 05 tháng 9 năm 2026 của Hội đồng Thi đua khen thưởng kỷ luật sinh viên về việc tổ chức xét duy trì học bổng học kỳ I năm học 2026–2027; Theo Tờ trình số 349/TTr-P.ĐT ngày 08 tháng 9 năm 2026 của Phòng Đào tạo về việc phê duyệt thực hiện xét duy trì học bổng học kỳ 1 năm học 2026-2027 tại cơ sở chính. QUYẾT ĐỊNH:\n\n[Đoạn 3] (Nguồn: daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 4, năm 2026, link: https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html)\n2 Điều 1. Duy trì học bổng học kỳ I năm học 2026-2027 Duy trì học bổng học kỳ I năm học 2026–2027 đối với 31 (ba mốt) sinh viên đại học chính quy, gồm 05 (năm) sinh viên khóa 27 và 26 (hai sáu) sinh viên khóa 28 đang học tại cơ sở chính Trường Đại học Bình Dương, theo danh sách tại Phụ lục kèm theo Quyết định này. 1. Các loại học bổng được duy trì: a) Đối với sinh viên khóa 27: - Học bổng “Toàn phần”: 04 (bốn) sinh viên. - Học bổng “Gia đình BDU”: 01 (một) sinh viên. b) Đối với sinh viên khóa 28: - Học bổng “Toàn phần”: 22 (hai mươi hai) sinh viên. - Học bổng “Gia đình BDU”: 02 (hai) sinh viên. - Học bổng “Chắp cánh ước mơ”: 02 (hai) sinh viên. 2. Giá trị học bổng được duy trì: - Học bổng “Toàn phần”: được duy trì theo mức học bổng của từng sinh viên quy định tại Phụ lục kèm theo Quyết định này. - Học bổng “Gia đình BDU”: 5.000.000 đồng/sinh viên. - Học bổng “Chắp cánh ước mơ”: được duy trì theo mức học bổng của từng sinh viên quy định tại Phụ lục kèm theo Quyết định này. Điều 2. Quy định về chi trả học bổng và điều kiện ràng buộc: 1. Học bổng được chuyển vào tài khoản học phí của sinh viên để khấu trừ học phí trong học kỳ/năm học tương ứng, không quy đổi ra tiền mặt. 2.\n\n[Đoạn 4] (Nguồn: daotao/trang-chu/2026/danh-sach-sinh-vien-cham-dut-duy-tri-hoc-bong-khoa-28-ke-tu-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 2, năm 2026, link: https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-cham-dut-duy-tri-hoc-bong-khoa-28-ke-tu-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-497.html)\nHội đồng Thi đua khen thưởng kỷ luật sinh viên về việc tổ chức xét duy trì học bổng học kỳ I năm học 2026–2027; Theo Tờ trình số 349/TTr-P.ĐT ngày 08 tháng 9 năm 2026 của Phòng Đào tạo về việc phê duyệt thực hiện xét duy trì học bổng học kỳ 1 năm học 2026-2027 tại cơ sở chính. QUYẾT ĐỊNH: Điều 1. Chấm dứt việc chi học bổng từ học kỳ I năm học 2026–2027 đối với 02 (hai) sinh viên đại học chính quy Khóa 28 tại Cơ sở chính Trường Đại học Bình Dương (theo danh sách kèm theo).\n\n[Đoạn 5] (Nguồn: daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 3, năm 2026, link: https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html)\nG:\\My Drive\\BDU\\NGHIỆP VỤ CTSV\\HỌC BỔNG\\XET DUY TRI HK1 26 27\\Soan thao QD\\2026.9.10. QD duy tri HB HK1 2627 K27 28.doc\n\n[Đoạn 6] (Nguồn: daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html)\nBỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc lập - Tự do - Hạnh phúc\nSố: 3591 /QĐ-ĐHBD Thành phố Hồ Chí Minh, ngày 11 tháng 9 năm 2026\nQUYẾT ĐỊNH\nVề việc duy trì học bổng học kỳ I năm học 2026–2027\nđối với sinh viên đại học chính quy khóa 27 và khóa 28\ntại Trường Đại học Bình Dương (cơ sở chính)\nHIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG\n\n[Đoạn 7] (Nguồn: daotao/sinh-vien/2025/danh-sach-bo-sung-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 0, năm 2025, link: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-bo-sung-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-361.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-bo-sung-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-361.html\n\n[Đoạn 8] (Nguồn: daotao/sinh-vien/2025/danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 0, năm 2025, link: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-332.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-332.html\n\n[Đoạn 9] (Nguồn: daotao/trang-chu/2025/danh-sach-sinh-vien-bo-sung-cham-dut-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 0, năm 2025, link: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-sinh-vien-bo-sung-cham-dut-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-362.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://daotao.bdu.edu.vn/sinh-vien/danh-sach-sinh-vien-bo-sung-cham-dut-duy-tri-hoc-bong-hoc-ky-3-nam-hoc-2024-2025-tai-truong-dai-hoc-binh-duong-co-so-chinh-362.html\n\n[Đoạn 10] (Nguồn: daotao/trang-chu/2026/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt#chunk 6, năm 2026, link: https://daotao.bdu.edu.vn/thong-bao/danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh-496.html)\n3\nĐiều 3. Hiệu lực thi hành\n1. Quyết định này có hiệu lực kể từ ngày ký.\n2. Phòng Tổng hợp, Phòng Tài chính - Kế toán, Phòng Đào tạo, Hội đồng thi\nđua khen thưởng kỷ luật sinh viên, Phòng Tuyển sinh, Đoàn Thanh niên - Hội\nSinh viên, sinh viên có tên tại Phụ lục kèm theo và các đơn vị, cá nhân có liên\nquan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận: HIỆU TRƯỞNG\n- Như Điều 3;\n- Ban Giám hiệu (b/c);\n- Lưu: PTH, HNHung.\n(Đã ký)\nCao Việt Hiếu\n4\nBỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC BÌNH DƯƠNG Độc lập – Tự do – Hạnh phúc\n[Ghi chú: văn bản gốc có kèm danh sách sinh viên/học viên (dữ liệu cá nhân) — phần danh sách đã được loại khỏi dữ liệu theo quy định, xem danh sách tại trang nguồn.]\n\nTrả lời câu hỏi trên chỉ dựa vào các đoạn tài liệu trên. Cuối câu trả lời, ghi nguồn theo dạng: [Nguồn: tên file].",
+  "answer": "Danh sách sinh viên duy trì học bổng học kỳ 1 năm học 2025-2026 tại cơ sở chính có thể xem trực tiếp tại đường link: https://daotao.bdu.edu.vn/sinh-vien/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh-368.html\n\n[Nguồn: daotao/trang-chu/2025/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt]",
+  "id": "V5-P02"
+ },
+ {
+  "question": "Cho tôi danh sách sinh viên đủ điều kiện công nhận tốt nghiệp đợt 2 năm 2025.",
+  "year_filter": null,
+  "chunks": [
+   {
+    "n": 1,
+    "file": "bdu/thong-bao/2020/danh-sach-hoc-vien-sinh-vien-du-dieu-kien-cong-nhan-va-cap-bang-tot-nghiep-dot-2-nam-2020.txt",
+    "chunk_idx": 0,
+    "title": "Danh sách học viên, sinh viên đủ điều kiện công nhận và cấp bằng tốt nghiệp đợt 2 năm 2020",
+    "year": "2020",
+    "source_url": "https://bdu.edu.vn/thong-bao/danh-sach-hoc-vien-sinh-vien-du-dieu-kien-cong-nhan-va-cap-bang-tot-nghiep-dot-2-nam-2020-1429.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://bdu.edu.vn/thong-bao/danh-sach-hoc-vien-sinh-vien-du-dieu-kien-cong-nhan-va-cap-bang-tot-nghiep-dot-2-nam-2020-1429.html"
+   },
+   {
+    "n": 2,
+    "file": "tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo Thời gian tổ chức nhận hồ sơ xét cấp bằng tốt nghiệp đợt 2 năm 2025",
+    "year": "2025",
+    "source_url": "https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025-697.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025-697.html"
+   },
+   {
+    "n": 3,
+    "file": "tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-4-nam-2025.txt",
+    "chunk_idx": 1,
+    "title": "Thông báo  thời gian tổ chức nhận hồ sơ xét tốt nghiệp đợt 4 năm 2025",
+    "year": "2025",
+    "source_url": "https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-4-nam-2025-714.html",
+    "text": "Mẫu in: Q5401D0A\nTrường Đại Học Bình Dương\nPhòng Quản lý đào tạo và Công tác sinh viên\n-oOo-\nDanh sách sinh viên không đạt\nHọc kỳ 2 - Năm học 2025 - 2026\nĐiểm Trung Bình Tích Lũy 5.5\nSố Tín Chỉ Tích Lũy Chung 47\nLớp 21ME05\nHK\nTC ĐHP ĐHP ĐHP\nSTT Mã SV Họ và tên SV ĐTBTN Mã MH Tên môn học Số TC K.Hoạ BBTC Ghi chú\ntổng L1 L2 L3\nch\n1 21001021 Lê Nguyễn Cẩm Tú 46 7.75 02 Nhóm môn tự chọn 1 X\nTrang 1 / 2\nDanh sách sinh viên không đạt\nHọc kỳ 2 - Năm học 2025 - 2026"
+   },
+   {
+    "n": 4,
+    "file": "tuyensinh/thong-tin-xet-tot-nghiep/2025/ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2025.txt",
+    "chunk_idx": 5,
+    "title": "Kết quả chính thức xét tốt nghiệp đợt 2 năm 2025",
+    "year": "2025",
+    "source_url": "https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2025-704.html",
+    "text": "[BẢNG — bảng 2 trong văn bản]\n| Stt | Thời gian | Công việc | Nội dung chi tiết |\n| --- | --- | --- | --- |\n| 4 | Dự kiến ngày 05/11/2025 | Học viên, sinh viên cập nhật kết quả chính thức | Phòng QLĐT&CTSV căn cứ danh sách Hội đồng xét tốt nghiệp thông qua và công khai kết quả xét của Hội đồng tại website daotao.bdu.edu.vn. |\n[DẠNG TRA CỨU]\n- 4: Thời gian = Dự kiến ngày 05/11/2025; Công việc = Học viên, sinh viên cập nhật kết quả chính thức; Nội dung chi tiết = Phòng QLĐT&CTSV căn cứ danh sách Hội đồng xét tốt nghiệp thông qua và công khai kết quả xét của Hội đồng tại website daotao.bdu.edu.vn.\n[/BẢNG]"
+   },
+   {
+    "n": 5,
+    "file": "daotao/danh-sach-tot-nghiep/2025/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-thac-si-dot-2-2025.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo nhận bằng tốt nghiệp trình độ Đại học, Thạc sĩ đợt 2/2025",
+    "year": "2025",
+    "source_url": "https://daotao.bdu.edu.vn/danh-sach-tot-nghiep/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-thac-si-dot-2-2025-374.html",
+    "text": "TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG PHÒNG QLĐT&CTSV | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc Thành phố Hồ Chí Minh, ngày 15 tháng 9 năm 2025\nTHÔNG BÁO\nVề việc nhận bằng tốt nghiệp trình độ Đại học, Thạc sĩ đợt 2/2025\nCăn cứ vào kết quả xét tốt nghiệp và Quyết định cấp bằng đợt 2/2025 cho học viên các hệ: Văn bằng hai, Đại học và Thạc sĩ (Hình thức đào tạo: Chính quy, Vừa làm vừa học)\nNay, Phòng Quản lý đào tạo và Công tác sinh viên (QLĐT&CTSV) thông báo các học viên có tên trong danh sách đính kèm liên hệ Phòng QLĐT&CTSV để làm thủ tục nhận bằng tốt nghiệp như sau:\nBắt đầu từ ngày: 16/09/2025 (nhận bằng theo lịch thứ 3, thứ 5 hàng tuần)\nHọc viên liên hệ nhận bằng tốt nghiệp phải xuất trình Căn cước công dân/Căn cước và biên lai thu lệ phí nhận bằng.\nLệ phí nhận bằng học viên nộp trực tiếp tại Phòng Tuyển sinh (Lệ phí nhận bằng áp dụng theo quy định chung của Trường tại thời điểm nhận bằng).\nThời gian giải quyết nhận bằng theo lịch thứ 3, hoặc thứ 5 hàng tuần tại Phòng QLĐT&CTSV:\nSáng: từ 7h30 đến 10h30. Chiều: từ 13h30 đến 16h30.\nLưu ý:"
+   },
+   {
+    "n": 6,
+    "file": "daotao/tot-nghiep/2026/ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2026.txt",
+    "chunk_idx": 0,
+    "title": "Kết quả chính thức xét tốt nghiệp đợt 2 năm 2026",
+    "year": "2026",
+    "source_url": "https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2026-464.html",
+    "text": "Kết quả chính thức xét tốt nghiệp đợt 2 năm 2026\nDANH SÁCH ĐẠI HỌC CHÍNH QUY (https://drive.google.com/file/d/1PAdD6VBF4IMCTWGKfo2mclepsN5rN7hn/view)\nDANH SÁCH SAU ĐẠI HỌC (https://drive.google.com/file/d/1Pfe5mAI-hvv1YvcWae8lppAIogtWdvJL/view)\nDANH SÁCH HỆ ĐTTX (https://drive.google.com/file/d/1tS2VbIBpxGIM9mMZBX-IDaSHpENU8AJT/view)\n🔰 Lưu ý:\n1. Dự kiến sinh viên, học viên nhận bằng vào tháng 7/2026 (Phòng Đào tạo sẽ có thông báo cụ thể đăng tại website daotao.bdu.edu.vn (https://daotao.bdu.edu.vn) về thời gian, địa điểm và hướng dẫn chi tiết các thủ tục nhận bằng).\n2. Trường hợp sinh viên, học viên cần nhận Giấy chứng nhận tốt nghiệp tạm thời, vui lòng thực hiện đăng ký tại đường dẫn sau (Học viên, sinh viên sẽ được cấp và nhận phản hồi qua email sinh viên, học viên từ ngày 18/6/2026; chỉ cấp trong thời gian chờ thông báo nhận bằng chính thức).\n🔗 Đường dẫn đăng ký:\nĐĂNG KÝ CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI\nhttps://tuyensinh.bdu.edu.vn/index.php/ho-tro-hanh-chinh/dang-ky-chung-nhan-tot-nghiep-tam-thoi-589.html (https://tuyensinh.bdu.edu.vn/index.php/ho-tro-hanh-chinh/dang-ky-chung-nhan-tot-nghiep-tam-thoi-589.html)"
+   },
+   {
+    "n": 7,
+    "file": "bdu/tuyen-dung/2021/cong-ty-cp-san-xuat-thiet-bi-dien-cong-nghiep-cat-van-loi-tuyen-dung-sinh-vien-thuc-tap.txt",
+    "chunk_idx": 5,
+    "title": "Công ty CP sản xuất Thiết bị điện công nghiệp Cát Vạn Lợi tuyển dụng sinh viên thực tập",
+    "year": "2021",
+    "source_url": "https://bdu.edu.vn/tuyen-dung/cong-ty-cp-san-xuat-thiet-bi-dien-cong-nghiep-cat-van-loi-tuyen-dung-sinh-vien-thuc-tap-1088.html",
+    "text": "[BẢNG — bảng 2 trong văn bản]\n| I | THỰC TẬP SINH MARKTING-CNTT | THỰC TẬP SINH MARKTING-CNTT | Số lượng: 10-15 SV | VPGD: 61 Đường số 7, KDC Cityland, Phường 7, Quận Gò Vấp |\n| --- | --- | --- | --- | --- |\n| QUYỀN LỢI –TRÁCH NHIỆM CỦA NHÀ TRƯỜNG & DOANH NGHIỆP | QUYỀN LỢI –TRÁCH NHIỆM CỦA NHÀ TRƯỜNG & DOANH NGHIỆP | 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất. | 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất. | 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất. |\n[DẠNG TRA CỨU]\n- QUYỀN LỢI –TRÁCH NHIỆM CỦA NHÀ TRƯỜNG & DOANH NGHIỆP: THỰC TẬP SINH MARKTING-CNTT = QUYỀN LỢI –TRÁCH NHIỆM CỦA NHÀ TRƯỜNG & DOANH NGHIỆP; THỰC TẬP SINH MARKTING-CNTT = 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất.; Số lượng: 10-15 SV = 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất.; VPGD: 61 Đường số 7, KDC Cityland, Phường 7, Quận Gò Vấp = 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất.\n[/BẢNG]"
+   },
+   {
+    "n": 8,
+    "file": "tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo Kết quả sơ bộ xét tốt nghiệp đợt 2 năm 2025 (Đại học chính quy)",
+    "year": "2025",
+    "source_url": "https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy-698.html",
+    "text": "Bài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy-698.html"
+   },
+   {
+    "n": 9,
+    "file": "tuyensinh/thong-tin-xet-tot-nghiep/2023/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-2-nam-2023.txt",
+    "chunk_idx": 4,
+    "title": "Thông báo thời gian tổ chức nhận hồ sơ xét tốt nghiệp đợt 2 năm 2023",
+    "year": "2023",
+    "source_url": "https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-2-nam-2023-638.html",
+    "text": "[BẢNG — bảng 2 trong văn bản]\n| Stt | Nội dung | Thời gian thực hiện | Ghi chú |\n| --- | --- | --- | --- |\n| 3 | Học viên/sinh viên cập nhật kết quả chính thức | Dự kiến trong tháng 04/2023 | - Học viên/sinh viên cập nhật kết quả chính thức tại website: daotao.bdu.edu.vn (Mục Tốt nghiệp → Danh sách tốt nghiệp). - Trong thời gian chờ nhận bằng tốt nghiệp chính thức, học viên/sinh viên có thể nhận Giấy chứng nhận tốt nghiệp tạm thời (khi đã có danh sách cấp bằng chính thức) bằng cách đăng nhập vào website: daotao.bdu.edu.vn (Mục Tốt nghiệp → Đăng ký Tốt nghiệp tạm thời). Học viên/Sinh viên thanh toán phí khi nhận thư. |\n[DẠNG TRA CỨU]\n- 3: Nội dung = Học viên/sinh viên cập nhật kết quả chính thức; Thời gian thực hiện = Dự kiến trong tháng 04/2023; Ghi chú = - Học viên/sinh viên cập nhật kết quả chính thức tại website: daotao.bdu.edu.vn (Mục Tốt nghiệp → Danh sách tốt nghiệp). - Trong thời gian chờ nhận bằng tốt nghiệp chính thức, học viên/sinh viên có thể nhận Giấy chứng nhận tốt nghiệp tạm thời (khi đã có danh sách cấp bằng chính thức) bằng cách đăng nhập vào website: daotao.bdu.edu.vn (Mục Tốt nghiệp → Đăng ký Tốt nghiệp tạm thời). Học viên/Sinh viên thanh toán phí khi nhận thư.\n[/BẢNG]"
+   },
+   {
+    "n": 10,
+    "file": "bdu/thong-bao/2020/thong-bao-nhan-bang-tot-nghiep-cao-dang-dai-hoc-thac-si-dot-1-va-2-nam-2020.txt",
+    "chunk_idx": 0,
+    "title": "Thông báo nhận bằng tốt nghiệp Cao đẳng, Đại học, Thạc sĩ đợt 1 và 2 năm 2020",
+    "year": "2020",
+    "source_url": "https://bdu.edu.vn/thong-bao/thong-bao-nhan-bang-tot-nghiep-cao-dang-dai-hoc-thac-si-dot-1-va-2-nam-2020-1376.html",
+    "text": "Thông báo nhận bằng tốt nghiệp Cao đẳng, Đại học, Thạc sĩ đợt 1 và 2 năm 2020\nThứ sáu - 07/08/2020 03:35\nCăn cứ vào kết quả xét điều kiện tốt nghiệp (đợt 1-2020_nộp hồ sơ tháng 3/2020; đợt 2-2020_nộp hồ sơ tháng 4/2020) và Quyết định cấp bằng cho học viên các hệ: Cao đẳng, Liên thông, Văn bằng 2 (Hình thức đào tạo: Chính quy, Vừa làm vừa học), Đại học (Hình thức đào tạo: Vừa làm vừa học, Chính quy, Học từ xa) đợt 1 và 2/2020 và Thạc sĩ đợt 1/2020.\nNay, Phòng Đào tạo thông báo các học viên có tên trong danh sách liên hệ phòng Đào tạo để làm thủ tục nhận bằng tốt nghiệp như sau:\nBắt đầu từ ngày: 11/08/2020 (nhận bằng theo lịch thứ 3, thứ 5 hàng tuần)\nHọc viên liên hệ nhận bằng tốt nghiệp phải trình Chứng minh nhân dân và biên lai thu lệ phí nhận bằng.\nLệ phí nhận bằng: 500.000 đồng/Bằng Trung cấp, Cao đẳng, Đại học và 1.000.000 đồng/Bằng Thạc sĩ. Học viên đóng lệ phí nhận bằng tại phòng Tuyển sinh.\nThời gian giải quyết nhận bằng theo lịch thứ 3, thứ 5 hàng tuần tại Phòng Đào tạo.Sáng: từ 7h30 đến 10h30. Chiều: từ 13h30 đến 16h30.\nKhông giải quyết nhận bằng hộ không đúng quy định.\nLưu ý :"
+   }
+  ],
+  "prompt": "Câu hỏi: Cho tôi danh sách sinh viên đủ điều kiện công nhận tốt nghiệp đợt 2 năm 2025.\n\nTài liệu tham khảo:\n\n[Đoạn 1] (Nguồn: bdu/thong-bao/2020/danh-sach-hoc-vien-sinh-vien-du-dieu-kien-cong-nhan-va-cap-bang-tot-nghiep-dot-2-nam-2020.txt#chunk 0, năm 2020, link: https://bdu.edu.vn/thong-bao/danh-sach-hoc-vien-sinh-vien-du-dieu-kien-cong-nhan-va-cap-bang-tot-nghiep-dot-2-nam-2020-1429.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://bdu.edu.vn/thong-bao/danh-sach-hoc-vien-sinh-vien-du-dieu-kien-cong-nhan-va-cap-bang-tot-nghiep-dot-2-nam-2020-1429.html\n\n[Đoạn 2] (Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025.txt#chunk 0, năm 2025, link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025-697.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025-697.html\n\n[Đoạn 3] (Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-4-nam-2025.txt#chunk 1, năm 2025, link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-4-nam-2025-714.html)\nMẫu in: Q5401D0A\nTrường Đại Học Bình Dương\nPhòng Quản lý đào tạo và Công tác sinh viên\n-oOo-\nDanh sách sinh viên không đạt\nHọc kỳ 2 - Năm học 2025 - 2026\nĐiểm Trung Bình Tích Lũy 5.5\nSố Tín Chỉ Tích Lũy Chung 47\nLớp 21ME05\nHK\nTC ĐHP ĐHP ĐHP\nSTT Mã SV Họ và tên SV ĐTBTN Mã MH Tên môn học Số TC K.Hoạ BBTC Ghi chú\ntổng L1 L2 L3\nch\n1 21001021 Lê Nguyễn Cẩm Tú 46 7.75 02 Nhóm môn tự chọn 1 X\nTrang 1 / 2\nDanh sách sinh viên không đạt\nHọc kỳ 2 - Năm học 2025 - 2026\n\n[Đoạn 4] (Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2025/ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2025.txt#chunk 5, năm 2025, link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2025-704.html)\n[BẢNG — bảng 2 trong văn bản]\n| Stt | Thời gian | Công việc | Nội dung chi tiết |\n| --- | --- | --- | --- |\n| 4 | Dự kiến ngày 05/11/2025 | Học viên, sinh viên cập nhật kết quả chính thức | Phòng QLĐT&CTSV căn cứ danh sách Hội đồng xét tốt nghiệp thông qua và công khai kết quả xét của Hội đồng tại website daotao.bdu.edu.vn. |\n[DẠNG TRA CỨU]\n- 4: Thời gian = Dự kiến ngày 05/11/2025; Công việc = Học viên, sinh viên cập nhật kết quả chính thức; Nội dung chi tiết = Phòng QLĐT&CTSV căn cứ danh sách Hội đồng xét tốt nghiệp thông qua và công khai kết quả xét của Hội đồng tại website daotao.bdu.edu.vn.\n[/BẢNG]\n\n[Đoạn 5] (Nguồn: daotao/danh-sach-tot-nghiep/2025/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-thac-si-dot-2-2025.txt#chunk 0, năm 2025, link: https://daotao.bdu.edu.vn/danh-sach-tot-nghiep/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-thac-si-dot-2-2025-374.html)\nTRƯỜNG ĐẠI HỌC BÌNH DƯƠNG PHÒNG QLĐT&CTSV | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc Thành phố Hồ Chí Minh, ngày 15 tháng 9 năm 2025\nTHÔNG BÁO\nVề việc nhận bằng tốt nghiệp trình độ Đại học, Thạc sĩ đợt 2/2025\nCăn cứ vào kết quả xét tốt nghiệp và Quyết định cấp bằng đợt 2/2025 cho học viên các hệ: Văn bằng hai, Đại học và Thạc sĩ (Hình thức đào tạo: Chính quy, Vừa làm vừa học)\nNay, Phòng Quản lý đào tạo và Công tác sinh viên (QLĐT&CTSV) thông báo các học viên có tên trong danh sách đính kèm liên hệ Phòng QLĐT&CTSV để làm thủ tục nhận bằng tốt nghiệp như sau:\nBắt đầu từ ngày: 16/09/2025 (nhận bằng theo lịch thứ 3, thứ 5 hàng tuần)\nHọc viên liên hệ nhận bằng tốt nghiệp phải xuất trình Căn cước công dân/Căn cước và biên lai thu lệ phí nhận bằng.\nLệ phí nhận bằng học viên nộp trực tiếp tại Phòng Tuyển sinh (Lệ phí nhận bằng áp dụng theo quy định chung của Trường tại thời điểm nhận bằng).\nThời gian giải quyết nhận bằng theo lịch thứ 3, hoặc thứ 5 hàng tuần tại Phòng QLĐT&CTSV:\nSáng: từ 7h30 đến 10h30. Chiều: từ 13h30 đến 16h30.\nLưu ý:\n\n[Đoạn 6] (Nguồn: daotao/tot-nghiep/2026/ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2026.txt#chunk 0, năm 2026, link: https://daotao.bdu.edu.vn/tot-nghiep/ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2026-464.html)\nKết quả chính thức xét tốt nghiệp đợt 2 năm 2026\nDANH SÁCH ĐẠI HỌC CHÍNH QUY (https://drive.google.com/file/d/1PAdD6VBF4IMCTWGKfo2mclepsN5rN7hn/view)\nDANH SÁCH SAU ĐẠI HỌC (https://drive.google.com/file/d/1Pfe5mAI-hvv1YvcWae8lppAIogtWdvJL/view)\nDANH SÁCH HỆ ĐTTX (https://drive.google.com/file/d/1tS2VbIBpxGIM9mMZBX-IDaSHpENU8AJT/view)\n🔰 Lưu ý:\n1. Dự kiến sinh viên, học viên nhận bằng vào tháng 7/2026 (Phòng Đào tạo sẽ có thông báo cụ thể đăng tại website daotao.bdu.edu.vn (https://daotao.bdu.edu.vn) về thời gian, địa điểm và hướng dẫn chi tiết các thủ tục nhận bằng).\n2. Trường hợp sinh viên, học viên cần nhận Giấy chứng nhận tốt nghiệp tạm thời, vui lòng thực hiện đăng ký tại đường dẫn sau (Học viên, sinh viên sẽ được cấp và nhận phản hồi qua email sinh viên, học viên từ ngày 18/6/2026; chỉ cấp trong thời gian chờ thông báo nhận bằng chính thức).\n🔗 Đường dẫn đăng ký:\nĐĂNG KÝ CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI\nhttps://tuyensinh.bdu.edu.vn/index.php/ho-tro-hanh-chinh/dang-ky-chung-nhan-tot-nghiep-tam-thoi-589.html (https://tuyensinh.bdu.edu.vn/index.php/ho-tro-hanh-chinh/dang-ky-chung-nhan-tot-nghiep-tam-thoi-589.html)\n\n[Đoạn 7] (Nguồn: bdu/tuyen-dung/2021/cong-ty-cp-san-xuat-thiet-bi-dien-cong-nghiep-cat-van-loi-tuyen-dung-sinh-vien-thuc-tap.txt#chunk 5, năm 2021, link: https://bdu.edu.vn/tuyen-dung/cong-ty-cp-san-xuat-thiet-bi-dien-cong-nghiep-cat-van-loi-tuyen-dung-sinh-vien-thuc-tap-1088.html)\n[BẢNG — bảng 2 trong văn bản]\n| I | THỰC TẬP SINH MARKTING-CNTT | THỰC TẬP SINH MARKTING-CNTT | Số lượng: 10-15 SV | VPGD: 61 Đường số 7, KDC Cityland, Phường 7, Quận Gò Vấp |\n| --- | --- | --- | --- | --- |\n| QUYỀN LỢI –TRÁCH NHIỆM CỦA NHÀ TRƯỜNG & DOANH NGHIỆP | QUYỀN LỢI –TRÁCH NHIỆM CỦA NHÀ TRƯỜNG & DOANH NGHIỆP | 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất. | 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất. | 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất. |\n[DẠNG TRA CỨU]\n- QUYỀN LỢI –TRÁCH NHIỆM CỦA NHÀ TRƯỜNG & DOANH NGHIỆP: THỰC TẬP SINH MARKTING-CNTT = QUYỀN LỢI –TRÁCH NHIỆM CỦA NHÀ TRƯỜNG & DOANH NGHIỆP; THỰC TẬP SINH MARKTING-CNTT = 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất.; Số lượng: 10-15 SV = 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất.; VPGD: 61 Đường số 7, KDC Cityland, Phường 7, Quận Gò Vấp = 1. Nhà trường sắp xếp gửi thông báo lịch thực tập & danh sách của sinh viên để doanh nghiệp bố trí công việc trước ít nhất 2 tuần. 2. Doanh nghiệp nhận sinh viên vào thực tập, hỗ trợ tạo điều kiện để sinh viên có môi trường thực tập tốt nhất.\n[/BẢNG]\n\n[Đoạn 8] (Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy.txt#chunk 0, năm 2025, link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy-698.html)\nBài đăng chứa kết quả/danh sách cá nhân của sinh viên/học viên. Theo quy định dữ liệu, nội dung chi tiết không được trích xuất — sinh viên xem trực tiếp tại trang nguồn: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy-698.html\n\n[Đoạn 9] (Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2023/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-2-nam-2023.txt#chunk 4, năm 2023, link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-2-nam-2023-638.html)\n[BẢNG — bảng 2 trong văn bản]\n| Stt | Nội dung | Thời gian thực hiện | Ghi chú |\n| --- | --- | --- | --- |\n| 3 | Học viên/sinh viên cập nhật kết quả chính thức | Dự kiến trong tháng 04/2023 | - Học viên/sinh viên cập nhật kết quả chính thức tại website: daotao.bdu.edu.vn (Mục Tốt nghiệp → Danh sách tốt nghiệp). - Trong thời gian chờ nhận bằng tốt nghiệp chính thức, học viên/sinh viên có thể nhận Giấy chứng nhận tốt nghiệp tạm thời (khi đã có danh sách cấp bằng chính thức) bằng cách đăng nhập vào website: daotao.bdu.edu.vn (Mục Tốt nghiệp → Đăng ký Tốt nghiệp tạm thời). Học viên/Sinh viên thanh toán phí khi nhận thư. |\n[DẠNG TRA CỨU]\n- 3: Nội dung = Học viên/sinh viên cập nhật kết quả chính thức; Thời gian thực hiện = Dự kiến trong tháng 04/2023; Ghi chú = - Học viên/sinh viên cập nhật kết quả chính thức tại website: daotao.bdu.edu.vn (Mục Tốt nghiệp → Danh sách tốt nghiệp). - Trong thời gian chờ nhận bằng tốt nghiệp chính thức, học viên/sinh viên có thể nhận Giấy chứng nhận tốt nghiệp tạm thời (khi đã có danh sách cấp bằng chính thức) bằng cách đăng nhập vào website: daotao.bdu.edu.vn (Mục Tốt nghiệp → Đăng ký Tốt nghiệp tạm thời). Học viên/Sinh viên thanh toán phí khi nhận thư.\n[/BẢNG]\n\n[Đoạn 10] (Nguồn: bdu/thong-bao/2020/thong-bao-nhan-bang-tot-nghiep-cao-dang-dai-hoc-thac-si-dot-1-va-2-nam-2020.txt#chunk 0, năm 2020, link: https://bdu.edu.vn/thong-bao/thong-bao-nhan-bang-tot-nghiep-cao-dang-dai-hoc-thac-si-dot-1-va-2-nam-2020-1376.html)\nThông báo nhận bằng tốt nghiệp Cao đẳng, Đại học, Thạc sĩ đợt 1 và 2 năm 2020\nThứ sáu - 07/08/2020 03:35\nCăn cứ vào kết quả xét điều kiện tốt nghiệp (đợt 1-2020_nộp hồ sơ tháng 3/2020; đợt 2-2020_nộp hồ sơ tháng 4/2020) và Quyết định cấp bằng cho học viên các hệ: Cao đẳng, Liên thông, Văn bằng 2 (Hình thức đào tạo: Chính quy, Vừa làm vừa học), Đại học (Hình thức đào tạo: Vừa làm vừa học, Chính quy, Học từ xa) đợt 1 và 2/2020 và Thạc sĩ đợt 1/2020.\nNay, Phòng Đào tạo thông báo các học viên có tên trong danh sách liên hệ phòng Đào tạo để làm thủ tục nhận bằng tốt nghiệp như sau:\nBắt đầu từ ngày: 11/08/2020 (nhận bằng theo lịch thứ 3, thứ 5 hàng tuần)\nHọc viên liên hệ nhận bằng tốt nghiệp phải trình Chứng minh nhân dân và biên lai thu lệ phí nhận bằng.\nLệ phí nhận bằng: 500.000 đồng/Bằng Trung cấp, Cao đẳng, Đại học và 1.000.000 đồng/Bằng Thạc sĩ. Học viên đóng lệ phí nhận bằng tại phòng Tuyển sinh.\nThời gian giải quyết nhận bằng theo lịch thứ 3, thứ 5 hàng tuần tại Phòng Đào tạo.Sáng: từ 7h30 đến 10h30. Chiều: từ 13h30 đến 16h30.\nKhông giải quyết nhận bằng hộ không đúng quy định.\nLưu ý :\n\nTrả lời câu hỏi trên chỉ dựa vào các đoạn tài liệu trên. Cuối câu trả lời, ghi nguồn theo dạng: [Nguồn: tên file].",
+  "answer": "Bạn có thể xem chi tiết danh sách/kết quả xét tốt nghiệp đợt 2 năm 2025 trực tiếp tại các đường link sau:\n\n- Thông báo kết quả sơ bộ xét tốt nghiệp đợt 2 năm 2025 (Đại học chính quy): https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy-698.html\n- Thông báo thời gian tổ chức nhận hồ sơ xét cấp bằng tốt nghiệp đợt 2 năm 2025: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025-697.html\n\n[Nguồn: thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy.txt, thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025.txt]",
+  "id": "V5-P03"
+ }
+]

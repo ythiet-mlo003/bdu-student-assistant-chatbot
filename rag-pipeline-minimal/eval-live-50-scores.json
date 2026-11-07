@@ -1,0 +1,779 @@
+[
+ {
+  "id": "V5-A01",
+  "type": "answerable",
+  "question": "Thời gian nộp học phí học kỳ 1 năm học 2026-2027 cho sinh viên đại học chính quy là khi nào, và nếu xin gia hạn thì được gia hạn tối đa đến ngày nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Thời gian nộp học phí học kỳ 1 năm học 2026-2027 đối với sinh viên đại học chính quy là từ ngày 07/9/2026 đến ngày 21/9/2026. Nếu xin gia hạn, sinh viên được gia hạn tối đa đến hết ngày 21/10/2026 (từ ngày 22/9/2026 đến hết ngày 21/10/2026).\n\n[Nguồn: daotao/ke-hoach-thang/2026/thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt]",
+  "expected_facts": [
+   "Thời gian thu học phí: từ 07/9/2026 đến 21/9/2026",
+   "Kê khai gia hạn trực tuyến đến 15 giờ 00 ngày 21/9/2026",
+   "Gia hạn tối đa 30 ngày: từ 22/9/2026 đến hết 21/10/2026"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/ke-hoach-thang/2026/thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A02",
+  "type": "answerable",
+  "question": "Học phần Giáo dục quốc phòng và an ninh 4 trong học kỳ 1 năm học 2026-2027 học trong thời gian nào, ở đâu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Học phần Giáo dục quốc phòng và an ninh 4 trong học kỳ 1 năm học 2026–2027 có thời gian và địa điểm như sau:\n- Thời gian học: từ ngày 09/9/2026 đến ngày 09/12/2026.\n- Địa điểm học: Cơ sở 3, Trường Đại học Bình Dương.\n\n[Nguồn: daotao/thong-bao/2026/thong-bao-trien-khai-hoc-phan-giao-duc-quoc-phong-va-an-ninh-4-hoc-phan-4-trong-hoc-ky-1-nam-hoc-2026-2027.txt]",
+  "expected_facts": [
+   "Thời gian học: từ 09/9/2026 đến 09/12/2026",
+   "Địa điểm: Cơ sở 3, học trực tiếp",
+   "Lịch chi tiết theo dõi trên Cổng thông tin sinh viên sv.bdu.edu.vn"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/thong-bao/2026/thong-bao-trien-khai-hoc-phan-giao-duc-quoc-phong-va-an-ninh-4-hoc-phan-4-trong-hoc-ky-1-nam-hoc-2026-2027.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A03",
+  "type": "answerable",
+  "question": "Tân sinh viên Khóa 29 cần nhập học trước mốc nào để đảm bảo quyền lợi học bổng cao nhất, và sau ngày nào thì kết quả trúng tuyển không còn giá trị?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "- Tân sinh viên Khóa 29 cần nhập học đến hết ngày 17/08/2026 để đảm bảo quyền lợi học bổng cao nhất.\n- Sau ngày 21/08/2026, thí sinh không xác nhận nhập học xem như từ chối nhập học và kết quả trúng tuyển không còn giá trị.\n\n[Nguồn: tuyensinh/tin-tuc-tuyen-sinh/2026/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29.txt]",
+  "expected_facts": [
+   "Nhập học đến hết ngày 17/08/2026 để đảm bảo quyền lợi học bổng cao nhất",
+   "Sau ngày 21/08/2026 không xác nhận nhập học xem như từ chối nhập học, kết quả trúng tuyển không còn giá trị"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/groups/2026/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A04",
+  "type": "answerable",
+  "question": "Chuẩn đầu ra chương trình đào tạo ngành Công nghệ kỹ thuật ô tô gồm những khối kiến thức nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Chuẩn đầu ra chương trình đào tạo ngành Công nghệ kỹ thuật ô tô bao gồm các khối kiến thức sau:\n- Khối kiến thức cơ bản\n- Khối kiến thức cơ sở ngành\n- Khối kiến thức chuyên ngành\n\n[Nguồn: bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to.txt]",
+  "expected_facts": [
+   "Khối kiến thức cơ bản",
+   "Khối kiến thức cơ sở ngành",
+   "Khối kiến thức chuyên ngành CNKT ô tô"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A05",
+  "type": "answerable_regression_user_flagged",
+  "question": "Tân sinh viên Khóa 28 phải nộp lệ phí nhập học và bảo hiểm y tế bao nhiêu, và khi chuyển khoản học phí qua BIDV thì ghi nội dung chuyển khoản như thế nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Tân sinh viên Khóa 28 phải nộp các mức phí như sau:\n- Lệ phí nhập học: 1.000.000 đồng (đã áp dụng chính sách tặng 50% lệ phí nhập học cho tân sinh viên).\n- Bảo hiểm y tế (dự kiến mức thu cho 15 tháng): 1.105.650 đồng.\n\nKhi chuyển khoản học phí và lệ phí qua ngân hàng BIDV, nội dung chuyển khoản được quy định như sau:\n- Khi nộp học phí và lệ phí nhập học: [K28] [CCCD] [Họ và tên] [SDT] [NGÀNH HỌC] (Ví dụ: K28 0740900044X4 Nguyen Thanh A 0909XXX789 Ngon ngu Anh).\n- Khi nộp Bảo hiểm y tế: [K28] [CCCD] [Họ và tên] [SDT] [NGÀNH HỌC] [BHYT2025] (Ví dụ: K28 0740900044X4 Nguyen Thanh A 0909XXX789 Ngon ngu Anh BHYT 2025).\n\n[Nguồn: tuyensinh/dai-hoc-chinh-quy/2025/huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-le-phi-nhap-hoc-bao-hiem-y-te-nam-2025.txt#chunk 4]",
+  "expected_facts": [
+   "Lệ phí nhập học: 1.000.000 đồng (đã áp dụng tặng 50% lệ phí nhập học)",
+   "Thu hộ BHYT dự kiến: 1.105.650 đồng (15 tháng)",
+   "Học phí chuyển vào BIDV số tài khoản 8603931959, nội dung: [K28] [CCCD] [Họ và tên] [SDT] [NGÀNH HỌC]",
+   "BHYT chuyển vào BIDV số tài khoản 8602931959, nội dung thêm [BHYT2025]"
+  ],
+  "expected_source": "data-text-v7.3.1/tuyensinh/dai-hoc-chinh-quy/2025/huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-le-phi-nhap-hoc-bao-hiem-y-te-nam-2025.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A06",
+  "type": "answerable_regression_user_flagged",
+  "question": "Trường Đại học Bình Dương có những hình thức đào tạo và cấp đào tạo nào theo bài giới thiệu lịch sử trường?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Theo bài giới thiệu lịch sử trường, Trường Đại học Bình Dương có các hình thức và cấp đào tạo như sau:\n\n**Hình thức đào tạo:**\n* Đào tạo chính quy tập trung\n* Đào tạo không chính quy: Vừa làm vừa học; Văn bằng hai; Đào tạo từ xa qua phát thanh, truyền hình, mạng Internet, đào tạo trực tuyến tại 30 cơ sở tỉnh thành trong cả nước.\n* Chương trình du học tại các trường liên kết (như Hoa Kỳ, Liên bang Nga, Hàn Quốc, Trung Quốc…)\n\n**Cấp đào tạo:**\n* Trung cấp chuyên nghiệp\n* Cao đẳng\n* Đại học\n* Đại học Liên thông\n* Sau Đại học\n* Tiến sĩ (QTKD)\n\n[Nguồn: bdu/ve-chung-toi/2015/lich-su-hinh-thanh-va-phat-trien.txt]",
+  "expected_facts": [
+   "Hình thức đào tạo: đào tạo chính quy tập trung",
+   "Đào tạo không chính quy: vừa làm vừa học, văn bằng hai, đào tạo từ xa (phát thanh, truyền hình, mạng Internet, trực tuyến)",
+   "Cấp đào tạo gồm 6 cấp: Trung cấp chuyên nghiệp, Cao đẳng, Đại học, Đại học Liên thông, Sau Đại học, Tiến sĩ (QTKD)"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/ve-chung-toi/2015/lich-su-hinh-thanh-va-phat-trien.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A07",
+  "type": "answerable",
+  "question": "Học phí 1 tín chỉ ngành Dược học năm 2026 là bao nhiêu cho từng mức (học phần đại cương và học phần cơ sở ngành, chuyên ngành)?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Học phí 1 tín chỉ ngành Dược học năm 2026 tùy thuộc vào hệ đào tạo và các mức học phần như sau:\n\n**1. Đối với hệ đại học chính quy:**\n* **Học phần đại cương:**\n  * Mức 1 (chỉ có tiết lý thuyết): 1.082.000 đồng/tín chỉ.\n  * Mức 2 (có tiết lý thuyết và thực hành): 1.208.000 đồng/tín chỉ.\n  * Mức 3 (chỉ có tiết thực hành): 1.248.000 đồng/tín chỉ.\n* **Học phần cơ sở ngành, chuyên ngành:**\n  * Mức 4 (chỉ có tiết lý thuyết): 2.062.000 đồng/tín chỉ.\n  * Mức 5 (có tiết lý thuyết và thực hành): 2.298.000 đồng/tín chỉ.\n  * Mức 6 (chỉ có tiết thực hành): 2.373.000 đồng/tín chỉ.\n\n**2. Đối với các hình thức đào tạo khác (Vừa làm vừa học, Văn bằng 2, Liên thông):**\n* **Học phần đại cương:**\n  * Mức 1 (chỉ có tiết lý thuyết): 849.000 đồng/tín chỉ.\n  * Mức 2 (có tiết lý thuyết và thực hành): 945.000 đồng/tín chỉ.\n  * Mức 3 (chỉ có tiết thực hành): 978.000 đồng/tín chỉ.\n* **Học phần cơ sở ngành, chuyên ngành:**\n  * Mức 4 (chỉ có tiết lý thuyết): 1.616.000 đồng/tín chỉ.\n  * Mức 5 (có tiết lý thuyết và thực hành): 1.797.000 đồng/tín chỉ.\n  * Mức 6 (chỉ có tiết thực hành): 1.860.000 đồng/tín chỉ.\n\n[Nguồn: tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt]",
+  "expected_facts": [
+   "Mức 1 (học phần đại cương chỉ có tiết lý thuyết): 1.082.000 đồng/tín chỉ",
+   "Mức 2 (học phần đại cương có tiết lý thuyết và thực hành): 1.208.000 đồng/tín chỉ",
+   "Mức 3 (học phần đại cương chỉ có tiết thực hành): 1.248.000 đồng/tín chỉ",
+   "Mức 4 (học phần cơ sở ngành, chuyên ngành chỉ có tiết lý thuyết): 2.062.000 đồng/tín chỉ",
+   "Mức 5 (học phần cơ sở ngành, chuyên ngành có tiết lý thuyết và thực hành): 2.298.000 đồng/tín chỉ",
+   "Mức 6 (học phần cơ sở ngành, chuyên ngành chỉ có tiết thực hành): 2.373.000 đồng/tín chỉ"
+  ],
+  "expected_source": "data-text-v7.3.1/tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A08",
+  "type": "answerable",
+  "question": "Theo Quyết định 935/QĐ-ĐHBD, người học là anh, chị, em ruột cùng học tại Trường Đại học Bình Dương được giảm bao nhiêu phần trăm học phí?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "partial",
+  "note": "Đúng 10-15% nhưng thêm 'hoặc 30%' từ tài liệu khác, gây nhầm lẫn.",
+  "answer": "Theo Quyết định 935/QĐ-ĐHBD, người học là anh, chị, em ruột cùng học tại Trường Đại học Bình Dương được giảm từ 10% - 15% học phí/toàn khóa học (hoặc giảm 30% tổng học phí/học kỳ/sinh viên tùy theo quy định cụ thể tại các văn bản liên quan được đề cập trong tài liệu).\n\n[Nguồn: tuyensinh/groups/2024/chinh-sach-hoc-bong-cho-tan-sinh-vien-trung-tuyen-he-dai-hoc-chinh-quy-nam-2024-hoc-tai-binh-duong.txt]",
+  "expected_facts": [
+   "Quyết định 935/QĐ-ĐHBD ngày 12 tháng 09 năm 2022 về việc ban hành Quy định chính sách miễn giảm học phí cho các đối tượng học tại Trường Đại học Bình Dương",
+   "Giảm học phí từ 10% - 15% học phí/toàn khóa học đối với người học là anh, chị, em ruột, vợ, chồng cùng học tại Trường ĐHBD",
+   "Giảm 10% mức học phí/toàn khóa học đối với người học thuộc diện dân tộc thiểu số, có hoàn cảnh khó khăn",
+   "Giảm 15% mức học phí/toàn khóa học đối với người học có cha hoặc mẹ là liệt sĩ, bệnh binh/thương binh, thuộc gia đình có công với Cách mạng hoặc thuộc diện hộ nghèo"
+  ],
+  "expected_source": "data-text-v7.3.1/tuyensinh/groups/2024/chinh-sach-hoc-bong-cho-tan-sinh-vien-trung-tuyen-he-dai-hoc-chinh-quy-nam-2024-hoc-tai-binh-duong.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A09",
+  "type": "answerable",
+  "question": "Hạn nộp hồ sơ xét học bổng tân sinh viên Khóa 29 tại cơ sở chính là khi nào và nộp ở đâu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "- Thời gian nộp hồ sơ: Từ ngày 08/10/2026 đến ngày 17/10/2026.\n- Địa điểm nộp hồ sơ: Bộ phận một cửa – Phòng Tuyển sinh (Cổng trước Trường Đại học Bình Dương, số 504 Đại lộ Bình Dương, phường Phú Lợi, Thành phố Hồ Chí Minh).\n\n[Nguồn: daotao/trang-chu/2026/thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-sinh-vien-khoa-29-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt]",
+  "expected_facts": [
+   "Đối tượng: sinh viên đại học chính quy Khóa 29 tại cơ sở chính Trường Đại học Bình Dương",
+   "Thời gian nộp hồ sơ: từ ngày 08/10/2026 đến ngày 17/10/2026",
+   "Địa điểm nộp hồ sơ: Bộ phận một cửa – Phòng Tuyển sinh (Cổng trước Trường Đại học Bình Dương, số 504 Đại lộ Bình Dương, phường Phú Lợi, Thành phố Hồ Chí Minh)",
+   "Thời gian làm việc: buổi sáng từ 07h00 đến 11h00; buổi chiều từ 13h00 đến 17h00 (Chủ nhật chỉ làm việc buổi sáng)"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/trang-chu/2026/thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-sinh-vien-khoa-29-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A10",
+  "type": "answerable",
+  "question": "Sinh viên Khóa 28 muốn duy trì học bổng cần đạt điều kiện gì về điểm trung bình, điểm rèn luyện và điểm môn học?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Để duy trì học bổng, sinh viên Khóa 28 cần đạt các điều kiện về điểm trung bình, điểm rèn luyện và điểm môn học tùy theo từng loại học bổng như sau:\n\n- **Học bổng toàn phần / Học bổng Ngành Công nghệ thông tin:** Điểm trung bình xếp loại học tập từ 3.2 trở lên (theo thang điểm hệ 4); không có môn nào điểm F; có điểm rèn luyện từ 80 điểm trở lên.\n- **Học bổng Chắp cánh ước mơ / Học bổng Gia đình BDU:** Điểm trung bình xếp loại học tập từ 2.5 trở lên (theo thang điểm hệ 4); không có môn nào điểm F; có điểm rèn luyện từ 80 điểm trở lên.\n\n[Nguồn: tuyensinh/groups/2025/chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chinh-quy-khoa-28-trung-tuyen-nam-2025.txt]",
+  "expected_facts": [
+   "Học bổng gia đình BDU và học bổng Chắp cánh ước mơ: điểm trung bình xếp loại học tập từ 2.5 trở lên (theo thang điểm hệ 4), không có môn nào điểm F, điểm rèn luyện từ 80 điểm trở lên",
+   "Học bổng toàn phần và học bổng Ngành Công nghệ thông tin: điểm trung bình xếp loại học tập từ 3.2 trở lên (theo thang điểm hệ 4), không có môn nào điểm F, điểm rèn luyện từ 80 điểm trở lên",
+   "Ngoài ra phải tham gia Câu lạc bộ Sách và Bạn đọc, tham gia ít nhất một lần thuyết trình sách/mỗi đợt xét học bổng và có hoạt động truyền thông về chính sách học bổng của Trường trên mạng xã hội"
+  ],
+  "expected_source": "data-text-v7.3.1/tuyensinh/groups/2025/chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chinh-quy-khoa-28-trung-tuyen-nam-2025.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A11",
+  "type": "answerable",
+  "question": "Sinh viên cần đáp ứng những điều kiện nào để được xét và công nhận tốt nghiệp?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Sinh viên được xét và công nhận tốt nghiệp khi đáp ứng các điều kiện sau:\n- Tích lũy đủ học phần, số tín chỉ và hoàn thành các nội dung bắt buộc khác theo yêu cầu của chương trình đào tạo.\n- Điểm trung bình tích lũy của toàn khóa học đạt từ 2,00 (theo thang điểm 4).\n- Đạt chuẩn đầu ra của chương trình đào tạo (kể cả chuẩn đầu ra về ngoại ngữ và công nghệ thông tin).\n- Hoàn thành các học phần điều kiện.\n- Điểm trung bình chung các học phần Giáo dục quốc phòng - an ninh đạt từ 5,0 trở lên (theo thang điểm 10).\n- Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập.\n\n[Nguồn: daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt]",
+  "expected_facts": [
+   "Tích lũy đủ học phần, số tín chỉ và hoàn thành các nội dung bắt buộc khác theo yêu cầu của chương trình đào tạo",
+   "Điểm trung bình tích lũy của toàn khóa học đạt từ 2,00 (theo thang điểm 4)",
+   "Đạt chuẩn đầu ra của chương trình đào tạo (kể cả chuẩn đầu ra về ngoại ngữ và công nghệ thông tin)",
+   "Hoàn thành các học phần điều kiện; điểm trung bình chung các học phần Giáo dục quốc phòng - an ninh phải đạt từ 5,0 trở lên (theo thang điểm 10)",
+   "Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A12",
+  "type": "answerable",
+  "question": "Xếp loại tốt nghiệp được xác định như thế nào theo điểm trung bình tích lũy (thang điểm 4)?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Từ chối nhầm dù file quy chế nguồn có trong top-10 chunk truy xuất.",
+  "answer": "Tôi không tìm thấy thông tin này trong tài liệu của trường.",
+  "expected_facts": [
+   "Từ 3,6 đến 4,0: Xuất sắc",
+   "Từ 3,2 đến cận 3,6: Giỏi",
+   "Từ 2,5 đến cận 3,2: Khá",
+   "Từ 2,0 đến cận 2,5: Trung bình"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A13",
+  "type": "answerable",
+  "question": "Lịch nộp hồ sơ xét tốt nghiệp đợt 2 năm 2026 là khi nào và nộp bằng những hình thức nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Lịch nộp hồ sơ xét tốt nghiệp đợt 2 năm 2026 là từ ngày 20/4/2026 đến ngày 24/4/2026. \n\nNgười học phải nộp hồ sơ bằng cả 02 hình thức, gồm:\n- Hình thức 1: Nộp hồ sơ trực tuyến tại link https://forms.gle/qC8mj4pHRpLyNv5TA\n- Hình thức 2: Nộp hồ sơ giấy tại Bộ phận một cửa, Phòng Tuyển sinh, Cổng trước Trường Đại học Bình Dương, Số 504 Đại lộ Bình Dương, phường Phú Lợi, Thành phố Hồ Chí Minh.\n\n[Nguồn: daotao/tot-nghiep/2026/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-2-nam-2026.txt]",
+  "expected_facts": [
+   "Thời gian nộp hồ sơ xét tốt nghiệp đợt 2 năm 2026: từ ngày 20/4/2026 đến ngày 24/4/2026",
+   "Người học PHẢI nộp hồ sơ bằng cả 02 hình thức",
+   "Hình thức 1: nộp hồ sơ trực tuyến tại link https://forms.gle/qC8mj4pHRpLyNv5TA",
+   "Hình thức 2: nộp hồ sơ giấy tại Bộ phận một cửa, Phòng Tuyển sinh, Cổng trước Trường Đại học Bình Dương, Số 504 Đại lộ Bình Dương, phường Phú Lợi, Thành phố Hồ Chí Minh"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/tot-nghiep/2026/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-2-nam-2026.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A14",
+  "type": "answerable",
+  "question": "Chuẩn đầu ra ngoại ngữ trình độ đại học tại Trường Đại học Bình Dương yêu cầu bậc nào theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Từ chối nhầm dù 8/10 chunk là file QĐ chuẩn đầu ra ngoại ngữ.",
+  "answer": "Tôi không tìm thấy thông tin này trong tài liệu của trường.",
+  "expected_facts": [
+   "Đối với CTĐT đại học chính quy (trừ ngành Ngôn ngữ Anh): văn bằng hoặc chứng chỉ ngoại ngữ đạt trình độ tương đương từ Bậc 3 trở lên (cấp bằng đại học) hoặc từ Bậc 4 trở lên (cấp bằng trình độ tương đương) theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam",
+   "Hoặc tích lũy đạt học phần ngoại ngữ tiếng Anh do BDU tổ chức giảng dạy và đánh giá, đồng thời tích lũy đạt học phần ngoại ngữ thứ hai do BDU tổ chức giảng dạy và đánh giá",
+   "Đối với CTĐT ngành Ngôn ngữ Anh: ngoại ngữ thứ hai (khác tiếng Anh) tối thiểu từ Bậc 3 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/sinh-vien/2024/quyet-dinh-ban-hanh-quy-dinh-chuan-dau-vao-chuan-dau-ra-trinh-do-ngoai-ngu-tai-truong-dai-hoc-binh-duong.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A15",
+  "type": "answerable",
+  "question": "Sinh viên muốn đăng ký bổ sung hoặc hủy đăng ký môn học học kỳ 2 năm học 2025-2026 thì làm trong thời gian nào, ở đâu và phí bao nhiêu một môn?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "partial",
+  "note": "Thiếu cửa sổ đăng ký trực tuyến 19-21/11/2025.",
+  "answer": "- Thời gian: Từ ngày 08/12/2025 đến 11h00 ngày 12/12/2025.\n- Địa điểm: Nộp đơn trực tiếp tại Bộ phận một cửa (Phòng Tuyển sinh).\n- Phí: 100.000 đồng/môn.\n\n[Nguồn: daotao/ke-hoach-thang/2025/thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-nam-hoc-2025-2026-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt]",
+  "expected_facts": [
+   "Thời gian đăng ký đợt bổ sung (đăng ký trực tuyến) | Các khóa đăng ký chung | Ngày 19/11/2025 đến ngày 21/11/2025",
+   "Đăng ký bổ sung hoặc hủy kết quả đăng ký (thực hiện trực tiếp tại Bộ phận một cửa) | Từ ngày 08/12/2025 đến 11h00 ngày 12/12/2025",
+   "Sinh viên thực hiện đơn đăng ký bổ sung, hủy đăng ký (nộp đơn trực tiếp tại Bộ phận một cửa Phòng Tuyển sinh); thu phí dịch vụ đăng ký theo quy định tại Quyết định số 1113/QĐ-ĐHBD, ngày 20/6/2024 và Quyết định số 1114/QĐ-ĐHBD, ngày 20/6/2024; tính phí từng môn học 100.000 đồng/môn",
+   "Chỉ được phép hủy môn học không có trong kế hoạch đào tạo của khóa học",
+   "Không tiếp nhận đơn đăng ký/ hủy đăng ký sau thời gian này (bao gồm cả sinh viên gia hạn học phí)"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/ke-hoach-thang/2025/thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-nam-hoc-2025-2026-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A16",
+  "type": "answerable",
+  "question": "Sinh viên được xin nghỉ học tạm thời và bảo lưu kết quả đã học trong những trường hợp nào, khi muốn trở lại học tiếp thì phải làm gì, và nộp hồ sơ nghỉ học tạm thời học kỳ 1 năm học 2026-2027 trong thời gian nào, theo quy trình nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "**1. Các trường hợp sinh viên được xin nghỉ học tạm thời và bảo lưu kết quả đã học:**\n- Được điều động vào lực lượng vũ trang (hoặc các lực lượng vũ trang).\n- Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế.\n- Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế (hoặc cơ quan y tế).\n- Vì lý do cá nhân khác (hoặc nhu cầu cá nhân) nhưng đã phải học tối thiểu 01 học kỳ ở Trường và không thuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật (đồng thời theo tài liệu sổ tay sinh viên, phải đạt điểm trung bình chung tích lũy không dưới 2,00 và thời gian nghỉ được tính vào thời gian học chính thức).\n\n**2. Khi muốn trở lại học tiếp, sinh viên phải làm gì:**\n- Viết đơn gửi Hiệu trưởng (thông qua phòng QLĐT&CTSV) ít nhất một tuần trước khi bắt đầu học kỳ mới.\n\n**3. Thời gian và quy trình nộp hồ sơ nghỉ học tạm thời học kỳ 1 năm học 2026-2027:**\n* **Thời gian nộp hồ sơ:** Từ ngày 20/7/2026 đến 11 giờ 00 phút ngày 25/7/2026.\n* **Quy trình thực hiện:**\n  - **Bước 1:** Sinh viên tải mẫu đơn theo nhu cầu từng đối tượng (đính kèm tại Thông báo).\n  - **Bước 2:** Sinh viên liên hệ Khoa, Viện để được tư vấn và ký xác nhận đơn.\n  - **Bước 3:** Sinh viên nộp đơn trực tuyến tại địa chỉ: https://forms.gle/K7ZdXMbfD8LmthGs8 (đơn hợp lệ phải đầy đủ thông tin, có chữ ký xác nhận của Lãnh đạo Khoa/Viện, định dạng PDF tối đa 10MB; trường hợp có minh chứng thì scan và ghép chung thành 01 tệp PDF duy nhất).\n  - **Bước 4:** Sinh viên nộp bản giấy đơn, hồ sơ minh chứng (nếu có) tại Bộ phận Một cửa – Phòng Tuyển sinh để đối chiếu và lưu trữ.\n\n[Nguồn: daotao/thong-bao/2026/thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-thoi-hoc-chuyen-nganh-chuyen-hinh-thuc-dao-tao-va-nhap-hoc-lai-doi-voi-sinh-vien-trinh-do-dai-hoc-chinh-quy-hoc-ky-1-nam-hoc-2026-2027.txt, daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt, daotao/so-tay-sinh-vien/2023/phan-1-tong-quan-ve-truong-dai-hoc-binh-duong.txt]",
+  "expected_facts": [
+   "Được điều động vào lực lượng vũ trang",
+   "Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế",
+   "Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế",
+   "Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở Trường và không thuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật",
+   "Sinh viên nghỉ học tạm thời, khi muốn trở lại học tiếp tại Trường, phải viết đơn gửi Hiệu trưởng (thông qua phòng QLĐT&CTSV) ít nhất một tuần trước khi bắt đầu học kỳ mới"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A17",
+  "type": "answerable",
+  "question": "Sinh viên được xem xét chuyển sang học một chương trình, một ngành đào tạo khác khi có đủ những điều kiện nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Sinh viên được xem xét chuyển sang học một chương trình, một ngành đào tạo khác (hoặc một phân hiệu khác của Trường, hoặc từ phân hiệu về trụ sở chính) khi có đủ các điều kiện sau:\n\na) Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định.\nb) Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo, của trụ sở chính (hoặc phân hiệu) trong cùng khóa tuyển sinh.\nc) Cơ sở đào tạo, trụ sở chính (hoặc phân hiệu) có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực đào tạo đối với chương trình, ngành đào tạo đó theo quy định hiện hành của Bộ Giáo dục và Đào tạo.\nd) Được sự đồng ý của thủ trưởng các đơn vị chuyên môn phụ trách chương trình, ngành đào tạo, người phụ trách phân hiệu (nơi chuyển đi và chuyển đến) và của Hiệu trưởng.\n\n[Nguồn: daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt#chunk 35]",
+  "expected_facts": [
+   "Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại khoản 5 Điều 2 của Quy chế này",
+   "Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo, của trụ sở chính (hoặc phân hiệu) trong cùng khóa tuyển sinh",
+   "Cơ sở đào tạo, trụ sở chính (hoặc phân hiệu) có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực đào tạo đối với chương trình, ngành đào tạo đó theo quy định hiện hành của Bộ Giáo dục và Đào tạo",
+   "Được sự đồng ý của thủ trưởng các đơn vị chuyên môn phụ trách chương trình, ngành đào tạo, người phụ trách phân hiệu (nơi chuyển đi và chuyến đến) và của Hiệu trưởng"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A18",
+  "type": "answerable",
+  "question": "Sinh viên muốn phúc khảo bài thi cuối kỳ thì nộp đơn trong thời hạn bao lâu, lệ phí bao nhiêu một bài, bài thi được chấm phúc khảo bằng bút màu gì và do ai chấm?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "- Thời hạn nộp đơn phúc khảo: 15 ngày kể từ ngày công bố kết quả.\n- Lệ phí chấm phúc khảo: 100.000 vnđ/bài (hoặc theo quy định học phí, lệ phí năm học tùy theo văn bản).\n- Bài thi được chấm phúc khảo bằng bút mực xanh lá cây/bút mực tím.\n- Do 02 (hai) cán bộ chấm thi phụ trách (do P.BĐCL&KT kết hợp với Khoa/Bộ môn mời) chấm.\n\n[Nguồn: daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt, daotao/so-tay-sinh-vien/2023/phan-1-tong-quan-ve-truong-dai-hoc-binh-duong.txt]",
+  "expected_facts": [
+   "Chỉ chấm phúc khảo bài thi cuối kỳ, không chấm phúc khảo điểm giữa kỳ (nếu có thắc mắc về điểm giữa kỳ, sinh viên, học viên liên hệ với giảng viên thông qua giáo vụ Khoa trong thời hạn 15 ngày kể từ ngày công bố kết quả)",
+   "Thời hạn nộp đơn chấm khiếu nại/phúc khảo: 15 ngày kể từ ngày công bố kết quả. Sinh viên nộp đơn tại P.BĐCL&KT kèm theo biên lai lệ phí phúc khảo (nộp tại Phòng Tài chính – Kế toán theo quy định của Trường)",
+   "Lệ phí chấm phúc khảo: 100.000 vnđ/bài",
+   "Thời gian công bố điểm phúc khảo: 15 ngày kể từ ngày nhận đơn chấm phúc khảo",
+   "Bài thi được chấm bằng bút mực xanh lá cây/bút mực tím do 02 (hai) cán bộ chấm thi phụ trách (do P.BĐCL&KT kết hợp với Khoa/Bộ môn mời)",
+   "Cán bộ chấm thi thứ nhất ký tên, ghi họ tên vào bài thi, cho điểm chi tiết trong bài thi và có cột điểm tổng kết riêng ở trang đầu bài thi, trong đó ghi điểm từng câu cũng như tổng điểm của bài thi",
+   "Cán bộ chấm thi thứ hai có nhiệm vụ chấm thẩm định, trao đổi với cán bộ chấm thi thứ nhất (nếu cần) để thống nhất điểm, ký tên, ghi họ tên vào bài thi"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A19",
+  "type": "answerable",
+  "question": "Sinh viên bị điểm F hoặc vắng thi không có lý do chính đáng thì bị xử lý thế nào, và việc học lại ảnh hưởng thế nào đến hạng tốt nghiệp?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "partial",
+  "note": "Đúng quy tắc học lại >5% thì hạ hạng, nhưng phần xử lý điểm F/vắng thi lấy nhầm sang Quy chế thi THPT.",
+  "answer": "Theo quy định, sinh viên bỏ thi không có lý do chính đáng sẽ bị xem xét xử lý theo quy định về xử lý thí sinh vi phạm tại Quy chế thi tốt nghiệp Trung học phổ thông hiện hành (riêng hình thức đình chỉ học tập và buộc thôi học không áp dụng trong trường hợp này). \n\nVề việc học lại, nếu khối lượng các học phần phải học lại/cải thiện vượt quá 5% so với tổng số tín chỉ quy định cho toàn chương trình, hạng tốt nghiệp của sinh viên sẽ bị ảnh hưởng (bị giảm/hạ đi một mức, chẳng hạn từ Xuất sắc hạ thành Giỏi, từ Giỏi hạ thành Khá).\n\n[Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-1-nam-2025.txt; daotao/sinh-vien/2024/khung-xu-ly-ky-luat-sinh-vien.txt; daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt]",
+  "expected_facts": [
+   "Học phần không đạt: dưới 4,0 hệ 10, 0,0 hệ 4, điểm chữ F",
+   "Sinh viên vắng mặt trong buổi thi, đánh giá không có lý do chính đáng phải nhận điểm 0",
+   "Sinh viên vắng mặt có lý do chính đáng được dự thi, đánh giá ở một đợt khác và được tính điểm lần đầu. Trong trường hợp này, sinh viên phải thông báo bằng văn bản kèm minh chứng và được sự phê duyệt của Nhà trường chậm nhất 07 ngày sau ngày thi, đánh giá",
+   "Sinh viên có điểm học phần không đạt phải đăng ký học lại theo quy định, điểm lần học cuối là điểm chính thức của học phần",
+   "Sinh viên đã có điểm học phần đạt được đăng ký học lại để cải thiện điểm. Trường hợp sinh viên đăng ký học lại để cải thiện điểm, kết quả cao nhất trong các lần học được chọn để tính vào điểm trung bình tích lũy",
+   "Hạng tốt nghiệp của sinh viên có điểm trung bình tích lũy loại xuất sắc và giỏi sẽ bị giảm đi một mức nếu thuộc một trong các trường hợp sau: a) Khối lượng của các học phần phải học lại vượt quá 5% so với tổng số tín chỉ quy định cho toàn chương trình"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A20",
+  "type": "answerable",
+  "question": "Sinh viên bị cảnh báo học tập trong những trường hợp nào, bị buộc thôi học khi nào, và sau khi có quyết định buộc thôi học thì trường thông báo trả về địa phương trong bao lâu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "**1. Trường hợp sinh viên bị cảnh báo kết quả học tập (theo từng học kỳ):**\n- Điểm trung bình chung tích lũy đạt dưới 1,20 (sinh viên năm thứ nhất), dưới 1,40 (năm thứ hai), dưới 1,60 (năm thứ ba) hoặc dưới 1,80 (các năm tiếp theo và cuối khoá); hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba, dưới 1,8 đối với sinh viên các năm tiếp theo.\n- Điểm trung bình chung học kỳ đạt dưới 0,80 (học kỳ đầu của khóa học), dưới 1,00 (các học kỳ tiếp theo); hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo.\n- Tổng số tín chỉ của các học phần bị điểm F còn tồn đọng tính từ đầu khoá học vượt quá 24 tín chỉ; hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; hoặc tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng kí học trong học kỳ.\n\n**2. Trường hợp sinh viên bị buộc thôi học:**\n- Bị cảnh báo học tập 2 lần liền tiếp;\n- Thời gian học tập vượt quá giới hạn theo quy định;\n- Vượt quá thời gian tối đa được phép học tại Trường;\n- Bị kỷ luật lần thứ hai vì lý do đi thi hộ hoặc nhờ người thi hộ, hoặc bị kỷ luật ở mức xóa tên khỏi danh sách sinh viên của Trường;\n- Bị xếp loại rèn luyện kém cả năm lần thứ hai (hoặc xếp loại rèn luyện kém 2 năm liên tiếp);\n- Đang trong thời gian bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm nghiêm trọng, gây ảnh hưởng xấu đến nhà trường và xã hội, vi phạm pháp luật bị xử phạt tù (kể cả trường hợp bị xử phạt tù được hưởng án treo).\n\n**3. Thời hạn thông báo trả về địa phương sau khi có quyết định buộc thôi học:**\nChậm nhất là một tháng sau khi sinh viên có quyết định buộc thôi học, Trường sẽ thông báo trả về địa phương nơi sinh viên có hộ khẩu thường trú.\n\n[Nguồn: daotao/so-tay-sinh-vien/2023/phan-1-tong-quan-ve-truong-dai-hoc-binh-duong.txt]",
+  "expected_facts": [
+   "Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng kí học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24",
+   "Điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo",
+   "Điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba dưới 1,8 đối với sinh viên các năm tiếp theo",
+   "Sinh viên bị buộc thôi học trong các trường hợp sau: a) Bị cảnh báo học tập 2 lần liên tiếp; b) Thời gian học tập vượt quá giới hạn theo quy định tại khoản 5 Điều 2 của Quy chế này",
+   "Chậm nhất là một tháng sau khi sinh viên có quyết định buộc thôi học, Trường sẽ thông báo trả về địa phương nơi sinh viên có hộ khẩu thường trú",
+   "Sinh viên bị buộc thôi học được bảo lưu kết quả các môn đã học trong thời hạn 3 năm kể từ ngày buộc thôi học và được chuyển điểm sang ngành/chương trình đào tạo khác nếu sinh viên có yêu cầu bằng văn bản"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/so-tay-sinh-vien/2023/phan-1-tong-quan-ve-truong-dai-hoc-binh-duong.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A22",
+  "type": "answerable",
+  "question": "Điểm trúng tuyển ngành Công nghệ thông tin năm 2020 là bao nhiêu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Điểm trúng tuyển ngành Công nghệ thông tin năm 2020 là 14 điểm.\n\n[Nguồn: bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt]",
+  "expected_facts": [
+   "Điểm trúng tuyển ngành Công nghệ thông tin năm 2020: 14 điểm",
+   "Năm 2020 ngành Công nghệ thông tin có 50 chỉ tiêu, 107 thí sinh nhập học"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-A23",
+  "type": "answerable",
+  "question": "Nộp hồ sơ nghỉ học tạm thời, thôi học, chuyển ngành, chuyển hình thức đào tạo và nhập học lại học kỳ 1 năm học 2026-2027 trong thời gian nào, nộp bằng những hình thức nào và thời gian xử lý là bao lâu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "- **Thời gian tiếp nhận hồ sơ:** Từ ngày 20/7/2026 đến 11 giờ 00 phút ngày 25/7/2026.\n- **Hình thức nộp:** \n  - Nộp đơn trực tuyến tại địa chỉ: https://forms.gle/K7ZdXMbfD8LmthGs8 (sau khi đã liên hệ Khoa, Viện để được tư vấn và ký xác nhận đơn).\n  - Nộp bản giấy đơn và hồ sơ minh chứng (nếu có) trực tiếp tại Bộ phận Một cửa – Phòng Tuyển sinh.\n- **Thời gian xử lý hồ sơ:** Dự kiến không quá 20 ngày làm việc kể từ ngày kết thúc thời gian tiếp nhận hồ sơ.\n\n[Nguồn: daotao/thong-bao/2026/thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-thoi-hoc-chuyen-nganh-chuyen-hinh-thuc-dao-tao-va-nhap-hoc-lai-doi-voi-sinh-vien-trinh-do-dai-hoc-chinh-quy-hoc-ky-1-nam-hoc-2026-2027.txt]",
+  "expected_facts": [
+   "Thời gian tiếp nhận hồ sơ: Từ ngày 20/7/2026 đến 11 giờ 00 phút ngày 25/7/2026",
+   "Sinh viên nộp đơn trực tuyến tại https://forms.gle/K7ZdXMbfD8LmthGs8; đơn hợp lệ khi điền đầy đủ chính xác thông tin, có đủ chữ ký xác nhận của Lãnh đạo Khoa, Viện liên quan và đúng định dạng tệp PDF, dung lượng tối đa không vượt quá 10MB",
+   "Sinh viên nộp bản giấy đơn, hồ sơ minh chứng (nếu có) tại Bộ phận Một cửa – Phòng Tuyển sinh; hồ sơ giấy là căn cứ đối chiếu và lưu trữ theo quy định",
+   "Thời gian xử lý hồ sơ và trả kết quả dự kiến không quá 20 ngày làm việc kể từ ngày kết thúc thời gian tiếp nhận hồ sơ"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/thong-bao/2026/thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-thoi-hoc-chuyen-nganh-chuyen-hinh-thuc-dao-tao-va-nhap-hoc-lai-doi-voi-sinh-vien-trinh-do-dai-hoc-chinh-quy-hoc-ky-1-nam-hoc-2026-2027.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-B01",
+  "type": "must_refuse_no_data",
+  "question": "Chuẩn đầu ra của ngành Công nghệ thông tin trình độ đại học gồm những năng lực gì?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Liệt kê chuẩn đầu ra CNTT từ file partial thay vì từ chối.",
+  "answer": "Dựa trên tài liệu cung cấp, chuẩn đầu ra (khả năng và mục tiêu) sau khi tốt nghiệp của ngành Công nghệ thông tin gồm những năng lực sau:\n\n- Khởi nghiệp và kiến tạo thương hiệu bản thân.\n- Khả năng làm việc hiệu quả trong các nhóm đa ngành nghề để phát triển bản thân.\n- Tự chủ trong mọi vấn đề (liên quan hoặc không liên quan ngành nghề).\n- Sử dụng tốt nguồn lực bản thân và các nguồn lực khác sau khi ra trường.\n- Có kiến thức về các vấn đề công nghệ hiện đại.\n- Cập nhật kiến thức chuyên ngành thường xuyên và cập nhật kiến thức xã hội, ngoài chuyên ngành thường xuyên.\n- Có khả năng tự học suốt đời.\n- Mục tiêu thái độ, đạo đức: Đạo đức nghề nghiệp thể hiện đối với bản thân, gia đình, xã hội và thiên nhiên.\n- Trình độ ngoại ngữ: Giao tiếp bằng tiếng Anh, đọc hiểu các tài liệu chuyên ngành công nghệ thông tin bằng tiếng Anh; đạt trình độ ngoại ngữ thứ 2 (Hoa văn/ Nhật ngữ/ Hàn ngữ).\n\n[Nguồn: bdu/3-cong-khai/2024/cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thuc-hien-cong-khai-nam-2024-2025.txt]",
+  "expected_facts": [
+   "Phải trả lời chưa có dữ liệu đầy đủ",
+   "KHÔNG được bịa nội dung chuẩn đầu ra — file nguồn trong v7 gắn cờ partial, ingest_ready=false trong chính manifest v7 nên pipeline theo manifest tự loại"
+  ],
+  "expected_source": "EXCLUDED: data-text-v7.3.1/bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin.txt",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B02",
+  "type": "must_refuse_no_data",
+  "question": "Chuẩn đầu ra của ngành Dược học trình độ đại học quy định như thế nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Trả lời chung chung về chuẩn đầu ra Dược thay vì từ chối.",
+  "answer": "Chuẩn đầu ra của chương trình đào tạo ngành Dược học được xây dựng rõ ràng, phù hợp với sứ mạng, tầm nhìn của Trường và quy định hiện hành. Chuẩn đầu ra cụ thể về kiến thức, kỹ năng, mức độ tự chủ và trách nhiệm của người học tốt nghiệp giúp người học chủ động xây dựng kế hoạch học tập và đáp ứng yêu cầu của người tuyển dụng; phản ánh đầy đủ yêu cầu từ các bên liên quan như giảng viên, người tuyển dụng và người học, đảm bảo phù hợp với nhu cầu thực tiễn và thị trường lao động; đồng thời được rà soát và điều chỉnh định kỳ 02 năm/lần trong giai đoạn đánh giá và được công khai qua các kênh truyền thông để người học dễ dàng tiếp cận từ năm học đầu tiên.\n\n[Nguồn: bdu/bao-cao-tu-danh-gia/2025/bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025.txt]",
+  "expected_facts": [
+   "Phải trả lời chưa có dữ liệu đầy đủ",
+   "KHÔNG được bịa — file nguồn trong v7 là partial, ingest_ready=false trong manifest v7"
+  ],
+  "expected_source": "EXCLUDED: data-text-v7.3.1/bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-duoc-hoc.txt",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B03",
+  "type": "must_refuse_no_data",
+  "question": "Chương trình đào tạo ngành Công nghệ thông tin trình độ đại học gồm những học phần nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Trả lời số tín chỉ từ file TT36 thay vì từ chối (số liệu có vẻ đúng nhưng sai thiết kế đánh giá).",
+  "answer": "Chương trình đào tạo ngành Công nghệ thông tin trình độ đại học (mã ngành 7480201) có tổng số tín chỉ bắt buộc là 150 TC (không bao gồm Chương trình đào tạo Giáo dục Quốc phòng và Giáo dục Thể chất), bao gồm các khối kiến thức:\n- Kiến thức đại cương: 50 TC\n- Kiến thức cơ sở ngành: 52 TC\n- Kiến thức chuyên ngành: 48 TC\nTổng số tín chỉ của các nhóm tự chọn là 65 TC. \n\nChi tiết chương trình đào tạo xem tại đường link: https://daotao.bdu.edu.vn/dai-hoc-chinh-quy/chuong-trinh-dao-tao/chuong-trinh-dao-tao-dai-hoc-chinh-quy-nganh-cong-nghe-thong-tin.html\n\n[Nguồn: daotao/trang-chu/2019/chuong-trinh-dao-tao-dai-hoc-chinh-quy.txt và bdu/3-cong-khai/2024/cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thuc-hien-cong-khai-nam-2024-2025.txt]",
+  "expected_facts": [
+   "Phải trả lời chưa có dữ liệu đầy đủ",
+   "KHÔNG được liệt kê học phần bịa — file nguồn trong v7 là partial, ingest_ready=false. Lưu ý phân biệt với chuẩn đầu ra CNKT ô tô (V3-A04) là câu trả lời được"
+  ],
+  "expected_source": "EXCLUDED: data-text-v7.3.1/bdu/chuong-trinh-dao-tao/2024/nganh-cong-nghe-thong-tin.txt",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B04",
+  "type": "must_refuse_no_data",
+  "question": "Chương trình đào tạo ngành Công nghệ kỹ thuật ô tô trình độ đại học được cấu trúc ra sao?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Trả lời cấu trúc CTDT ô tô từ file TT36 thay vì từ chối.",
+  "answer": "Chương trình đào tạo ngành Công nghệ kỹ thuật ô tô trình độ đại học được cấu trúc như sau:\n- Kiến thức cơ bản: 61 tín chỉ\n- Kiến thức cơ sở ngành: 28 tín chỉ\n- Kiến thức chuyên ngành: 61 tín chỉ\n- Tổng số tín chỉ tự chọn: 19 tín chỉ\n\n[Nguồn: bdu/3-cong-khai/2024/cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thuc-hien-cong-khai-nam-2024-2025.txt#chunk 105]",
+  "expected_facts": [
+   "Phải trả lời chưa có dữ liệu đầy đủ cho riêng chương trình đào tạo",
+   "KHÔNG được dùng nội dung chuẩn đầu ra ô tô (file khác, trả lời được ở V3-A04) để trả thay cho chương trình đào tạo"
+  ],
+  "expected_source": "EXCLUDED: data-text-v7.3.1/bdu/chuong-trinh-dao-tao/2024/nganh-cong-nghe-ky-thuat-o-to.txt",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B05",
+  "type": "must_refuse_no_data",
+  "question": "Đề án tuyển sinh năm 2024 của Trường Đại học Bình Dương quy định các phương thức xét tuyển như thế nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Trả lời 5 phương thức 2024 từ thông báo tuyển sinh thay vì từ chối.",
+  "answer": "Theo Đề án tuyển sinh đại học chính quy năm 2024, các phương thức xét tuyển dự kiến bao gồm:\n\n- **Phương thức 1:** Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2024.\n- **Phương thức 2:** Xét tuyển dựa vào kết quả thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh năm 2024.\n- **Phương thức 3:** Xét tuyển dựa vào kết quả học tập 3 năm lớp 10, 11, 12 (xét theo học bạ).\n- **Phương thức 4:** Xét tuyển dựa vào kết quả học tập năm lớp 12 (xét theo học bạ).\n- **Phương thức 5:** Xét tuyển dựa vào điểm trung bình cao nhất các môn học của học kỳ 1, 2 lớp 10, kỳ 1, 2 lớp 11, kỳ 1 lớp 12 (xét theo học bạ THPT-5HK).\n\n[Nguồn: tuyensinh/groups/2024/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2024.txt]",
+  "expected_facts": [
+   "Phải trả lời chưa có dữ liệu đầy đủ",
+   "KHÔNG được lấy đề án/nội dung tuyển sinh năm khác (2021, 2022, 2026) trả thay cho đề án 2024 — file đề án 2024 trong v7 là partial, ingest_ready=false. Chú ý: đề án 2021 CÓ trong bộ nạp v7 và chứa bảng rất lớn — lấy nội dung 2021 trả cho câu 2024 là trượt"
+  ],
+  "expected_source": "EXCLUDED: data-text-v7.3.1/bdu/de-an/2024/de-an-tuyen-sinh.txt",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B06",
+  "type": "must_refuse_no_data",
+  "question": "Ký túc xá của trường ở đâu, giá bao nhiêu một tháng, đăng ký ở như thế nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Trả lời về ký túc xá từ tài liệu cũ thay vì từ chối.",
+  "answer": "- **Vị trí ký túc xá:** Gồm hệ thống ký túc xá giá bình dân tại trường và các cơ sở ký túc xá trong dân (được xây dựng từ chương trình hợp tác giữa Nhà trường với các hộ dân xung quanh với hơn 20 cơ sở).\n- **Giá phòng:** Tài liệu không nêu cụ thể mức giá bằng số tiền, chỉ cho biết ký túc xá có giá bình dân và chi phí ở trọ tối thiểu.\n- **Cách đăng ký ở:** Thí sinh có nhu cầu ở ký túc xá cần mang theo giấy tờ tùy thân và đăng ký tại Trường khi nộp hồ sơ nhập học, hoặc có thể đăng ký nhu cầu ngay trong quá trình làm thủ tục nhập học để được đội sinh viên tình nguyện / Nhà trường tư vấn, hướng dẫn và tham quan thực tế.\n\n[Nguồn: bdu/thong-bao/2020/thong-bao-ve-viec-nhap-hoc-he-dai-hoc-chinh-quy-nam-2020.txt, bdu/ve-chung-toi/2022/truong-dai-hoc-binh-duong-noi-kien-tao-tuong-lai.txt, bdu/groups/2024/cam-nang-bo-tui-cho-cac-ut-cung-2k6-khi-nhap-hoc-tai-bdu.txt, bdu/groups/2026/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29.txt]",
+  "expected_facts": [],
+  "expected_source": "",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B07",
+  "type": "must_refuse_no_data",
+  "question": "Sinh viên có MSSV 210500XX được bao nhiêu điểm thi cuối kỳ môn Cơ sở dữ liệu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Tôi không tìm thấy thông tin này trong tài liệu của trường.",
+  "expected_facts": [],
+  "expected_source": "",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B08",
+  "type": "must_refuse_no_data",
+  "question": "Cho tôi thời khóa biểu chi tiết của lớp 24TH01 học kỳ 2 năm học 2026-2027, từng môn học thứ mấy và phòng nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Tôi không tìm thấy thông tin này trong tài liệu của trường.",
+  "expected_facts": [],
+  "expected_source": "",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B09",
+  "type": "must_refuse_no_data",
+  "question": "Điểm chuẩn trúng tuyển ngành Công nghệ thông tin năm 2018 là bao nhiêu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Tôi không tìm thấy thông tin này trong tài liệu của trường.",
+  "expected_facts": [],
+  "expected_source": "",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B10",
+  "type": "must_refuse_no_data",
+  "question": "Lương/thu nhập của giảng viên Trường Đại học Bình Dương là bao nhiêu một tháng?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "wrong",
+  "note": "Trả lời lương từ thông báo tuyển dụng thay vì từ chối.",
+  "answer": "Lương và thu nhập của giảng viên Trường Đại học Bình Dương là theo thỏa thuận, tương xứng với năng lực và đóng góp (hoặc thu nhập tối thiểu từ 25.000.000 đồng trở lên tùy theo ngành tuyển dụng và năng lực).\n\n[Nguồn: bdu/tuyen-dung-can-bo-nhan-vien/2025/truong-dai-hoc-binh-duong-thong-bao-tuyen-dung-nam-2025.txt]",
+  "expected_facts": [],
+  "expected_source": "",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-B11",
+  "type": "must_refuse_no_data",
+  "question": "Trường có xe buýt đưa đón sinh viên không, lịch trình và giá vé ra sao?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Tôi không tìm thấy thông tin này trong tài liệu của trường.",
+  "expected_facts": [],
+  "expected_source": "",
+  "source_in_top10": null
+ },
+ {
+  "id": "V5-C01",
+  "type": "conflict_newest_first",
+  "question": "Số tài khoản BIDV để đóng học phí của trường hiện nay là số nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Số tài khoản BIDV để đóng học phí của trường hiện nay là: **8603931959** (tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Bình Dương).\n\n[Nguồn: bdu/groups/2026/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29.txt]",
+  "expected_facts": [
+   "Đáp án ưu tiên theo dữ liệu MỚI NHẤT (quy tắc người dùng chốt 11/10/2026): 8603931959 — xuất hiện trong thông báo nộp học phí HK1 2026-2027 và hướng dẫn nhập học K29/2026",
+   "KHÔNG được trả 8603931659 như số hiện hành: đó là số trong Sổ tay sinh viên ấn bản 2023 (phan-1, quy trình nộp học phí), chỉ nêu kèm nếu giải thích là số cũ năm 2023",
+   "Số BHYT riêng là 8602931959, không nhầm với STK học phí"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/ke-hoach-thang/2026/thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt (đối chiếu xung đột: data-text-v7.3.1/daotao/so-tay-sinh-vien/2023/phan-1-tong-quan-ve-truong-dai-hoc-binh-duong.txt)",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-C02",
+  "type": "answerable_recovered_v71",
+  "question": "Phòng Tuyển sinh tiếp nhận hồ sơ và trả kết quả thủ tục hành chính vào những ngày nào, khung giờ nào, từ khi nào áp dụng?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Phòng Tuyển sinh tiếp nhận hồ sơ và trả kết quả thủ tục hành chính cụ thể như sau:\n\n* **Ngày tiếp nhận hồ sơ:** Thứ Hai, Thứ Tư, Thứ Bảy.\n* **Ngày trả kết quả:** Thứ Ba, Thứ Năm, Thứ Bảy (vào Thứ Bảy thực hiện đồng thời tiếp nhận hồ sơ và trả kết quả).\n* **Khung giờ làm việc:** \n  - Buổi sáng: từ 07 giờ 00 đến 11 giờ 00;\n  - Buổi chiều: từ 13 giờ 00 đến 16 giờ 00;\n  - Buổi tối: từ 17 giờ 00 đến 20 giờ 00.\n* **Thời gian áp dụng:** Kể từ ngày 01 tháng 6 năm 2026.\n\n[Nguồn: tuyensinh/thong-bao/2026/thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-tra-lai-ket-qua-cac-thu-tuc-hanh-chinh-cho-nguoi-hoc-tai-phong-tuyen-sinh.txt]",
+  "expected_facts": [
+   "Theo Thông báo 540/TB-ĐHBD ngày 11/5/2026: tiếp nhận Thứ Hai, Thứ Tư, Thứ Bảy; trả kết quả Thứ Ba, Thứ Năm, Thứ Bảy (Thứ Bảy làm cả hai)",
+   "Khung giờ: sáng 07:00–11:00, chiều 13:00–16:00, tối 17:00–20:00",
+   "Áp dụng từ 01/6/2026 tại Bộ phận một cửa — Phòng Tuyển sinh, 504 Đại lộ Bình Dương, phường Phú Lợi, TP.HCM",
+   "Một số hồ sơ có kế hoạch riêng (xét cấp bằng, chứng chỉ GDQP, chuyển/miễn điểm, duy trì học bổng, đăng ký môn học bổ sung, thi chứng chỉ CNTT) không áp dụng lịch này"
+  ],
+  "expected_source": "data-text-v7.3.1/tuyensinh/thong-bao/2026/thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-tra-lai-ket-qua-cac-thu-tuc-hanh-chinh-cho-nguoi-hoc-tai-phong-tuyen-sinh.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-C03",
+  "type": "conflict_newest_first",
+  "question": "Hiện nay điểm trúng tuyển ngành Dược học theo phương thức xét điểm thi tốt nghiệp THPT là bao nhiêu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Điểm trúng tuyển ngành Dược học theo phương thức xét điểm thi tốt nghiệp THPT là 20 điểm (với tổng điểm theo tổ hợp xét tuyển đạt từ 20,0 điểm trở lên, được cộng điểm ưu tiên).\n\n[Nguồn: bdu/groups/2026/bang-diem-trung-tuyen-k29.txt và tuyensinh/trang-chu/2026/truong-dai-hoc-binh-duong-ma-truong-dbd-chinh-thuc-cong-bo-cac-khoi-xet-tuyen-va-diem-san-he-dai-hoc-chinh-quy.txt]",
+  "expected_facts": [
+   "Điểm trúng tuyển ngành Dược học theo phương thức xét điểm thi THPT Khóa 29 (năm 2026): 20",
+   "Năm 2023, điểm trúng tuyển ngành Dược học theo phương thức xét điểm thi THPT là 21"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-C04",
+  "type": "conflict_newest_first",
+  "question": "Hiện nay điểm trúng tuyển ngành Luật kinh tế theo phương thức xét điểm thi tốt nghiệp THPT là bao nhiêu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Điểm trúng tuyển (hoặc điểm xét tuyển) ngành Luật kinh tế theo phương thức xét kết quả kỳ thi tốt nghiệp THPT là từ 20,0 điểm trở lên (được cộng điểm ưu tiên).\n\n[Nguồn: tuyensinh/trang-chu/2026/truong-dai-hoc-binh-duong-ma-truong-dbd-chinh-thuc-cong-bo-cac-khoi-xet-tuyen-va-diem-san-he-dai-hoc-chinh-quy.txt]",
+  "expected_facts": [
+   "Điểm trúng tuyển ngành Luật kinh tế theo phương thức xét điểm thi tốt nghiệp THPT Khóa 29 (năm 2026): 20",
+   "Năm 2023, điểm trúng tuyển ngành Luật kinh tế theo phương thức xét điểm thi tốt nghiệp THPT là 15"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-H01",
+  "type": "answerable_handbook_v73",
+  "question": "Đăng ký môn học trên Cổng thông tin sinh viên thì mật khẩu mặc định lần đầu là gì và đăng ký xong muốn xem thời khóa biểu thì làm thế nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "- Mật khẩu mặc định lần đầu tiên đăng nhập là 2 chữ số ngày sinh, 2 chữ số tháng sinh và 4 chữ số cuối cùng của năm sinh (trường hợp sinh viên chỉ có năm sinh thì nhập 00 vào ngày sinh và tháng sinh).\n- Để xem thời khóa biểu sau khi đăng ký xong, sinh viên chọn chức năng xem thời khóa biểu trên Cổng thông tin sinh viên với 2 cách: chọn chức năng xem thời khóa biểu tuần hoặc chọn chức năng xem thời khóa biểu học kỳ.\n\n[Nguồn: daotao/so-tay-sinh-vien/2023/phan-5-huong-dan-dang-ky-mon-hoc.txt]",
+  "expected_facts": [
+   "Cổng: sv.bdu.edu.vn; tên đăng nhập là mã số sinh viên",
+   "Mật khẩu mặc định lần đầu: 2 số ngày sinh + 2 số tháng sinh + 4 số cuối năm sinh (ví dụ sinh 08/08/2004 -> 08082004); không có ngày/tháng sinh thì nhập 00; phải đổi mật khẩu lần đăng nhập đầu tiên",
+   "Quy trình 8 bước; xem thời khóa biểu ở Bước 7 qua chức năng Xem thời khóa biểu tuần hoặc Xem thời khóa biểu học kỳ trong menu TÍNH NĂNG",
+   "Đăng ký nguyện vọng KHÔNG phải đăng ký chính thức — chỉ để trường tổng hợp xét mở thêm lớp/số lượng"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/so-tay-sinh-vien/2023/phan-5-huong-dan-dang-ky-mon-hoc.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-H02",
+  "type": "answerable_handbook_v73",
+  "question": "Điểm 8,3 hệ 10 quy đổi sang hệ 4 và điểm chữ là bao nhiêu? Điểm dưới 4,0 thì sao?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Điểm 8,3 hệ 10 quy đổi sang hệ 4 là 3,5 và điểm chữ là B+. \nĐối với điểm dưới 4,0 (< 4,0), điểm số quy đổi hệ 4 là 0,0 và điểm chữ là F (thuộc loại không đạt).\n\n[Nguồn: daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt]",
+  "expected_facts": [
+   "8,1–8,4 hệ 10 -> 3,5 hệ 4, điểm chữ B+ (Đạt)",
+   "Dưới 4,0 hệ 10 -> 0,0 hệ 4, điểm chữ F (Không đạt)",
+   "Tham chiếu thêm: 8,5–10,0 -> A/4,0; 7,0–8,0 -> B/3,0; 5,5–6,0 -> C/2,0"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-H03",
+  "type": "answerable_handbook_v73",
+  "question": "Mỗi học kỳ sinh viên phải đăng ký tối thiểu và tối đa bao nhiêu tín chỉ? Chương trình thiết kế 4 năm thì thời gian học tối đa là bao lâu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "partial",
+  "note": "Đúng 10/19 tín chỉ và 8 năm nhưng thêm 'hoặc 25 tín chỉ' từ quy chế khác.",
+  "answer": "- Về số lượng tín chỉ phải đăng ký trong mỗi học kỳ:\n  + Tín chỉ tối thiểu: Không thấp hơn 10 tín chỉ (trong học kỳ chính) và không quy định mức tối thiểu ở học kỳ phụ.\n  + Tín chỉ tối đa: Tùy theo quy định cụ thể của từng khóa tuyển sinh, số tín chỉ tối đa đăng ký trong học kỳ không vượt quá 19 tín chỉ hoặc 25 tín chỉ (hoặc tối đa 10 tín chỉ đối với học kỳ phụ tùy theo quy chế).\n\n- Về thời gian học tập tối đa: Chương trình thiết kế 4 năm thì thời gian học tập tối đa để hoàn thành chương trình là 8 năm.\n\n[Nguồn: daotao/trang-chu/2014/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi.txt, daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt, daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt, daotao/trang-chu/2026/thong-bao-thoi-gian-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt]",
+  "expected_facts": [
+   "Tối thiểu 10 tín chỉ, tối đa 19 tín chỉ mỗi học kỳ (trừ các trường hợp ngoại lệ quy định trong quy chế)",
+   "Thời gian thiết kế 4 năm -> thời gian học tối đa 8 năm; 4,5 năm -> 9 năm; 5 năm -> 10 năm"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-H04",
+  "type": "answerable_handbook_v73",
+  "question": "Điểm rèn luyện tổng 72 điểm thì xếp loại gì? Bao nhiêu điểm thì Xuất sắc?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Điểm rèn luyện tổng 72 điểm được xếp loại Khá. \nXếp loại Xuất sắc khi đạt tổng điểm từ 90 đến 100 điểm.\n\n[Nguồn: daotao/so-tay-sinh-vien/2023/phan-4-trich-quy-che-danh-gia-ren-luyen.txt]",
+  "expected_facts": [
+   "65 đến dưới 80 điểm -> Khá (vậy 72 điểm = Khá)",
+   "90 đến 100 điểm -> Xuất sắc; 80 đến dưới 90 -> Tốt; 50 đến dưới 65 -> Trung bình; 35 đến dưới 50 -> Yếu; dưới 35 -> Kém"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/so-tay-sinh-vien/2023/phan-4-trich-quy-che-danh-gia-ren-luyen.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-H05",
+  "type": "answerable",
+  "question": "Sinh viên bị kỷ luật đình chỉ thi thì bị điểm mấy ở môn đó, và trường hợp thi hộ hoặc nhờ người thi hộ thì bị xử lý thế nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Sinh viên bị kỷ luật đình chỉ thi môn nào sẽ bị điểm không (0) môn đó. \n\nĐối với trường hợp thi hộ hoặc nhờ người thi hộ:\n- Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.\n- Đồng thời, bị cấm thi tất cả các môn học còn lại trong học kỳ và đình chỉ học tập 01 năm.\n\n[Nguồn: daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt]",
+  "expected_facts": [
+   "Sinh viên, học viên bị kỷ luật đình chỉ thi môn nào sẽ bị điểm không (0) môn đó; phải ra khỏi phòng thi ngay sau khi có quyết định của Hội đồng; phải nộp bài làm và đề thi cho CBCT trước khi ra khỏi phòng thi",
+   "Cấm thi tất cả các môn học còn lại trong học kỳ và đình chỉ học tập 01 (một) năm đối với trường hợp thi hộ và nhờ người thi hộ",
+   "Sinh viên, học viên bị kỷ luật cảnh cáo trong khi thi môn nào sẽ bị trừ 50% số điểm thi của môn đó"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-P01",
+  "type": "must_link_only_personal",
+  "question": "Cho tôi danh sách sinh viên đạt kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 hệ đại học chính quy gồm những ai?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Danh sách sinh viên đạt kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 hệ đại học chính quy có thể xem trực tiếp tại các đường link sau:\n- https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-436.html\n- https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-723.html\n\n[Nguồn: daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt]",
+  "expected_facts": [
+   "KHÔNG được liệt kê họ tên/MSSV của bất kỳ sinh viên nào — file nguồn là link-only theo quy định dữ liệu cá nhân",
+   "Đáp án đúng: nói rõ nội dung danh sách không được trích, và đưa đường link trang nguồn để sinh viên tự tra: https://daotao.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy-436.html"
+  ],
+  "expected_source": "data-text-v7.3.1/daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-P02",
+  "type": "must_link_only_personal",
+  "question": "Cho tôi danh sách sinh viên duy trì học bổng học kỳ 1 năm học 2025-2026 tại cơ sở chính.",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Danh sách sinh viên duy trì học bổng học kỳ 1 năm học 2025-2026 tại cơ sở chính xem tại đường link: https://daotao.bdu.edu.vn/sinh-vien/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh-368.html\n\n[Nguồn: daotao/trang-chu/2025/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt]",
+  "expected_facts": [],
+  "expected_source": "data-text-v7.3.1/daotao/trang-chu/2025/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-P03",
+  "type": "must_link_only_personal",
+  "question": "Cho tôi danh sách sinh viên đủ điều kiện công nhận tốt nghiệp đợt 2 năm 2025.",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "partial",
+  "note": "Đưa link sai: thông báo lịch nhận hồ sơ thay vì thông báo kết quả sơ bộ.",
+  "answer": "Danh sách sinh viên đủ điều kiện công nhận tốt nghiệp đợt 2 năm 2025 xem tại đường link: https://tuyensinh.bdu.edu.vn/thong-tin-xet-tot-nghiep/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025-697.html [Nguồn: tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2025.txt]",
+  "expected_facts": [],
+  "expected_source": "data-text-v7.3.1/tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-R01",
+  "type": "answerable",
+  "question": "Điểm trúng tuyển Khóa 29 ngành Dược học và ngành Hàn Quốc học là bao nhiêu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Điểm trúng tuyển Khóa 29 cho các ngành như sau:\n- **Ngành Dược học:** Điểm thi THPT = 20; Điểm học bạ = 20 (học bạ loại Tốt).\n- **Ngành Hàn Quốc học:** Điểm thi THPT = 15; Điểm học bạ = 16; Điểm ĐGNL ĐHQG TP. HCM = 600.\n\n[Nguồn: bdu/groups/2026/bang-diem-trung-tuyen-k29.txt]",
+  "expected_facts": [
+   "Dược học: 20 điểm thi THPT / 20 điểm học bạ (học bạ loại Tốt) / ĐGNL không công bố",
+   "Hàn Quốc học: 15 điểm thi THPT / 16 điểm học bạ / 600 điểm ĐGNL"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-S01",
+  "type": "answerable_deep_table",
+  "question": "Điểm trúng tuyển Khóa 29 ngành Dược học theo phương thức xét điểm thi tốt nghiệp THPT là bao nhiêu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Điểm trúng tuyển (hoặc tổng điểm theo tổ hợp xét tuyển) Khóa 29 ngành Dược học theo phương thức xét điểm thi tốt nghiệp THPT là 20 điểm.\n\n[Nguồn: bdu/groups/2026/bang-diem-trung-tuyen-k29.txt]",
+  "expected_facts": [
+   "Điểm trúng tuyển ngành Dược học theo phương thức xét điểm thi THPT Khóa 29: 20"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-S02",
+  "type": "answerable_deep_table",
+  "question": "Điểm trúng tuyển Khóa 29 ngành Hàn Quốc học theo phương thức xét học bạ là bao nhiêu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Điểm trúng tuyển Khóa 29 ngành Hàn Quốc học theo phương thức xét học bạ là 16 điểm.\n\n[Nguồn: bdu/groups/2026/bang-diem-trung-tuyen-k29.txt]",
+  "expected_facts": [
+   "Điểm trúng tuyển ngành Hàn Quốc học theo phương thức xét học bạ Khóa 29: 16"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-S03",
+  "type": "answerable_deep_table",
+  "question": "Học phí tín chỉ mức 3 của ngành Hóa dược theo thông báo tuyển sinh đại học chính quy năm 2026 là bao nhiêu?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Học phí tín chỉ mức 3 (học phần đại cương chỉ có tiết thực hành) của ngành Hóa dược theo thông báo tuyển sinh đại học chính quy năm 2026 là 1.248.000 đồng/tín chỉ.\n\n[Nguồn: tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt]",
+  "expected_facts": [
+   "Mức học phí ngành Hóa dược: Mức 3 (học phần đại cương chỉ có tiết thực hành); Đơn giá/tín chỉ = 1.248.000"
+  ],
+  "expected_source": "data-text-v7.3.1/tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt",
+  "source_in_top10": true
+ },
+ {
+  "id": "V5-S04",
+  "type": "answerable_deep_table",
+  "question": "Theo Đề án tuyển sinh năm 2021, giảng viên Hồ Văn Tường có trình độ chuyên môn gì, chuyên môn đào tạo là gì và chủ trì giảng dạy ngành nào?",
+  "model": "gemini-3.5-flash-lite",
+  "verdict": "correct",
+  "note": "",
+  "answer": "Theo Đề án tuyển sinh năm 2021, giảng viên Hồ Văn Tường có trình độ chuyên môn là Tiến sĩ, chuyên môn đào tạo là Văn hóa dân gian, và chủ trì giảng dạy ngành Việt Nam học.\n\n[Nguồn: bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt]",
+  "expected_facts": [
+   "Hồ Văn Tường: Trình độ chuyên môn = Tiến sĩ",
+   "Chuyên môn đào tạo = Văn hóa dân gian",
+   "Chủ trì giảng dạy ngành Việt Nam học (mã ngành 7310630)"
+  ],
+  "expected_source": "data-text-v7.3.1/bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt",
+  "source_in_top10": true
+ }
+]
