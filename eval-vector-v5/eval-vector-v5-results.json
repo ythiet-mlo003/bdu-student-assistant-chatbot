@@ -1,0 +1,1316 @@
+{
+ "summary": {
+  "bm25": {
+   "method": "bm25",
+   "n": 36,
+   "rank1": 22,
+   "hit@3": 30,
+   "hit@5": 32,
+   "hit@10": 34,
+   "mrr": 0.725,
+   "by_type": {
+    "answerable": {
+     "n": 22,
+     "rank1": 12,
+     "top10": 21
+    },
+    "answerable_deep_table": {
+     "n": 4,
+     "rank1": 4,
+     "top10": 4
+    },
+    "answerable_handbook_v73": {
+     "n": 4,
+     "rank1": 3,
+     "top10": 4
+    },
+    "answerable_recovered_v71": {
+     "n": 1,
+     "rank1": 1,
+     "top10": 1
+    },
+    "answerable_regression_user_flagged": {
+     "n": 2,
+     "rank1": 2,
+     "top10": 2
+    },
+    "conflict_newest_first": {
+     "n": 3,
+     "rank1": 0,
+     "top10": 2
+    }
+   }
+  },
+  "bge-m3": {
+   "method": "bge-m3",
+   "n": 36,
+   "rank1": 24,
+   "hit@3": 31,
+   "hit@5": 34,
+   "hit@10": 35,
+   "mrr": 0.773,
+   "by_type": {
+    "answerable": {
+     "n": 22,
+     "rank1": 15,
+     "top10": 21
+    },
+    "answerable_deep_table": {
+     "n": 4,
+     "rank1": 4,
+     "top10": 4
+    },
+    "answerable_handbook_v73": {
+     "n": 4,
+     "rank1": 3,
+     "top10": 4
+    },
+    "answerable_recovered_v71": {
+     "n": 1,
+     "rank1": 1,
+     "top10": 1
+    },
+    "answerable_regression_user_flagged": {
+     "n": 2,
+     "rank1": 1,
+     "top10": 2
+    },
+    "conflict_newest_first": {
+     "n": 3,
+     "rank1": 0,
+     "top10": 3
+    }
+   }
+  },
+  "e5-large": {
+   "method": "e5-large",
+   "n": 36,
+   "rank1": 21,
+   "hit@3": 31,
+   "hit@5": 31,
+   "hit@10": 34,
+   "mrr": 0.718,
+   "by_type": {
+    "answerable": {
+     "n": 22,
+     "rank1": 14,
+     "top10": 21
+    },
+    "answerable_deep_table": {
+     "n": 4,
+     "rank1": 2,
+     "top10": 4
+    },
+    "answerable_handbook_v73": {
+     "n": 4,
+     "rank1": 2,
+     "top10": 4
+    },
+    "answerable_recovered_v71": {
+     "n": 1,
+     "rank1": 1,
+     "top10": 1
+    },
+    "answerable_regression_user_flagged": {
+     "n": 2,
+     "rank1": 2,
+     "top10": 2
+    },
+    "conflict_newest_first": {
+     "n": 3,
+     "rank1": 0,
+     "top10": 2
+    }
+   }
+  },
+  "hybrid_bm25+bge": {
+   "method": "hybrid_bm25+bge",
+   "n": 36,
+   "rank1": 27,
+   "hit@3": 31,
+   "hit@5": 34,
+   "hit@10": 36,
+   "mrr": 0.827,
+   "by_type": {
+    "answerable": {
+     "n": 22,
+     "rank1": 16,
+     "top10": 22
+    },
+    "answerable_deep_table": {
+     "n": 4,
+     "rank1": 4,
+     "top10": 4
+    },
+    "answerable_handbook_v73": {
+     "n": 4,
+     "rank1": 3,
+     "top10": 4
+    },
+    "answerable_recovered_v71": {
+     "n": 1,
+     "rank1": 1,
+     "top10": 1
+    },
+    "answerable_regression_user_flagged": {
+     "n": 2,
+     "rank1": 2,
+     "top10": 2
+    },
+    "conflict_newest_first": {
+     "n": 3,
+     "rank1": 1,
+     "top10": 3
+    }
+   }
+  },
+  "hybrid_bm25+e5": {
+   "method": "hybrid_bm25+e5",
+   "n": 36,
+   "rank1": 27,
+   "hit@3": 31,
+   "hit@5": 32,
+   "hit@10": 35,
+   "mrr": 0.82,
+   "by_type": {
+    "answerable": {
+     "n": 22,
+     "rank1": 16,
+     "top10": 21
+    },
+    "answerable_deep_table": {
+     "n": 4,
+     "rank1": 4,
+     "top10": 4
+    },
+    "answerable_handbook_v73": {
+     "n": 4,
+     "rank1": 3,
+     "top10": 4
+    },
+    "answerable_recovered_v71": {
+     "n": 1,
+     "rank1": 1,
+     "top10": 1
+    },
+    "answerable_regression_user_flagged": {
+     "n": 2,
+     "rank1": 2,
+     "top10": 2
+    },
+    "conflict_newest_first": {
+     "n": 3,
+     "rank1": 1,
+     "top10": 3
+    }
+   }
+  },
+  "hybrid_bm25+bge+e5": {
+   "method": "hybrid_bm25+bge+e5",
+   "n": 36,
+   "rank1": 25,
+   "hit@3": 31,
+   "hit@5": 36,
+   "hit@10": 36,
+   "mrr": 0.804,
+   "by_type": {
+    "answerable": {
+     "n": 22,
+     "rank1": 14,
+     "top10": 22
+    },
+    "answerable_deep_table": {
+     "n": 4,
+     "rank1": 4,
+     "top10": 4
+    },
+    "answerable_handbook_v73": {
+     "n": 4,
+     "rank1": 3,
+     "top10": 4
+    },
+    "answerable_recovered_v71": {
+     "n": 1,
+     "rank1": 1,
+     "top10": 1
+    },
+    "answerable_regression_user_flagged": {
+     "n": 2,
+     "rank1": 2,
+     "top10": 2
+    },
+    "conflict_newest_first": {
+     "n": 3,
+     "rank1": 1,
+     "top10": 3
+    }
+   }
+  }
+ },
+ "detail": [
+  {
+   "id": "V5-A01",
+   "type": "answerable",
+   "target": "daotao/ke-hoach-thang/2026/thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+   "question": "Thời gian nộp học phí học kỳ 1 năm học 2026-2027 cho sinh viên đại học chính quy",
+   "bm25": 1,
+   "bge-m3": 2,
+   "e5-large": 2,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 2,
+   "top1_bge": "thong-bao-thoi-gian-dang-ky-hoc-phan-hoc-ky-1#7",
+   "top1_e5": "thong-bao-thoi-gian-dang-ky-hoc-phan-hoc-ky-1#7",
+   "top1_bm25": "thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-#3",
+   "sim_top1_bge": 0.793,
+   "sim_top1_e5": 0.926
+  },
+  {
+   "id": "V5-A02",
+   "type": "answerable",
+   "target": "daotao/thong-bao/2026/thong-bao-trien-khai-hoc-phan-giao-duc-quoc-phong-va-an-ninh-4-hoc-phan-4-trong-hoc-ky-1-nam-hoc-2026-2027.txt",
+   "question": "Học phần Giáo dục quốc phòng và an ninh 4 trong học kỳ 1 năm học 2026-2027 học t",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-trien-khai-hoc-phan-giao-duc-quoc-p#1",
+   "top1_e5": "thong-bao-trien-khai-hoc-phan-giao-duc-quoc-p#1",
+   "top1_bm25": "thong-bao-trien-khai-hoc-phan-giao-duc-quoc-p#1",
+   "sim_top1_bge": 0.794,
+   "sim_top1_e5": 0.927
+  },
+  {
+   "id": "V5-A03",
+   "type": "answerable",
+   "target": "bdu/groups/2026/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29.txt",
+   "question": "Tân sinh viên Khóa 29 cần nhập học trước mốc nào để đảm bảo quyền lợi học bổng c",
+   "bm25": 1,
+   "bge-m3": null,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 8,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 5,
+   "top1_bge": "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chin#6",
+   "top1_e5": "bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu#0",
+   "top1_bm25": "bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu#0",
+   "sim_top1_bge": 0.676,
+   "sim_top1_e5": 0.881
+  },
+  {
+   "id": "V5-A04",
+   "type": "answerable",
+   "target": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to.txt",
+   "question": "Chuẩn đầu ra chương trình đào tạo ngành Công nghệ kỹ thuật ô tô gồm những khối k",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#10",
+   "top1_e5": "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#10",
+   "top1_bm25": "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#10",
+   "sim_top1_bge": 0.741,
+   "sim_top1_e5": 0.895
+  },
+  {
+   "id": "V5-A05",
+   "type": "answerable_regression_user_flagged",
+   "target": "tuyensinh/dai-hoc-chinh-quy/2025/huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-le-phi-nhap-hoc-bao-hiem-y-te-nam-2025.txt",
+   "question": "Tân sinh viên Khóa 28 phải nộp lệ phí nhập học và bảo hiểm y tế bao nhiêu, và kh",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-#4",
+   "top1_e5": "huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-#4",
+   "top1_bm25": "huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-#4",
+   "sim_top1_bge": 0.777,
+   "sim_top1_e5": 0.919
+  },
+  {
+   "id": "V5-A06",
+   "type": "answerable_regression_user_flagged",
+   "target": "bdu/ve-chung-toi/2015/lich-su-hinh-thanh-va-phat-trien.txt",
+   "question": "Trường Đại học Bình Dương có những hình thức đào tạo và cấp đào tạo nào theo bài",
+   "bm25": 1,
+   "bge-m3": 5,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "truong-dai-hoc-binh-duong-trao-bang-tot-nghie#1",
+   "top1_e5": "lich-su-hinh-thanh-va-phat-trien.txt#1",
+   "top1_bm25": "lich-su-hinh-thanh-va-phat-trien.txt#0",
+   "sim_top1_bge": 0.717,
+   "sim_top1_e5": 0.886
+  },
+  {
+   "id": "V5-A07",
+   "type": "answerable",
+   "target": "tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt",
+   "question": "Học phí 1 tín chỉ ngành Dược học năm 2026 là bao nhiêu cho từng mức (học phần đạ",
+   "bm25": 2,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#22",
+   "top1_e5": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#22",
+   "top1_bm25": "tuyen-sinh-trinh-do-dai-hoc-hinh-thuc-dao-tao#24",
+   "sim_top1_bge": 0.851,
+   "sim_top1_e5": 0.921
+  },
+  {
+   "id": "V5-A08",
+   "type": "answerable",
+   "target": "tuyensinh/groups/2024/chinh-sach-hoc-bong-cho-tan-sinh-vien-trung-tuyen-he-dai-hoc-chinh-quy-nam-2024-hoc-tai-binh-duong.txt",
+   "question": "Theo Quyết định 935/QĐ-ĐHBD, người học là anh, chị, em ruột cùng học tại Trường ",
+   "bm25": 3,
+   "bge-m3": 2,
+   "e5-large": 3,
+   "hybrid_bm25+bge": 3,
+   "hybrid_bm25+e5": 3,
+   "hybrid_bm25+bge+e5": 3,
+   "top1_bge": "quyet-dinh-ban-hanh-muc-uu-dai-hoc-phi-danh-c#1",
+   "top1_e5": "quyet-dinh-ban-hanh-muc-uu-dai-hoc-phi-danh-c#1",
+   "top1_bm25": "quyet-dinh-ban-hanh-muc-uu-dai-hoc-phi-danh-c#1",
+   "sim_top1_bge": 0.792,
+   "sim_top1_e5": 0.886
+  },
+  {
+   "id": "V5-A09",
+   "type": "answerable",
+   "target": "daotao/trang-chu/2026/thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-sinh-vien-khoa-29-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+   "question": "Hạn nộp hồ sơ xét học bổng tân sinh viên Khóa 29 tại cơ sở chính là khi nào và n",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-si#1",
+   "top1_e5": "thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-si#4",
+   "top1_bm25": "thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-si#1",
+   "sim_top1_bge": 0.747,
+   "sim_top1_e5": 0.896
+  },
+  {
+   "id": "V5-A10",
+   "type": "answerable",
+   "target": "tuyensinh/groups/2025/chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chinh-quy-khoa-28-trung-tuyen-nam-2025.txt",
+   "question": "Sinh viên Khóa 28 muốn duy trì học bổng cần đạt điều kiện gì về điểm trung bình,",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 2,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chin#6",
+   "top1_e5": "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-dai-#2",
+   "top1_bm25": "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chin#6",
+   "sim_top1_bge": 0.744,
+   "sim_top1_e5": 0.893
+  },
+  {
+   "id": "V5-A11",
+   "type": "answerable",
+   "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+   "question": "Sinh viên cần đáp ứng những điều kiện nào để được xét và công nhận tốt nghiệp?",
+   "bm25": 10,
+   "bge-m3": 3,
+   "e5-large": null,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": 4,
+   "top1_bge": "gioi-thieu-sach-xay-dung-nen-giao-duc-mo.txt#127",
+   "top1_e5": "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#2933",
+   "top1_bm25": "nen-chon-nganh-luat-hay-luat-kinh-te-nhung-di#2",
+   "sim_top1_bge": 0.727,
+   "sim_top1_e5": 0.854
+  },
+  {
+   "id": "V5-A12",
+   "type": "answerable",
+   "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+   "question": "Xếp loại tốt nghiệp được xác định như thế nào theo điểm trung bình tích lũy (tha",
+   "bm25": 2,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#26",
+   "top1_e5": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#26",
+   "top1_bm25": "thong-bao-tuyen-sinh-lien-thong-tu-tccn-cao-d#1",
+   "sim_top1_bge": 0.68,
+   "sim_top1_e5": 0.867
+  },
+  {
+   "id": "V5-A13",
+   "type": "answerable",
+   "target": "daotao/tot-nghiep/2026/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-2-nam-2026.txt",
+   "question": "Lịch nộp hồ sơ xét tốt nghiệp đợt 2 năm 2026 là khi nào và nộp bằng những hình t",
+   "bm25": 3,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-to#2",
+   "top1_e5": "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-to#2",
+   "top1_bm25": "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-ca#2",
+   "sim_top1_bge": 0.776,
+   "sim_top1_e5": 0.901
+  },
+  {
+   "id": "V5-A14",
+   "type": "answerable",
+   "target": "daotao/sinh-vien/2024/quyet-dinh-ban-hanh-quy-dinh-chuan-dau-vao-chuan-dau-ra-trinh-do-ngoai-ngu-tai-truong-dai-hoc-binh-duong.txt",
+   "question": "Chuẩn đầu ra ngoại ngữ trình độ đại học tại Trường Đại học Bình Dương yêu cầu bậ",
+   "bm25": 2,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "quyet-dinh-ban-hanh-quy-dinh-chuan-dau-vao-ch#20",
+   "top1_e5": "quyet-dinh-ban-hanh-quy-dinh-chuan-dau-vao-ch#20",
+   "top1_bm25": "bdu-tuyen-sinh-trinh-do-thac-si-dot-3-nam-202#4",
+   "sim_top1_bge": 0.803,
+   "sim_top1_e5": 0.914
+  },
+  {
+   "id": "V5-A15",
+   "type": "answerable",
+   "target": "daotao/ke-hoach-thang/2025/thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-nam-hoc-2025-2026-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+   "question": "Sinh viên muốn đăng ký bổ sung hoặc hủy đăng ký môn học học kỳ 2 năm học 2025-20",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-#8",
+   "top1_e5": "thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-#8",
+   "top1_bm25": "thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-#8",
+   "sim_top1_bge": 0.82,
+   "sim_top1_e5": 0.914
+  },
+  {
+   "id": "V5-A16",
+   "type": "answerable",
+   "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+   "question": "Sinh viên được xin nghỉ học tạm thời và bảo lưu kết quả đã học trong những trườn",
+   "bm25": 4,
+   "bge-m3": 5,
+   "e5-large": 8,
+   "hybrid_bm25+bge": 5,
+   "hybrid_bm25+e5": 6,
+   "hybrid_bm25+bge+e5": 5,
+   "top1_bge": "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#4",
+   "top1_e5": "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#3",
+   "top1_bm25": "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#1",
+   "sim_top1_bge": 0.783,
+   "sim_top1_e5": 0.903
+  },
+  {
+   "id": "V5-A17",
+   "type": "answerable",
+   "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+   "question": "Sinh viên được xem xét chuyển sang học một chương trình, một ngành đào tạo khác ",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#35",
+   "top1_e5": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#35",
+   "top1_bm25": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#35",
+   "sim_top1_bge": 0.765,
+   "sim_top1_e5": 0.893
+  },
+  {
+   "id": "V5-A18",
+   "type": "answerable",
+   "target": "daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt",
+   "question": "Sinh viên muốn phúc khảo bài thi cuối kỳ thì nộp đơn trong thời hạn bao lâu, lệ ",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 3,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 2,
+   "hybrid_bm25+bge+e5": 2,
+   "top1_bge": "quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-#29",
+   "top1_e5": "phan-1-tong-quan-ve-truong-dai-hoc-binh-duong#28",
+   "top1_bm25": "quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-#28",
+   "sim_top1_bge": 0.757,
+   "sim_top1_e5": 0.881
+  },
+  {
+   "id": "V5-A19",
+   "type": "answerable",
+   "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+   "question": "Sinh viên bị điểm F hoặc vắng thi không có lý do chính đáng thì bị xử lý thế nào",
+   "bm25": null,
+   "bge-m3": 2,
+   "e5-large": 3,
+   "hybrid_bm25+bge": 8,
+   "hybrid_bm25+e5": 8,
+   "hybrid_bm25+bge+e5": 5,
+   "top1_bge": "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-ca#2",
+   "top1_e5": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#12",
+   "top1_bm25": "thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot#2",
+   "sim_top1_bge": 0.644,
+   "sim_top1_e5": 0.866
+  },
+  {
+   "id": "V5-A20",
+   "type": "answerable",
+   "target": "daotao/so-tay-sinh-vien/2023/phan-1-tong-quan-ve-truong-dai-hoc-binh-duong.txt",
+   "question": "Sinh viên bị cảnh báo học tập trong những trường hợp nào, bị buộc thôi học khi n",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 2,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "phan-1-tong-quan-ve-truong-dai-hoc-binh-duong#19",
+   "top1_e5": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#27",
+   "top1_bm25": "phan-1-tong-quan-ve-truong-dai-hoc-binh-duong#19",
+   "sim_top1_bge": 0.727,
+   "sim_top1_e5": 0.869
+  },
+  {
+   "id": "V5-A22",
+   "type": "answerable",
+   "target": "bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt",
+   "question": "Điểm trúng tuyển ngành Công nghệ thông tin năm 2020 là bao nhiêu?",
+   "bm25": 3,
+   "bge-m3": 3,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 4,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "truong-dai-hoc-binh-duong-cong-bo-diem-trung-#4",
+   "top1_e5": "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#25",
+   "top1_bm25": "truong-dai-hoc-binh-duong-cong-bo-diem-trung-#4",
+   "sim_top1_bge": 0.683,
+   "sim_top1_e5": 0.865
+  },
+  {
+   "id": "V5-A23",
+   "type": "answerable",
+   "target": "daotao/thong-bao/2026/thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-thoi-hoc-chuyen-nganh-chuyen-hinh-thuc-dao-tao-va-nhap-hoc-lai-doi-voi-sinh-vien-trinh-do-dai-hoc-chinh-quy-hoc-ky-1-nam-hoc-2026-2027.txt",
+   "question": "Nộp hồ sơ nghỉ học tạm thời, thôi học, chuyển ngành, chuyển hình thức đào tạo và",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#2",
+   "top1_e5": "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#7",
+   "top1_bm25": "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#1",
+   "sim_top1_bge": 0.836,
+   "sim_top1_e5": 0.92
+  },
+  {
+   "id": "V5-B01",
+   "type": "must_refuse_no_data",
+   "target": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin.txt",
+   "question": "Chuẩn đầu ra của ngành Công nghệ thông tin trình độ đại học gồm những năng lực g",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thu#69",
+   "top1_e5": "ky-nang-ung-dung-cong-nghe-thong-tin-chia-kho#2",
+   "top1_bm25": "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#4",
+   "sim_top1_bge": 0.667,
+   "sim_top1_e5": 0.859
+  },
+  {
+   "id": "V5-B02",
+   "type": "must_refuse_no_data",
+   "target": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-duoc-hoc.txt",
+   "question": "Chuẩn đầu ra của ngành Dược học trình độ đại học quy định như thế nào?",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#19",
+   "top1_e5": "tuyen-sinh-trinh-do-dai-hoc-cho-nguoi-da-co-b#1",
+   "top1_bm25": "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#2",
+   "sim_top1_bge": 0.748,
+   "sim_top1_e5": 0.893
+  },
+  {
+   "id": "V5-B03",
+   "type": "must_refuse_no_data",
+   "target": "bdu/chuong-trinh-dao-tao/2024/nganh-cong-nghe-thong-tin.txt",
+   "question": "Chương trình đào tạo ngành Công nghệ thông tin trình độ đại học gồm những học ph",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thu#69",
+   "top1_e5": "giay-chung-nhan-kiem-dinh-chat-luong-chuong-t#1",
+   "top1_bm25": "chuc-mung-21-sinh-vien-nganh-duoc-hoc-bao-ve-#1",
+   "sim_top1_bge": 0.709,
+   "sim_top1_e5": 0.858
+  },
+  {
+   "id": "V5-B04",
+   "type": "must_refuse_no_data",
+   "target": "bdu/chuong-trinh-dao-tao/2024/nganh-cong-nghe-ky-thuat-o-to.txt",
+   "question": "Chương trình đào tạo ngành Công nghệ kỹ thuật ô tô trình độ đại học được cấu trú",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#8",
+   "top1_e5": "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#2",
+   "top1_bm25": "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#8",
+   "sim_top1_bge": 0.711,
+   "sim_top1_e5": 0.878
+  },
+  {
+   "id": "V5-B05",
+   "type": "must_refuse_no_data",
+   "target": "bdu/de-an/2024/de-an-tuyen-sinh.txt",
+   "question": "Đề án tuyển sinh năm 2024 của Trường Đại học Bình Dương quy định các phương thức",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#0",
+   "top1_e5": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#0",
+   "top1_bm25": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#11",
+   "sim_top1_bge": 0.745,
+   "sim_top1_e5": 0.894
+  },
+  {
+   "id": "V5-B06",
+   "type": "must_refuse_no_data",
+   "target": null,
+   "question": "Ký túc xá của trường ở đâu, giá bao nhiêu một tháng, đăng ký ở như thế nào?",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#28",
+   "top1_e5": "truong-dai-hoc-binh-duong-noi-kien-tao-tuong-#4",
+   "top1_bm25": "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#2930",
+   "sim_top1_bge": 0.578,
+   "sim_top1_e5": 0.846
+  },
+  {
+   "id": "V5-B07",
+   "type": "must_refuse_no_data",
+   "target": null,
+   "question": "Sinh viên có MSSV 210500XX được bao nhiêu điểm thi cuối kỳ môn Cơ sở dữ liệu?",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#3338",
+   "top1_e5": "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#4064",
+   "top1_bm25": "cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thu#223",
+   "sim_top1_bge": 0.592,
+   "sim_top1_e5": 0.833
+  },
+  {
+   "id": "V5-B08",
+   "type": "must_refuse_no_data",
+   "target": null,
+   "question": "Cho tôi thời khóa biểu chi tiết của lớp 24TH01 học kỳ 2 năm học 2026-2027, từng ",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "lich-sinh-hoat-tuan-sinh-hoat-cong-dan-sinh-v#1",
+   "top1_e5": "lich-sinh-hoat-tuan-sinh-hoat-cong-dan-sinh-v#9",
+   "top1_bm25": "thong-bao-trien-khai-hoc-phan-giao-duc-quoc-p#1",
+   "sim_top1_bge": 0.621,
+   "sim_top1_e5": 0.861
+  },
+  {
+   "id": "V5-B09",
+   "type": "must_refuse_no_data",
+   "target": null,
+   "question": "Điểm chuẩn trúng tuyển ngành Công nghệ thông tin năm 2018 là bao nhiêu?",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "truong-dai-hoc-binh-duong-cong-bo-diem-trung-#4",
+   "top1_e5": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#14",
+   "top1_bm25": "truong-dai-hoc-binh-duong-cong-bo-diem-trung-#4",
+   "sim_top1_bge": 0.645,
+   "sim_top1_e5": 0.853
+  },
+  {
+   "id": "V5-B10",
+   "type": "must_refuse_no_data",
+   "target": null,
+   "question": "Lương/thu nhập của giảng viên Trường Đại học Bình Dương là bao nhiêu một tháng?",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "truong-dai-hoc-binh-duong-thong-bao-tuyen-dun#1",
+   "top1_e5": "bdu-tuyen-dung-giang-vien-va-giao-vien-thang-#1",
+   "top1_bm25": "tuyen-dung-nhan-vien-xep-thoi-khoa-bieu-han-n#1",
+   "sim_top1_bge": 0.685,
+   "sim_top1_e5": 0.874
+  },
+  {
+   "id": "V5-B11",
+   "type": "must_refuse_no_data",
+   "target": null,
+   "question": "Trường có xe buýt đưa đón sinh viên không, lịch trình và giá vé ra sao?",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "hanh-trinh-trai-nghiem-thuc-te-cua-sinh-vien-#3",
+   "top1_e5": "quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vie#9",
+   "top1_bm25": "hanh-trinh-trai-nghiem-thuc-te-cua-sinh-vien-#3",
+   "sim_top1_bge": 0.588,
+   "sim_top1_e5": 0.842
+  },
+  {
+   "id": "V5-C01",
+   "type": "conflict_newest_first",
+   "target": "daotao/ke-hoach-thang/2026/thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+   "question": "Số tài khoản BIDV để đóng học phí của trường hiện nay là số nào?",
+   "bm25": 6,
+   "bge-m3": 4,
+   "e5-large": 2,
+   "hybrid_bm25+bge": 4,
+   "hybrid_bm25+e5": 2,
+   "hybrid_bm25+bge+e5": 2,
+   "top1_bge": "thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-2-nam-#2",
+   "top1_e5": "thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-2-nam-#2",
+   "top1_bm25": "huong-dan-tan-sinh-vien-khoa-27-dong-hoc-phi-#1",
+   "sim_top1_bge": 0.645,
+   "sim_top1_e5": 0.864
+  },
+  {
+   "id": "V5-C02",
+   "type": "answerable_recovered_v71",
+   "target": "tuyensinh/thong-bao/2026/thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-tra-lai-ket-qua-cac-thu-tuc-hanh-chinh-cho-nguoi-hoc-tai-phong-tuyen-sinh.txt",
+   "question": "Phòng Tuyển sinh tiếp nhận hồ sơ và trả kết quả thủ tục hành chính vào những ngà",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-t#1",
+   "top1_e5": "thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-t#1",
+   "top1_bm25": "thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-t#1",
+   "sim_top1_bge": 0.75,
+   "sim_top1_e5": 0.893
+  },
+  {
+   "id": "V5-C03",
+   "type": "conflict_newest_first",
+   "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+   "question": "Hiện nay điểm trúng tuyển ngành Dược học theo phương thức xét điểm thi tốt nghiệ",
+   "bm25": null,
+   "bge-m3": 6,
+   "e5-large": null,
+   "hybrid_bm25+bge": 2,
+   "hybrid_bm25+e5": 4,
+   "hybrid_bm25+bge+e5": 4,
+   "top1_bge": "tuyen-sinh-trinh-do-dai-hoc-hinh-thuc-dao-tao#1",
+   "top1_e5": "tuyen-sinh-trinh-do-dai-hoc-cho-nguoi-da-co-b#1",
+   "top1_bm25": "tra-cuu-ket-qua-trung-tuyen-theo-phuong-thuc-#0",
+   "sim_top1_bge": 0.718,
+   "sim_top1_e5": 0.882
+  },
+  {
+   "id": "V5-C04",
+   "type": "conflict_newest_first",
+   "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+   "question": "Hiện nay điểm trúng tuyển ngành Luật kinh tế theo phương thức xét điểm thi tốt n",
+   "bm25": 2,
+   "bge-m3": 3,
+   "e5-large": 10,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#3",
+   "top1_e5": "nen-chon-nganh-luat-hay-luat-kinh-te-nhung-di#1",
+   "top1_bm25": "tra-cuu-ket-qua-trung-tuyen-theo-phuong-thuc-#0",
+   "sim_top1_bge": 0.66,
+   "sim_top1_e5": 0.859
+  },
+  {
+   "id": "V5-H01",
+   "type": "answerable_handbook_v73",
+   "target": "daotao/so-tay-sinh-vien/2023/phan-5-huong-dan-dang-ky-mon-hoc.txt",
+   "question": "Đăng ký môn học trên Cổng thông tin sinh viên thì mật khẩu mặc định lần đầu là g",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "phan-5-huong-dan-dang-ky-mon-hoc.txt#1",
+   "top1_e5": "phan-5-huong-dan-dang-ky-mon-hoc.txt#1",
+   "top1_bm25": "phan-5-huong-dan-dang-ky-mon-hoc.txt#0",
+   "sim_top1_bge": 0.719,
+   "sim_top1_e5": 0.884
+  },
+  {
+   "id": "V5-H02",
+   "type": "answerable_handbook_v73",
+   "target": "daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt",
+   "question": "Điểm 8,3 hệ 10 quy đổi sang hệ 4 và điểm chữ là bao nhiêu? Điểm dưới 4,0 thì sao",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "phan-3-trich-quy-che-dao-tao-tin-chi.txt#14",
+   "top1_e5": "phan-3-trich-quy-che-dao-tao-tin-chi.txt#14",
+   "top1_bm25": "phan-3-trich-quy-che-dao-tao-tin-chi.txt#14",
+   "sim_top1_bge": 0.734,
+   "sim_top1_e5": 0.873
+  },
+  {
+   "id": "V5-H03",
+   "type": "answerable_handbook_v73",
+   "target": "daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt",
+   "question": "Mỗi học kỳ sinh viên phải đăng ký tối thiểu và tối đa bao nhiêu tín chỉ? Chương ",
+   "bm25": 4,
+   "bge-m3": 1,
+   "e5-large": 9,
+   "hybrid_bm25+bge": 2,
+   "hybrid_bm25+e5": 7,
+   "hybrid_bm25+bge+e5": 2,
+   "top1_bge": "phan-3-trich-quy-che-dao-tao-tin-chi.txt#2",
+   "top1_e5": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#8",
+   "top1_bm25": "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#11",
+   "sim_top1_bge": 0.752,
+   "sim_top1_e5": 0.882
+  },
+  {
+   "id": "V5-H04",
+   "type": "answerable_handbook_v73",
+   "target": "daotao/so-tay-sinh-vien/2023/phan-4-trich-quy-che-danh-gia-ren-luyen.txt",
+   "question": "Điểm rèn luyện tổng 72 điểm thì xếp loại gì? Bao nhiêu điểm thì Xuất sắc?",
+   "bm25": 1,
+   "bge-m3": 2,
+   "e5-large": 2,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "quyet-dinh-ban-hanh-quy-che-danh-gia-ket-qua-#14",
+   "top1_e5": "quyet-dinh-ban-hanh-quy-che-danh-gia-ket-qua-#14",
+   "top1_bm25": "phan-4-trich-quy-che-danh-gia-ren-luyen.txt#29",
+   "sim_top1_bge": 0.656,
+   "sim_top1_e5": 0.87
+  },
+  {
+   "id": "V5-H05",
+   "type": "answerable",
+   "target": "daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt",
+   "question": "Sinh viên bị kỷ luật đình chỉ thi thì bị điểm mấy ở môn đó, và trường hợp thi hộ",
+   "bm25": 3,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 2,
+   "hybrid_bm25+e5": 2,
+   "hybrid_bm25+bge+e5": 2,
+   "top1_bge": "quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-#32",
+   "top1_e5": "quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-#32",
+   "top1_bm25": "khung-xu-ly-ky-luat-sinh-vien.txt#7",
+   "sim_top1_bge": 0.765,
+   "sim_top1_e5": 0.887
+  },
+  {
+   "id": "V5-P01",
+   "type": "must_link_only_personal",
+   "target": "daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt",
+   "question": "Cho tôi danh sách sinh viên đạt kết quả sơ bộ xét tốt nghiệp đợt 1 năm 2026 hệ đ",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "ket-qua-chinh-thuc-xet-tot-nghiep-dot-1-nam-2#0",
+   "top1_e5": "ket-qua-chinh-thuc-xet-tot-nghiep-dot-1-nam-2#0",
+   "top1_bm25": "ket-qua-so-bo-xet-cap-chung-chi-giao-duc-quoc#0",
+   "sim_top1_bge": 0.67,
+   "sim_top1_e5": 0.891
+  },
+  {
+   "id": "V5-P02",
+   "type": "must_link_only_personal",
+   "target": "daotao/trang-chu/2025/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+   "question": "Cho tôi danh sách sinh viên duy trì học bổng học kỳ 1 năm học 2025-2026 tại cơ s",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-#2",
+   "top1_e5": "danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-#2",
+   "top1_bm25": "danh-sach-sinh-vien-cham-dut-duy-tri-hoc-bong#2",
+   "sim_top1_bge": 0.728,
+   "sim_top1_e5": 0.903
+  },
+  {
+   "id": "V5-P03",
+   "type": "must_link_only_personal",
+   "target": "tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy.txt",
+   "question": "Cho tôi danh sách sinh viên đủ điều kiện công nhận tốt nghiệp đợt 2 năm 2025.",
+   "bm25": null,
+   "bge-m3": null,
+   "e5-large": null,
+   "hybrid_bm25+bge": null,
+   "hybrid_bm25+e5": null,
+   "hybrid_bm25+bge+e5": null,
+   "top1_bge": "ket-qua-chinh-thuc-xet-tot-nghiep-dot-2-nam-2#5",
+   "top1_e5": "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-to#1",
+   "top1_bm25": "cong-ty-cp-san-xuat-thiet-bi-dien-cong-nghiep#5",
+   "sim_top1_bge": 0.682,
+   "sim_top1_e5": 0.885
+  },
+  {
+   "id": "V5-R01",
+   "type": "answerable",
+   "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+   "question": "Điểm trúng tuyển Khóa 29 ngành Dược học và ngành Hàn Quốc học là bao nhiêu?",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "bang-diem-trung-tuyen-k29.txt#2",
+   "top1_e5": "bang-diem-trung-tuyen-k29.txt#1",
+   "top1_bm25": "bang-diem-trung-tuyen-k29.txt#1",
+   "sim_top1_bge": 0.68,
+   "sim_top1_e5": 0.864
+  },
+  {
+   "id": "V5-S01",
+   "type": "answerable_deep_table",
+   "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+   "question": "Điểm trúng tuyển Khóa 29 ngành Dược học theo phương thức xét điểm thi tốt nghiệp",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 2,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "bang-diem-trung-tuyen-k29.txt#2",
+   "top1_e5": "tuyen-sinh-trinh-do-dai-hoc-cho-nguoi-da-co-b#1",
+   "top1_bm25": "bang-diem-trung-tuyen-k29.txt#2",
+   "sim_top1_bge": 0.708,
+   "sim_top1_e5": 0.874
+  },
+  {
+   "id": "V5-S02",
+   "type": "answerable_deep_table",
+   "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+   "question": "Điểm trúng tuyển Khóa 29 ngành Hàn Quốc học theo phương thức xét học bạ là bao n",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 2,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "bang-diem-trung-tuyen-k29.txt#1",
+   "top1_e5": "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-dai-#8",
+   "top1_bm25": "bang-diem-trung-tuyen-k29.txt#1",
+   "sim_top1_bge": 0.682,
+   "sim_top1_e5": 0.879
+  },
+  {
+   "id": "V5-S03",
+   "type": "answerable_deep_table",
+   "target": "tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt",
+   "question": "Học phí tín chỉ mức 3 của ngành Hóa dược theo thông báo tuyển sinh đại học chính",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#25",
+   "top1_e5": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#26",
+   "top1_bm25": "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#26",
+   "sim_top1_bge": 0.796,
+   "sim_top1_e5": 0.929
+  },
+  {
+   "id": "V5-S04",
+   "type": "answerable_deep_table",
+   "target": "bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt",
+   "question": "Theo Đề án tuyển sinh năm 2021, giảng viên Hồ Văn Tường có trình độ chuyên môn g",
+   "bm25": 1,
+   "bge-m3": 1,
+   "e5-large": 1,
+   "hybrid_bm25+bge": 1,
+   "hybrid_bm25+e5": 1,
+   "hybrid_bm25+bge+e5": 1,
+   "top1_bge": "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#200",
+   "top1_e5": "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#200",
+   "top1_bm25": "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#200",
+   "sim_top1_bge": 0.773,
+   "sim_top1_e5": 0.896
+  }
+ ],
+ "year_filter": [
+  {
+   "id": "V5-A01",
+   "type": "answerable",
+   "years_filter": [
+    "2026",
+    "2027"
+   ],
+   "rank_bge": 2,
+   "rank_bge_yearfilter": 2,
+   "rank_e5": 2,
+   "rank_e5_yearfilter": 2,
+   "rank_bm25": 1,
+   "rank_bm25_yearfilter": 1
+  },
+  {
+   "id": "V5-A02",
+   "type": "answerable",
+   "years_filter": [
+    "2026",
+    "2027"
+   ],
+   "rank_bge": 1,
+   "rank_bge_yearfilter": 1,
+   "rank_e5": 1,
+   "rank_e5_yearfilter": 1,
+   "rank_bm25": 1,
+   "rank_bm25_yearfilter": 1
+  },
+  {
+   "id": "V5-A07",
+   "type": "answerable",
+   "years_filter": [
+    "2026"
+   ],
+   "rank_bge": 1,
+   "rank_bge_yearfilter": 1,
+   "rank_e5": 1,
+   "rank_e5_yearfilter": 1,
+   "rank_bm25": 2,
+   "rank_bm25_yearfilter": 2
+  },
+  {
+   "id": "V5-A13",
+   "type": "answerable",
+   "years_filter": [
+    "2026"
+   ],
+   "rank_bge": 1,
+   "rank_bge_yearfilter": 1,
+   "rank_e5": 1,
+   "rank_e5_yearfilter": 1,
+   "rank_bm25": 3,
+   "rank_bm25_yearfilter": 3
+  },
+  {
+   "id": "V5-A15",
+   "type": "answerable",
+   "years_filter": [
+    "2025",
+    "2026"
+   ],
+   "rank_bge": 1,
+   "rank_bge_yearfilter": 1,
+   "rank_e5": 1,
+   "rank_e5_yearfilter": 1,
+   "rank_bm25": 1,
+   "rank_bm25_yearfilter": 1
+  },
+  {
+   "id": "V5-A16",
+   "type": "answerable",
+   "years_filter": [
+    "2026",
+    "2027"
+   ],
+   "rank_bge": 5,
+   "rank_bge_yearfilter": null,
+   "rank_e5": 8,
+   "rank_e5_yearfilter": null,
+   "rank_bm25": 4,
+   "rank_bm25_yearfilter": null
+  },
+  {
+   "id": "V5-A22",
+   "type": "answerable",
+   "years_filter": [
+    "2020"
+   ],
+   "rank_bge": 3,
+   "rank_bge_yearfilter": null,
+   "rank_e5": 1,
+   "rank_e5_yearfilter": null,
+   "rank_bm25": 3,
+   "rank_bm25_yearfilter": null
+  },
+  {
+   "id": "V5-A23",
+   "type": "answerable",
+   "years_filter": [
+    "2026",
+    "2027"
+   ],
+   "rank_bge": 1,
+   "rank_bge_yearfilter": 1,
+   "rank_e5": 1,
+   "rank_e5_yearfilter": 1,
+   "rank_bm25": 1,
+   "rank_bm25_yearfilter": 1
+  },
+  {
+   "id": "V5-C01",
+   "type": "conflict_newest_first",
+   "years_filter": [
+    "2026"
+   ],
+   "rank_bge": 4,
+   "rank_bge_yearfilter": 2,
+   "rank_e5": 2,
+   "rank_e5_yearfilter": 1,
+   "rank_bm25": 6,
+   "rank_bm25_yearfilter": 3
+  },
+  {
+   "id": "V5-C03",
+   "type": "conflict_newest_first",
+   "years_filter": [
+    "2026"
+   ],
+   "rank_bge": 6,
+   "rank_bge_yearfilter": 2,
+   "rank_e5": null,
+   "rank_e5_yearfilter": 7,
+   "rank_bm25": null,
+   "rank_bm25_yearfilter": 4
+  },
+  {
+   "id": "V5-C04",
+   "type": "conflict_newest_first",
+   "years_filter": [
+    "2026"
+   ],
+   "rank_bge": 3,
+   "rank_bge_yearfilter": 1,
+   "rank_e5": 10,
+   "rank_e5_yearfilter": 6,
+   "rank_bm25": 2,
+   "rank_bm25_yearfilter": 1
+  },
+  {
+   "id": "V5-S03",
+   "type": "answerable_deep_table",
+   "years_filter": [
+    "2026"
+   ],
+   "rank_bge": 1,
+   "rank_bge_yearfilter": 1,
+   "rank_e5": 1,
+   "rank_e5_yearfilter": 1,
+   "rank_bm25": 1,
+   "rank_bm25_yearfilter": 1
+  },
+  {
+   "id": "V5-S04",
+   "type": "answerable_deep_table",
+   "years_filter": [
+    "2021"
+   ],
+   "rank_bge": 1,
+   "rank_bge_yearfilter": 1,
+   "rank_e5": 1,
+   "rank_e5_yearfilter": 1,
+   "rank_bm25": 1,
+   "rank_bm25_yearfilter": 1
+  }
+ ],
+ "threshold": {
+  "bge-m3": {
+   "answerable_top1_cos": {
+    "n": 36,
+    "min": 0.644,
+    "p25": 0.708,
+    "median": 0.747,
+    "p75": 0.783,
+    "max": 0.851
+   },
+   "refuse_top1_cos": {
+    "n": 11,
+    "min": 0.578,
+    "p25": 0.592,
+    "median": 0.667,
+    "p75": 0.711,
+    "max": 0.748
+   }
+  },
+  "e5-large": {
+   "answerable_top1_cos": {
+    "n": 36,
+    "min": 0.854,
+    "p25": 0.873,
+    "median": 0.886,
+    "p75": 0.903,
+    "max": 0.929
+   },
+   "refuse_top1_cos": {
+    "n": 11,
+    "min": 0.833,
+    "p25": 0.846,
+    "median": 0.859,
+    "p75": 0.878,
+    "max": 0.894
+   }
+  }
+ }
+}
