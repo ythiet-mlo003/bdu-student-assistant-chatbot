@@ -1,0 +1,602 @@
+[
+ {
+  "id": "V5-A01",
+  "type": "answerable",
+  "target": "daotao/ke-hoach-thang/2026/thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+  "rank": 1,
+  "top1": "daotao/ke-hoach-thang/2026/thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+  "top3": [
+   "thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-#3",
+   "thong-bao-thoi-gian-dang-ky-hoc-phan-hoc-ky-1#7",
+   "thong-bao-thoi-gian-dang-ky-hoc-phan-hoc-ky-2#2"
+  ]
+ },
+ {
+  "id": "V5-A02",
+  "type": "answerable",
+  "target": "daotao/thong-bao/2026/thong-bao-trien-khai-hoc-phan-giao-duc-quoc-phong-va-an-ninh-4-hoc-phan-4-trong-hoc-ky-1-nam-hoc-2026-2027.txt",
+  "rank": 1,
+  "top1": "daotao/thong-bao/2026/thong-bao-trien-khai-hoc-phan-giao-duc-quoc-phong-va-an-ninh-4-hoc-phan-4-trong-hoc-ky-1-nam-hoc-2026-2027.txt",
+  "top3": [
+   "thong-bao-trien-khai-hoc-phan-giao-duc-quoc-p#1",
+   "thong-bao-trien-khai-hoc-phan-giao-duc-quoc-p#0",
+   "thong-bao-trien-khai-hoc-phan-giao-duc-quoc-p#5"
+  ]
+ },
+ {
+  "id": "V5-A03",
+  "type": "answerable",
+  "target": "bdu/groups/2026/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29.txt",
+  "rank": 1,
+  "top1": "bdu/groups/2026/bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu-tuc-nhap-hoc-cho-tan-sinh-vien-khoa-29.txt",
+  "top3": [
+   "bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu#0",
+   "bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu#0",
+   "bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu#4"
+  ]
+ },
+ {
+  "id": "V5-A04",
+  "type": "answerable",
+  "target": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to.txt",
+  "rank": 1,
+  "top1": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to.txt",
+  "top3": [
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#10",
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#16",
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#5"
+  ]
+ },
+ {
+  "id": "V5-A05",
+  "type": "answerable_regression_user_flagged",
+  "target": "tuyensinh/dai-hoc-chinh-quy/2025/huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-le-phi-nhap-hoc-bao-hiem-y-te-nam-2025.txt",
+  "rank": 1,
+  "top1": "tuyensinh/dai-hoc-chinh-quy/2025/huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-le-phi-nhap-hoc-bao-hiem-y-te-nam-2025.txt",
+  "top3": [
+   "huong-dan-tan-sinh-vien-khoa-28-dong-hoc-phi-#4",
+   "huong-dan-tan-sinh-vien-khoa-27-dong-hoc-phi-#1",
+   "huong-dan-tan-sinh-vien-khoa-27-dong-hoc-phi-#2"
+  ]
+ },
+ {
+  "id": "V5-A06",
+  "type": "answerable_regression_user_flagged",
+  "target": "bdu/ve-chung-toi/2015/lich-su-hinh-thanh-va-phat-trien.txt",
+  "rank": 1,
+  "top1": "bdu/ve-chung-toi/2015/lich-su-hinh-thanh-va-phat-trien.txt",
+  "top3": [
+   "lich-su-hinh-thanh-va-phat-trien.txt#0",
+   "gioi-thieu-sach-xay-dung-nen-giao-duc-mo.txt#692",
+   "cuoc-thi-tim-hieu-lich-su-tinh-binh-duong-va-#5"
+  ]
+ },
+ {
+  "id": "V5-A07",
+  "type": "answerable",
+  "target": "tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt",
+  "rank": 2,
+  "top1": "tuyensinh/trang-chu/2026/tuyen-sinh-trinh-do-dai-hoc-hinh-thuc-dao-tao-vua-lam-vua-hoc-dot-2-nam-2026.txt",
+  "top3": [
+   "tuyen-sinh-trinh-do-dai-hoc-hinh-thuc-dao-tao#24",
+   "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#22",
+   "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#25"
+  ]
+ },
+ {
+  "id": "V5-A08",
+  "type": "answerable",
+  "target": "tuyensinh/groups/2024/chinh-sach-hoc-bong-cho-tan-sinh-vien-trung-tuyen-he-dai-hoc-chinh-quy-nam-2024-hoc-tai-binh-duong.txt",
+  "rank": 3,
+  "top1": "daotao/hoc-bong/2021/quyet-dinh-ban-hanh-muc-uu-dai-hoc-phi-danh-cho-sinh-vien-he-dai-hoc-chinh-quy-la-anh-chi-em-ruot-hoc-cung-truong-dhbd.txt",
+  "top3": [
+   "quyet-dinh-ban-hanh-muc-uu-dai-hoc-phi-danh-c#1",
+   "quyet-dinh-ban-hanh-muc-uu-dai-hoc-phi-danh-c#0",
+   "chinh-sach-hoc-bong-cho-tan-sinh-vien-trung-t#3"
+  ]
+ },
+ {
+  "id": "V5-A09",
+  "type": "answerable",
+  "target": "daotao/trang-chu/2026/thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-sinh-vien-khoa-29-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+  "rank": 1,
+  "top1": "daotao/trang-chu/2026/thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-sinh-vien-khoa-29-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+  "top3": [
+   "thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-si#1",
+   "thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-si#4",
+   "thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-si#5"
+  ]
+ },
+ {
+  "id": "V5-A10",
+  "type": "answerable",
+  "target": "tuyensinh/groups/2025/chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chinh-quy-khoa-28-trung-tuyen-nam-2025.txt",
+  "rank": 1,
+  "top1": "tuyensinh/groups/2025/chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chinh-quy-khoa-28-trung-tuyen-nam-2025.txt",
+  "top3": [
+   "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chin#6",
+   "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chin#9",
+   "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-chin#8"
+  ]
+ },
+ {
+  "id": "V5-A11",
+  "type": "answerable",
+  "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "rank": 10,
+  "top1": "tuyensinh/tin-huong-nghiep/2026/nen-chon-nganh-luat-hay-luat-kinh-te-nhung-dieu-2k8-can-biet-truoc-khi-dang-ky-xet-tuyen.txt",
+  "top3": [
+   "nen-chon-nganh-luat-hay-luat-kinh-te-nhung-di#2",
+   "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#66",
+   "thong-bao-tuyen-sinh-di-hoc-tai-ma-roc-nam-20#1"
+  ]
+ },
+ {
+  "id": "V5-A12",
+  "type": "answerable",
+  "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "rank": 2,
+  "top1": "tuyensinh/lien-thong/2025/thong-bao-tuyen-sinh-lien-thong-tu-tccn-cao-dang-len-dai-hoc-nam-2025.txt",
+  "top3": [
+   "thong-bao-tuyen-sinh-lien-thong-tu-tccn-cao-d#1",
+   "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#26",
+   "phan-3-trich-quy-che-dao-tao-tin-chi.txt#15"
+  ]
+ },
+ {
+  "id": "V5-A13",
+  "type": "answerable",
+  "target": "daotao/tot-nghiep/2026/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-tot-nghiep-dot-2-nam-2026.txt",
+  "rank": 3,
+  "top1": "daotao/tot-nghiep/2026/thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-3-nam-2026.txt",
+  "top3": [
+   "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-ca#2",
+   "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-ca#2",
+   "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-to#2"
+  ]
+ },
+ {
+  "id": "V5-A14",
+  "type": "answerable",
+  "target": "daotao/sinh-vien/2024/quyet-dinh-ban-hanh-quy-dinh-chuan-dau-vao-chuan-dau-ra-trinh-do-ngoai-ngu-tai-truong-dai-hoc-binh-duong.txt",
+  "rank": 2,
+  "top1": "tuyensinh/tin-tuc-tuyen-sinh/2026/bdu-tuyen-sinh-trinh-do-thac-si-dot-3-nam-2026.txt",
+  "top3": [
+   "bdu-tuyen-sinh-trinh-do-thac-si-dot-3-nam-202#4",
+   "quyet-dinh-ban-hanh-quy-dinh-chuan-dau-vao-ch#20",
+   "quyet-dinh-ban-hanh-quy-dinh-chuan-dau-vao-ch#25"
+  ]
+ },
+ {
+  "id": "V5-A15",
+  "type": "answerable",
+  "target": "daotao/ke-hoach-thang/2025/thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-nam-hoc-2025-2026-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+  "rank": 1,
+  "top1": "daotao/ke-hoach-thang/2025/thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-nam-hoc-2025-2026-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+  "top3": [
+   "thong-bao-thoi-gian-dang-ky-mon-hoc-hoc-ky-2-#8",
+   "thong-bao-thoi-gian-dang-ky-mon-hoc-hk1-nam-h#4",
+   "thong-bao-thoi-gian-dang-ky-hoc-phan-hoc-ky-2#8"
+  ]
+ },
+ {
+  "id": "V5-A16",
+  "type": "answerable",
+  "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "rank": 4,
+  "top1": "daotao/thong-bao/2026/thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-thoi-hoc-chuyen-nganh-chuyen-hinh-thuc-dao-tao-va-nhap-hoc-lai-doi-voi-sinh-vien-trinh-do-dai-hoc-chinh-quy-hoc-ky-1-nam-hoc-2026-2027.txt",
+  "top3": [
+   "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#1",
+   "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#4",
+   "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#6"
+  ]
+ },
+ {
+  "id": "V5-A17",
+  "type": "answerable",
+  "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "rank": 1,
+  "top1": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "top3": [
+   "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#35",
+   "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#28",
+   "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#36"
+  ]
+ },
+ {
+  "id": "V5-A18",
+  "type": "answerable",
+  "target": "daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt",
+  "rank": 1,
+  "top1": "daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt",
+  "top3": [
+   "quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-#28",
+   "phan-1-tong-quan-ve-truong-dai-hoc-binh-duong#28",
+   "quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-#29"
+  ]
+ },
+ {
+  "id": "V5-A19",
+  "type": "answerable",
+  "target": "daotao/trang-chu/2021/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi-khoa-tuyen-sinh-sau-ngay-03-5-2021-tro-ve-sau.txt",
+  "rank": null,
+  "top1": "tuyensinh/thong-tin-xet-tot-nghiep/2024/thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot-nghiep-dot-2-nam-2024.txt",
+  "top3": [
+   "thoi-gian-to-chuc-nhan-ho-so-xet-cap-bang-tot#2",
+   "thong-bao-nhan-bang-tot-nghiep-cao-dang-trinh#1",
+   "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-ca#2"
+  ]
+ },
+ {
+  "id": "V5-A20",
+  "type": "answerable",
+  "target": "daotao/so-tay-sinh-vien/2023/phan-1-tong-quan-ve-truong-dai-hoc-binh-duong.txt",
+  "rank": 1,
+  "top1": "daotao/so-tay-sinh-vien/2023/phan-1-tong-quan-ve-truong-dai-hoc-binh-duong.txt",
+  "top3": [
+   "phan-1-tong-quan-ve-truong-dai-hoc-binh-duong#19",
+   "phan-4-trich-quy-che-danh-gia-ren-luyen.txt#30",
+   "quy-che-danh-gia-ket-qua-ren-luyen-sinh-vien-#10"
+  ]
+ },
+ {
+  "id": "V5-A22",
+  "type": "answerable",
+  "target": "bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt",
+  "rank": 3,
+  "top1": "tuyensinh/dai-hoc-chinh-quy/2023/truong-dai-hoc-binh-duong-cong-bo-diem-trung-tuyen-nam-2023.txt",
+  "top3": [
+   "truong-dai-hoc-binh-duong-cong-bo-diem-trung-#4",
+   "truong-dai-hoc-binh-duong-cong-bo-diem-trung-#3",
+   "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#23"
+  ]
+ },
+ {
+  "id": "V5-A23",
+  "type": "answerable",
+  "target": "daotao/thong-bao/2026/thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-thoi-hoc-chuyen-nganh-chuyen-hinh-thuc-dao-tao-va-nhap-hoc-lai-doi-voi-sinh-vien-trinh-do-dai-hoc-chinh-quy-hoc-ky-1-nam-hoc-2026-2027.txt",
+  "rank": 1,
+  "top1": "daotao/thong-bao/2026/thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-thoi-hoc-chuyen-nganh-chuyen-hinh-thuc-dao-tao-va-nhap-hoc-lai-doi-voi-sinh-vien-trinh-do-dai-hoc-chinh-quy-hoc-ky-1-nam-hoc-2026-2027.txt",
+  "top3": [
+   "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#1",
+   "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#7",
+   "thong-bao-tiep-nhan-ho-so-nghi-hoc-tam-thoi-t#4"
+  ]
+ },
+ {
+  "id": "V5-B01",
+  "type": "must_refuse_no_data",
+  "target": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin.txt",
+  "rank": null,
+  "top1": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to.txt",
+  "top3": [
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#4",
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#6",
+   "tan-sinh-vien-k29-nganh-cong-nghe-thuc-pham-t#3"
+  ]
+ },
+ {
+  "id": "V5-B02",
+  "type": "must_refuse_no_data",
+  "target": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-duoc-hoc.txt",
+  "rank": null,
+  "top1": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to.txt",
+  "top3": [
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#2",
+   "quyet-dinh-ban-hanh-quy-dinh-chuan-dau-vao-ch#18",
+   "de-an-mo-nganh-hoa-duoc-trinh-do-dai-hoc.txt#0"
+  ]
+ },
+ {
+  "id": "V5-B03",
+  "type": "must_refuse_no_data",
+  "target": "bdu/chuong-trinh-dao-tao/2024/nganh-cong-nghe-thong-tin.txt",
+  "rank": null,
+  "top1": "bdu/thong-bao/2024/chuc-mung-21-sinh-vien-nganh-duoc-hoc-bao-ve-thanh-cong-khoa-luan-tot-nghiep.txt",
+  "top3": [
+   "chuc-mung-21-sinh-vien-nganh-duoc-hoc-bao-ve-#1",
+   "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#1779",
+   "goc-nhin-tu-nguoi-xay-dung-chuong-trinh-dao-t#3"
+  ]
+ },
+ {
+  "id": "V5-B04",
+  "type": "must_refuse_no_data",
+  "target": "bdu/chuong-trinh-dao-tao/2024/nganh-cong-nghe-ky-thuat-o-to.txt",
+  "rank": null,
+  "top1": "bdu/chuan-dau-ra/2024/chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong-nghe-ky-thuat-o-to.txt",
+  "top3": [
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#8",
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#0",
+   "chuan-dau-ra-ctdt-trinh-do-dai-hoc-nganh-cong#3"
+  ]
+ },
+ {
+  "id": "V5-B05",
+  "type": "must_refuse_no_data",
+  "target": "bdu/de-an/2024/de-an-tuyen-sinh.txt",
+  "rank": null,
+  "top1": "tuyensinh/groups/2024/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2024.txt",
+  "top3": [
+   "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#11",
+   "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#0",
+   "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#122"
+  ]
+ },
+ {
+  "id": "V5-B06",
+  "type": "must_refuse_no_data",
+  "target": null,
+  "rank": null,
+  "top1": "bdu/bao-cao-tu-danh-gia/2025/bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025.txt",
+  "top3": [
+   "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#2930",
+   "bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu#3",
+   "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#1280"
+  ]
+ },
+ {
+  "id": "V5-B07",
+  "type": "must_refuse_no_data",
+  "target": null,
+  "rank": null,
+  "top1": "bdu/3-cong-khai/2024/cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thuc-hien-cong-khai-nam-2024-2025.txt",
+  "top3": [
+   "cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thu#223",
+   "cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thu#217",
+   "cong-khai-tt36-nam-hoc-2023-2024-ke-hoach-thu#229"
+  ]
+ },
+ {
+  "id": "V5-B08",
+  "type": "must_refuse_no_data",
+  "target": null,
+  "rank": null,
+  "top1": "daotao/thong-bao/2026/thong-bao-trien-khai-hoc-phan-giao-duc-quoc-phong-va-an-ninh-4-hoc-phan-4-trong-hoc-ky-1-nam-hoc-2026-2027.txt",
+  "top3": [
+   "thong-bao-trien-khai-hoc-phan-giao-duc-quoc-p#1",
+   "thong-bao-thoi-gian-dang-ky-hoc-phan-hoc-ky-2#8",
+   "thong-bao-thoi-gian-nop-ho-so-xet-duy-tri-hoc#4"
+  ]
+ },
+ {
+  "id": "V5-B09",
+  "type": "must_refuse_no_data",
+  "target": null,
+  "rank": null,
+  "top1": "tuyensinh/dai-hoc-chinh-quy/2023/truong-dai-hoc-binh-duong-cong-bo-diem-trung-tuyen-nam-2023.txt",
+  "top3": [
+   "truong-dai-hoc-binh-duong-cong-bo-diem-trung-#4",
+   "truong-dai-hoc-binh-duong-cong-bo-diem-trung-#3",
+   "bang-diem-trung-tuyen-k29.txt#4"
+  ]
+ },
+ {
+  "id": "V5-B10",
+  "type": "must_refuse_no_data",
+  "target": null,
+  "rank": null,
+  "top1": "bdu/tuyen-dung-can-bo-nhan-vien/2023/tuyen-dung-nhan-vien-xep-thoi-khoa-bieu-han-nop-ho-so-13-01-2023.txt",
+  "top3": [
+   "tuyen-dung-nhan-vien-xep-thoi-khoa-bieu-han-n#1",
+   "thong-bao-tuyen-dung-giang-vien-co-huu-tieng-#1",
+   "tuyen-dung-nhan-vien-giao-vu-thanh-toan-han-n#1"
+  ]
+ },
+ {
+  "id": "V5-B11",
+  "type": "must_refuse_no_data",
+  "target": null,
+  "rank": null,
+  "top1": "bdu/groups/2026/hanh-trinh-trai-nghiem-thuc-te-cua-sinh-vien-khoa-ngoai-ngu-tai-lien-doanh-becamex-tokyu-thau-hieu-chien-luoc-dia-phuong-hoa.txt",
+  "top3": [
+   "hanh-trinh-trai-nghiem-thuc-te-cua-sinh-vien-#3",
+   "thong-bao-thuc-hien-cac-bien-phap-phong-chong#0",
+   "khung-xu-ly-ky-luat-sinh-vien.txt#38"
+  ]
+ },
+ {
+  "id": "V5-C01",
+  "type": "conflict_newest_first",
+  "target": "daotao/ke-hoach-thang/2026/thong-bao-thoi-gian-nop-hoc-phi-hoc-ky-1-nam-hoc-2026-2027-trinh-do-dao-tao-dai-hoc-hinh-thuc-dao-tao-chinh-quy.txt",
+  "rank": 6,
+  "top1": "tuyensinh/groups/2024/huong-dan-tan-sinh-vien-khoa-27-dong-hoc-phi-le-phi-nhap-hoc-bao-hiem-y-te.txt",
+  "top3": [
+   "huong-dan-tan-sinh-vien-khoa-27-dong-hoc-phi-#1",
+   "bdu-cong-bo-diem-trung-tuyen-va-huong-dan-thu#2",
+   "bdu-huong-dan-7-buoc-nhap-hoc-don-gian-de-tro#1"
+  ]
+ },
+ {
+  "id": "V5-C02",
+  "type": "answerable_recovered_v71",
+  "target": "tuyensinh/thong-bao/2026/thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-tra-lai-ket-qua-cac-thu-tuc-hanh-chinh-cho-nguoi-hoc-tai-phong-tuyen-sinh.txt",
+  "rank": 1,
+  "top1": "tuyensinh/thong-bao/2026/thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-tra-lai-ket-qua-cac-thu-tuc-hanh-chinh-cho-nguoi-hoc-tai-phong-tuyen-sinh.txt",
+  "top3": [
+   "thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-t#1",
+   "thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-t#2",
+   "thong-bao-dieu-chinh-thoi-gian-tiep-nhan-va-t#0"
+  ]
+ },
+ {
+  "id": "V5-C03",
+  "type": "conflict_newest_first",
+  "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "rank": null,
+  "top1": "bdu/thong-bao/2021/tra-cuu-ket-qua-trung-tuyen-theo-phuong-thuc-xet-diem-thi-tot-nghiep-thpt-2021.txt",
+  "top3": [
+   "tra-cuu-ket-qua-trung-tuyen-theo-phuong-thuc-#0",
+   "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#1553",
+   "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#240"
+  ]
+ },
+ {
+  "id": "V5-C04",
+  "type": "conflict_newest_first",
+  "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "rank": 2,
+  "top1": "bdu/thong-bao/2021/tra-cuu-ket-qua-trung-tuyen-theo-phuong-thuc-xet-diem-thi-tot-nghiep-thpt-2021.txt",
+  "top3": [
+   "tra-cuu-ket-qua-trung-tuyen-theo-phuong-thuc-#0",
+   "bang-diem-trung-tuyen-k29.txt#3",
+   "bao-cao-tu-danh-gia-chuong-trinh-dao-tao-2025#240"
+  ]
+ },
+ {
+  "id": "V5-H01",
+  "type": "answerable_handbook_v73",
+  "target": "daotao/so-tay-sinh-vien/2023/phan-5-huong-dan-dang-ky-mon-hoc.txt",
+  "rank": 1,
+  "top1": "daotao/so-tay-sinh-vien/2023/phan-5-huong-dan-dang-ky-mon-hoc.txt",
+  "top3": [
+   "phan-5-huong-dan-dang-ky-mon-hoc.txt#0",
+   "phan-5-huong-dan-dang-ky-mon-hoc.txt#1",
+   "huong-dan-2k4-cach-dang-ky-nguyen-vong-xet-tu#1"
+  ]
+ },
+ {
+  "id": "V5-H02",
+  "type": "answerable_handbook_v73",
+  "target": "daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt",
+  "rank": 1,
+  "top1": "daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt",
+  "top3": [
+   "phan-3-trich-quy-che-dao-tao-tin-chi.txt#14",
+   "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#26",
+   "phan-3-trich-quy-che-dao-tao-tin-chi.txt#8"
+  ]
+ },
+ {
+  "id": "V5-H03",
+  "type": "answerable_handbook_v73",
+  "target": "daotao/so-tay-sinh-vien/2023/phan-3-trich-quy-che-dao-tao-tin-chi.txt",
+  "rank": 4,
+  "top1": "daotao/trang-chu/2014/quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi.txt",
+  "top3": [
+   "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#11",
+   "thong-bao-thoi-gian-dang-ky-mon-hoc-hk1-nam-h#1",
+   "quy-che-dao-tao-trinh-do-dai-hoc-theo-tin-chi#13"
+  ]
+ },
+ {
+  "id": "V5-H04",
+  "type": "answerable_handbook_v73",
+  "target": "daotao/so-tay-sinh-vien/2023/phan-4-trich-quy-che-danh-gia-ren-luyen.txt",
+  "rank": 1,
+  "top1": "daotao/so-tay-sinh-vien/2023/phan-4-trich-quy-che-danh-gia-ren-luyen.txt",
+  "top3": [
+   "phan-4-trich-quy-che-danh-gia-ren-luyen.txt#29",
+   "quy-che-danh-gia-ket-qua-ren-luyen-sinh-vien-#10",
+   "quy-che-danh-gia-ket-qua-ren-luyen-sinh-vien-#9"
+  ]
+ },
+ {
+  "id": "V5-H05",
+  "type": "answerable",
+  "target": "daotao/sinh-vien/2024/quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-ket-thuc-hoc-phan-trinh-do-dai-hoc-sau-dai-hoc.txt",
+  "rank": 3,
+  "top1": "daotao/sinh-vien/2024/khung-xu-ly-ky-luat-sinh-vien.txt",
+  "top3": [
+   "khung-xu-ly-ky-luat-sinh-vien.txt#7",
+   "khung-xu-ly-ky-luat-sinh-vien.txt#9",
+   "quy-dinh-ve-cong-tac-to-chuc-thi-va-cham-thi-#33"
+  ]
+ },
+ {
+  "id": "V5-P01",
+  "type": "must_link_only_personal",
+  "target": "daotao/thong-tin-xet-tot-nghiep/2026/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-1-nam-2026-dai-hoc-chinh-quy.txt",
+  "rank": null,
+  "top1": "daotao/trang-chu/2026/ket-qua-so-bo-xet-cap-chung-chi-giao-duc-quoc-phong-va-an-ninh-nam-dot-4-nam-2026.txt",
+  "top3": [
+   "ket-qua-so-bo-xet-cap-chung-chi-giao-duc-quoc#0",
+   "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-ca#1",
+   "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-to#3"
+  ]
+ },
+ {
+  "id": "V5-P02",
+  "type": "must_link_only_personal",
+  "target": "daotao/trang-chu/2025/thong-bao-danh-sach-sinh-vien-duy-tri-hoc-bong-hoc-ky-1-nam-hoc-2025-2026-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+  "rank": null,
+  "top1": "daotao/trang-chu/2026/danh-sach-sinh-vien-cham-dut-duy-tri-hoc-bong-khoa-28-ke-tu-hoc-ky-1-nam-hoc-2026-2027-tai-truong-dai-hoc-binh-duong-co-so-chinh.txt",
+  "top3": [
+   "danh-sach-sinh-vien-cham-dut-duy-tri-hoc-bong#2",
+   "danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-#2",
+   "danh-sach-sinh-vien-khoa-27-khoa-28-duoc-duy-#3"
+  ]
+ },
+ {
+  "id": "V5-P03",
+  "type": "must_link_only_personal",
+  "target": "tuyensinh/thong-tin-xet-tot-nghiep/2025/thong-bao-ket-qua-so-bo-xet-tot-nghiep-dot-2-nam-2025-dai-hoc-chinh-quy.txt",
+  "rank": null,
+  "top1": "bdu/tuyen-dung/2021/cong-ty-cp-san-xuat-thiet-bi-dien-cong-nghiep-cat-van-loi-tuyen-dung-sinh-vien-thuc-tap.txt",
+  "top3": [
+   "cong-ty-cp-san-xuat-thiet-bi-dien-cong-nghiep#5",
+   "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-to#1",
+   "thong-bao-thoi-gian-to-chuc-nhan-ho-so-xet-to#4"
+  ]
+ },
+ {
+  "id": "V5-R01",
+  "type": "answerable",
+  "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "rank": 1,
+  "top1": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "top3": [
+   "bang-diem-trung-tuyen-k29.txt#1",
+   "chinh-sach-hoc-bong-doi-voi-sinh-vien-he-dai-#13",
+   "bang-diem-trung-tuyen-k29.txt#2"
+  ]
+ },
+ {
+  "id": "V5-S01",
+  "type": "answerable_deep_table",
+  "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "rank": 1,
+  "top1": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "top3": [
+   "bang-diem-trung-tuyen-k29.txt#2",
+   "tra-cuu-ket-qua-trung-tuyen-theo-phuong-thuc-#0",
+   "bang-diem-trung-tuyen-k29.txt#3"
+  ]
+ },
+ {
+  "id": "V5-S02",
+  "type": "answerable_deep_table",
+  "target": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "rank": 1,
+  "top1": "bdu/groups/2026/bang-diem-trung-tuyen-k29.txt",
+  "top3": [
+   "bang-diem-trung-tuyen-k29.txt#1",
+   "bang-diem-trung-tuyen-k29.txt#3",
+   "thong-bao-tiep-nhan-ho-so-xet-hoc-bong-tan-si#6"
+  ]
+ },
+ {
+  "id": "V5-S03",
+  "type": "answerable_deep_table",
+  "target": "tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt",
+  "rank": 1,
+  "top1": "tuyensinh/trang-chu/2026/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.txt",
+  "top3": [
+   "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#26",
+   "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#25",
+   "thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-20#23"
+  ]
+ },
+ {
+  "id": "V5-S04",
+  "type": "answerable_deep_table",
+  "target": "bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt",
+  "rank": 1,
+  "top1": "bdu/thong-bao/2021/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.txt",
+  "top3": [
+   "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#200",
+   "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#216",
+   "de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2021.tx#164"
+  ]
+ }
+]

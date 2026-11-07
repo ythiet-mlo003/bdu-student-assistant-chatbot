@@ -5,6 +5,12 @@ Quy tắc ghi nhật ký, theo yêu cầu ngày 05/11/2026: mỗi chi tiết ch�
 như lịch sử commit trên GitHub. Bản cũ không xóa, chỉ thêm mục mới lên đầu.
 Sau này khi kết nối GitHub, mỗi mục ở đây tương ứng với một commit.
 
+## 2026-11-07 13:50 — GitHub: đẩy kết quả bước 3–7 (eval v5, embedding, truy xuất vector, pipeline RAG)
+- File đổi: thêm 6 thư mục mới — `chunks-v7.3.2-filtered/` (lọc chunk: thống kê, script lọc, danh sách loại, file link-only; file chunk đã lọc đầy đủ 23 MB chỉ giữ trong Drive), `eval-set-v5/` (bộ 50 câu hỏi, script và kết quả mốc BM25, bản mô tả dạng Markdown), `eval-vector-v5/` + `cham-vector-v5/` (script chấm truy xuất vector bước 5, kết quả, báo cáo dạng Markdown), `embedding-colab-v7.3.2-filtered/` (notebook Colab bước 4), `rag-pipeline-minimal/` (pipeline RAG bước 6–7: code, kết quả chạy khô và chạy thật 50 câu, bản chấm điểm, báo cáo dạng Markdown); cập nhật `README.md` thêm mục tiến độ pipeline.
+- Nội dung: bước 3–7 đã làm xong ngày 06–07/11/2026. Kết quả chính: hybrid BM25 + bge-m3 đạt 27/36 hạng 1, 36/36 top 10, MRR 0,827 (bước 5); đánh giá end-to-end 50 câu bằng gemini-3.5-flash-lite đạt 36/50 đúng (72%), điểm yếu nhất là nhóm câu phải từ chối chỉ đúng 4/11.
+- Riêng tư: MSSV trong câu hỏi đánh giá (21050080) đã thay bằng 210500XX trong mọi file đẩy lên repo; 3 file Word chuyển sang Markdown đã ẩn tên sinh viên và giảng viên hướng dẫn. File vector `.npz` (66 MB mỗi file), file chunk đầy đủ, file Word gốc và file zip không đẩy lên GitHub, giữ trong backup Drive.
+- Kiểm chứng: toàn bộ file đã đẩy rà soát 0 tên/MSSV còn sót; số liệu trong bản Markdown khớp bản Word gốc.
+
 ## 2026-11-06 14:32 — GitHub: gỡ gói cũ v7.3.1 khỏi repo, chỉ giữ bản mới nhất
 - File đổi: xóa toàn bộ thư mục `goi-chia-chunk-v7.3.1/` (15 file, 200.590 byte) khỏi repo; thêm `ingest-manifest-v7.3.1.txt` vào gói v7.3.2 (commit `d02e77eb`) vì script v7.3.2 cần file này để chạy; cập nhật `README.md` bỏ các chỗ nhắc gói cũ.
 - Nội dung: theo yêu cầu của người dùng, trên git chỉ giữ các file chính mới nhất để clone về chạy và làm việc; file cũ chỉ giữ trong backup Drive (`goi-chia-chunk-v7.3.1.zip` 9.736.224 byte), không mất.
